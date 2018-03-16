@@ -40,15 +40,24 @@ ff_data_extract <- function(file){
 
   # change dates to dates  ---  2018-03-16 16:55:16  -----
   data_tall <- data_tall %>%
-    mutate(date = ifelse(nchar(date)==4
-                         , lubridate::as_date(paste0(date,"1231"), format= "%Y%m%d")
-                         , ifelse(nchar(date==6)
-                                  , lubridate::as_date(paste0(date,"01"), format="%Y%m%d") + lubridate::as.difftime(lubridate::days_in_month(lubridate::as_date(paste0(date,"01"), format="%Y%m%d"))-1,units = "days")
-                                  , lubridate::as_date(date, format="%Y%m%d")
-                                  )
-                         )
+    mutate(year = stringr::str_sub(date,1,4)
+           , month = stringr::str_sub(date,5,6)
+           , day = stringr::str_sub(date,7,8)
            ) %>%
-    mutate(date = as_date(date))
+    mutate(date = ifelse(month=="", sprintf("%s-12-31",year), date)) %>%
+    mutate(date = ifelse(day=="", sprintf("%s-%s-%s",year,month,as.character(lubridate::days_in_month(as.Date(date,format="%Y%m%d")))),date)) %>%
+    mutate(date = as.Date(date, format = "%Y%m%d")) %>%
+    select(-date,-month,-day)
+
+  # mutate(date = ifelse(nchar(date)==4
+  #                        , lubridate::as_date(paste0(date,"1231"), format= "%Y%m%d")
+  #                        , ifelse(nchar(date==6)
+  #                                 , lubridate::as_date(paste0(date,"01"), format="%Y%m%d") + lubridate::as.difftime(lubridate::days_in_month(lubridate::as_date(paste0(date,"01"), format="%Y%m%d"))-1,units = "days")
+  #                                 , lubridate::as_date(date, format="%Y%m%d")
+  #                                 )
+  #                        )
+  #          ) %>%
+  #   mutate(date = as_date(date))
 
   # guess frequency  ---  2018-03-16 17:10:18  -----
   data_tall <- data_tall %>%
