@@ -4,15 +4,15 @@
 \alias{ff_tidy_data}
 \title{Fama-French data download}
 \usage{
-ff_tidy_data(file_name, all_subsets = FALSE)
+ff_tidy_data(file_names, all_subsets = FALSE)
 }
 \arguments{
-\item{file_name}{name of FF zip file}
+\item{file_names}{names of FF zip files, character vector}
 
 \item{all_subsets}{logical, if TRUE, returns all data subdivisions from file, if FALSE, only the first table (i.e. until first line-break after data)}
 }
 \value{
-*tidy* \code{data.frame} with return data. Columns date_start, date_end are of type \code{Date}, columns series_name, series_type, data_type are \code{character}; column value is \code{numeric}.
+*tidy* \code{data.frame} with return data. Column date is of type \code{Date}, columns series_name, series_type, data_type, frequency are \code{character}; column value is \code{numeric}.
 }
 \description{
 Downloads data from \url{http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html}, cleans, returns nice form.
