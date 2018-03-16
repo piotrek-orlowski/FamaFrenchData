@@ -47,7 +47,7 @@ ff_data_extract <- function(file){
     mutate(date = ifelse(month=="", sprintf("%s-12-31",year), date)) %>%
     mutate(date = ifelse(day=="", sprintf("%s-%s-%s",year,month,as.character(lubridate::days_in_month(as.Date(date,format="%Y%m%d")))),date)) %>%
     mutate(date = as.Date(date, format = "%Y%m%d")) %>%
-    select(-date,-month,-day)
+    select(-year,-month,-day)
 
   # mutate(date = ifelse(nchar(date)==4
   #                        , lubridate::as_date(paste0(date,"1231"), format= "%Y%m%d")
