@@ -4,7 +4,7 @@ Title: Download FF factor/portfolio data
 Version: 0.1.0
 Authors@R: person("Piotr","Orłowski", email = "piotrek.orlowski@gmail.com", role = c("aut","cre"))
 Description: Not only downloads, but also spits out in a tidy format.
-License: GPL
+License: GNU General Public License v3.0
 Encoding: UTF-8
 LazyData: true
 Imports: 
