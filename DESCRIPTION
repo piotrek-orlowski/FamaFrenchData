@@ -2,11 +2,14 @@ Package: FamaFrenchData
 Type: Package
 Title: Download FF factor/portfolio data
 Version: 0.1.0
-Author: Piotr Orłowski
-Maintainer: piotr.orlowski@hec.ca
+Authors@R: person("Piotr","Orłowski", email = "piotrek.orlowski@gmail.com", role = c("aut","cre"))
 Description: Not only downloads, but also spits out in a tidy format.
 License: GPL
 Encoding: UTF-8
 LazyData: true
-Imports: httr, RCurl
+Imports: 
+  stringr
+Depends:
+  dplyr,
+  lubridate
 RoxygenNote: 6.0.1
