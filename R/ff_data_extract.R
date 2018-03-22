@@ -45,8 +45,8 @@ ff_data_extract <- function(file){
            , day = stringr::str_sub(date,7,8)
            ) %>%
     mutate(date = ifelse(month=="", sprintf("%s-12-31",year), date)) %>%
-    mutate(date = ifelse(day=="", sprintf("%s-%s-%s",year,month,as.character(lubridate::days_in_month(as.Date(date,format="%Y%m%d")))),date)) %>%
-    mutate(date = as.Date(date, format = "%Y%m%d")) %>%
+    mutate(date = ifelse(day=="", sprintf("%s-%s-%s",year,month,as.character(lubridate::days_in_month(as.Date(sprintf("%s-%s-%s",year,month,"01"))))),as.Date(date, format = "%Y%m%d"))) %>%
+    mutate(date = as.Date(date)) %>%
     select(-year,-month,-day)
 
   # mutate(date = ifelse(nchar(date)==4
@@ -117,6 +117,14 @@ ff_data_extract <- function(file){
   # if data_type na and we're dealing with factors  ---  2018-03-16 17:44:52  -----
   data_tall <- data_tall %>%
     mutate(data_type = ifelse(data_type == "na" & series_type=="factor","value_weighted_excess_return",data_type))
+
+  # add source filename  ---  2018-03-22 18:41:16  -----
+  file_temp <- gsub("\\\\[^\\\\]*$","",file)
+  file <- gsub(file_temp,"",file,fixed = "TRUE")
+  file <- gsub("\\","",file,fixed = "TRUE")
+
+  data_tall <- data_tall %>%
+    mutate(source_file = file)
 
   return(data_tall)
 }
