@@ -44,7 +44,7 @@ ff_data_extract <- function(file){
            , month = stringr::str_sub(date,5,6)
            , day = stringr::str_sub(date,7,8)
            ) %>%
-    mutate(date = ifelse(month=="", sprintf("%s1231",year), date)) %>%
+    mutate(date = ifelse(month=="", sprintf("%s1231",year), date), month = ifelse(month=="","12",month)) %>%
     mutate(date = ifelse(day=="", sprintf("%s%s%s",year,month,as.character(lubridate::days_in_month(as.Date(sprintf("%s-%s-%s",year,month,"01"))))),date)) %>%
     mutate(date = as.Date(date,"%Y%m%d")) %>%
     select(-year,-month,-day)
@@ -141,7 +141,7 @@ recursive_csv_read <- function(conn){
     temp_data <- tryCatch(read.csv(file = textConnection(conn), skip = n_skip, sep = ","), error = function(e) NA_real_)
 
     if(!is.na(temp_data)){
-      if(nrow(temp_data) <= max_nrow){
+      if((nrow(temp_data) <= max_nrow) & (ncol(temp_data) > 1)){
         is_error <- FALSE
       } else {
         n_skip <- n_skip + 1
