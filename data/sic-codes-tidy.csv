@@ -1,0 +1,5057 @@
+industry_short,sic,industry_long
+Agric,100,Agric production - crops
+Agric,101,Agric production - crops
+Agric,102,Agric production - crops
+Agric,103,Agric production - crops
+Agric,104,Agric production - crops
+Agric,105,Agric production - crops
+Agric,106,Agric production - crops
+Agric,107,Agric production - crops
+Agric,108,Agric production - crops
+Agric,109,Agric production - crops
+Agric,110,Agric production - crops
+Agric,111,Agric production - crops
+Agric,112,Agric production - crops
+Agric,113,Agric production - crops
+Agric,114,Agric production - crops
+Agric,115,Agric production - crops
+Agric,116,Agric production - crops
+Agric,117,Agric production - crops
+Agric,118,Agric production - crops
+Agric,119,Agric production - crops
+Agric,120,Agric production - crops
+Agric,121,Agric production - crops
+Agric,122,Agric production - crops
+Agric,123,Agric production - crops
+Agric,124,Agric production - crops
+Agric,125,Agric production - crops
+Agric,126,Agric production - crops
+Agric,127,Agric production - crops
+Agric,128,Agric production - crops
+Agric,129,Agric production - crops
+Agric,130,Agric production - crops
+Agric,131,Agric production - crops
+Agric,132,Agric production - crops
+Agric,133,Agric production - crops
+Agric,134,Agric production - crops
+Agric,135,Agric production - crops
+Agric,136,Agric production - crops
+Agric,137,Agric production - crops
+Agric,138,Agric production - crops
+Agric,139,Agric production - crops
+Agric,140,Agric production - crops
+Agric,141,Agric production - crops
+Agric,142,Agric production - crops
+Agric,143,Agric production - crops
+Agric,144,Agric production - crops
+Agric,145,Agric production - crops
+Agric,146,Agric production - crops
+Agric,147,Agric production - crops
+Agric,148,Agric production - crops
+Agric,149,Agric production - crops
+Agric,150,Agric production - crops
+Agric,151,Agric production - crops
+Agric,152,Agric production - crops
+Agric,153,Agric production - crops
+Agric,154,Agric production - crops
+Agric,155,Agric production - crops
+Agric,156,Agric production - crops
+Agric,157,Agric production - crops
+Agric,158,Agric production - crops
+Agric,159,Agric production - crops
+Agric,160,Agric production - crops
+Agric,161,Agric production - crops
+Agric,162,Agric production - crops
+Agric,163,Agric production - crops
+Agric,164,Agric production - crops
+Agric,165,Agric production - crops
+Agric,166,Agric production - crops
+Agric,167,Agric production - crops
+Agric,168,Agric production - crops
+Agric,169,Agric production - crops
+Agric,170,Agric production - crops
+Agric,171,Agric production - crops
+Agric,172,Agric production - crops
+Agric,173,Agric production - crops
+Agric,174,Agric production - crops
+Agric,175,Agric production - crops
+Agric,176,Agric production - crops
+Agric,177,Agric production - crops
+Agric,178,Agric production - crops
+Agric,179,Agric production - crops
+Agric,180,Agric production - crops
+Agric,181,Agric production - crops
+Agric,182,Agric production - crops
+Agric,183,Agric production - crops
+Agric,184,Agric production - crops
+Agric,185,Agric production - crops
+Agric,186,Agric production - crops
+Agric,187,Agric production - crops
+Agric,188,Agric production - crops
+Agric,189,Agric production - crops
+Agric,190,Agric production - crops
+Agric,191,Agric production - crops
+Agric,192,Agric production - crops
+Agric,193,Agric production - crops
+Agric,194,Agric production - crops
+Agric,195,Agric production - crops
+Agric,196,Agric production - crops
+Agric,197,Agric production - crops
+Agric,198,Agric production - crops
+Agric,199,Agric production - crops
+Agric,200,Agric production - livestock
+Agric,201,Agric production - livestock
+Agric,202,Agric production - livestock
+Agric,203,Agric production - livestock
+Agric,204,Agric production - livestock
+Agric,205,Agric production - livestock
+Agric,206,Agric production - livestock
+Agric,207,Agric production - livestock
+Agric,208,Agric production - livestock
+Agric,209,Agric production - livestock
+Agric,210,Agric production - livestock
+Agric,211,Agric production - livestock
+Agric,212,Agric production - livestock
+Agric,213,Agric production - livestock
+Agric,214,Agric production - livestock
+Agric,215,Agric production - livestock
+Agric,216,Agric production - livestock
+Agric,217,Agric production - livestock
+Agric,218,Agric production - livestock
+Agric,219,Agric production - livestock
+Agric,220,Agric production - livestock
+Agric,221,Agric production - livestock
+Agric,222,Agric production - livestock
+Agric,223,Agric production - livestock
+Agric,224,Agric production - livestock
+Agric,225,Agric production - livestock
+Agric,226,Agric production - livestock
+Agric,227,Agric production - livestock
+Agric,228,Agric production - livestock
+Agric,229,Agric production - livestock
+Agric,230,Agric production - livestock
+Agric,231,Agric production - livestock
+Agric,232,Agric production - livestock
+Agric,233,Agric production - livestock
+Agric,234,Agric production - livestock
+Agric,235,Agric production - livestock
+Agric,236,Agric production - livestock
+Agric,237,Agric production - livestock
+Agric,238,Agric production - livestock
+Agric,239,Agric production - livestock
+Agric,240,Agric production - livestock
+Agric,241,Agric production - livestock
+Agric,242,Agric production - livestock
+Agric,243,Agric production - livestock
+Agric,244,Agric production - livestock
+Agric,245,Agric production - livestock
+Agric,246,Agric production - livestock
+Agric,247,Agric production - livestock
+Agric,248,Agric production - livestock
+Agric,249,Agric production - livestock
+Agric,250,Agric production - livestock
+Agric,251,Agric production - livestock
+Agric,252,Agric production - livestock
+Agric,253,Agric production - livestock
+Agric,254,Agric production - livestock
+Agric,255,Agric production - livestock
+Agric,256,Agric production - livestock
+Agric,257,Agric production - livestock
+Agric,258,Agric production - livestock
+Agric,259,Agric production - livestock
+Agric,260,Agric production - livestock
+Agric,261,Agric production - livestock
+Agric,262,Agric production - livestock
+Agric,263,Agric production - livestock
+Agric,264,Agric production - livestock
+Agric,265,Agric production - livestock
+Agric,266,Agric production - livestock
+Agric,267,Agric production - livestock
+Agric,268,Agric production - livestock
+Agric,269,Agric production - livestock
+Agric,270,Agric production - livestock
+Agric,271,Agric production - livestock
+Agric,272,Agric production - livestock
+Agric,273,Agric production - livestock
+Agric,274,Agric production - livestock
+Agric,275,Agric production - livestock
+Agric,276,Agric production - livestock
+Agric,277,Agric production - livestock
+Agric,278,Agric production - livestock
+Agric,279,Agric production - livestock
+Agric,280,Agric production - livestock
+Agric,281,Agric production - livestock
+Agric,282,Agric production - livestock
+Agric,283,Agric production - livestock
+Agric,284,Agric production - livestock
+Agric,285,Agric production - livestock
+Agric,286,Agric production - livestock
+Agric,287,Agric production - livestock
+Agric,288,Agric production - livestock
+Agric,289,Agric production - livestock
+Agric,290,Agric production - livestock
+Agric,291,Agric production - livestock
+Agric,292,Agric production - livestock
+Agric,293,Agric production - livestock
+Agric,294,Agric production - livestock
+Agric,295,Agric production - livestock
+Agric,296,Agric production - livestock
+Agric,297,Agric production - livestock
+Agric,298,Agric production - livestock
+Agric,299,Agric production - livestock
+Agric,700,Agricultural services
+Agric,701,Agricultural services
+Agric,702,Agricultural services
+Agric,703,Agricultural services
+Agric,704,Agricultural services
+Agric,705,Agricultural services
+Agric,706,Agricultural services
+Agric,707,Agricultural services
+Agric,708,Agricultural services
+Agric,709,Agricultural services
+Agric,710,Agricultural services
+Agric,711,Agricultural services
+Agric,712,Agricultural services
+Agric,713,Agricultural services
+Agric,714,Agricultural services
+Agric,715,Agricultural services
+Agric,716,Agricultural services
+Agric,717,Agricultural services
+Agric,718,Agricultural services
+Agric,719,Agricultural services
+Agric,720,Agricultural services
+Agric,721,Agricultural services
+Agric,722,Agricultural services
+Agric,723,Agricultural services
+Agric,724,Agricultural services
+Agric,725,Agricultural services
+Agric,726,Agricultural services
+Agric,727,Agricultural services
+Agric,728,Agricultural services
+Agric,729,Agricultural services
+Agric,730,Agricultural services
+Agric,731,Agricultural services
+Agric,732,Agricultural services
+Agric,733,Agricultural services
+Agric,734,Agricultural services
+Agric,735,Agricultural services
+Agric,736,Agricultural services
+Agric,737,Agricultural services
+Agric,738,Agricultural services
+Agric,739,Agricultural services
+Agric,740,Agricultural services
+Agric,741,Agricultural services
+Agric,742,Agricultural services
+Agric,743,Agricultural services
+Agric,744,Agricultural services
+Agric,745,Agricultural services
+Agric,746,Agricultural services
+Agric,747,Agricultural services
+Agric,748,Agricultural services
+Agric,749,Agricultural services
+Agric,750,Agricultural services
+Agric,751,Agricultural services
+Agric,752,Agricultural services
+Agric,753,Agricultural services
+Agric,754,Agricultural services
+Agric,755,Agricultural services
+Agric,756,Agricultural services
+Agric,757,Agricultural services
+Agric,758,Agricultural services
+Agric,759,Agricultural services
+Agric,760,Agricultural services
+Agric,761,Agricultural services
+Agric,762,Agricultural services
+Agric,763,Agricultural services
+Agric,764,Agricultural services
+Agric,765,Agricultural services
+Agric,766,Agricultural services
+Agric,767,Agricultural services
+Agric,768,Agricultural services
+Agric,769,Agricultural services
+Agric,770,Agricultural services
+Agric,771,Agricultural services
+Agric,772,Agricultural services
+Agric,773,Agricultural services
+Agric,774,Agricultural services
+Agric,775,Agricultural services
+Agric,776,Agricultural services
+Agric,777,Agricultural services
+Agric,778,Agricultural services
+Agric,779,Agricultural services
+Agric,780,Agricultural services
+Agric,781,Agricultural services
+Agric,782,Agricultural services
+Agric,783,Agricultural services
+Agric,784,Agricultural services
+Agric,785,Agricultural services
+Agric,786,Agricultural services
+Agric,787,Agricultural services
+Agric,788,Agricultural services
+Agric,789,Agricultural services
+Agric,790,Agricultural services
+Agric,791,Agricultural services
+Agric,792,Agricultural services
+Agric,793,Agricultural services
+Agric,794,Agricultural services
+Agric,795,Agricultural services
+Agric,796,Agricultural services
+Agric,797,Agricultural services
+Agric,798,Agricultural services
+Agric,799,Agricultural services
+Agric,910,Commercial fishing
+Agric,911,Commercial fishing
+Agric,912,Commercial fishing
+Agric,913,Commercial fishing
+Agric,914,Commercial fishing
+Agric,915,Commercial fishing
+Agric,916,Commercial fishing
+Agric,917,Commercial fishing
+Agric,918,Commercial fishing
+Agric,919,Commercial fishing
+Agric,2048,Prepared feeds for animals
+Food,2000,Food and kindred products
+Food,2001,Food and kindred products
+Food,2002,Food and kindred products
+Food,2003,Food and kindred products
+Food,2004,Food and kindred products
+Food,2005,Food and kindred products
+Food,2006,Food and kindred products
+Food,2007,Food and kindred products
+Food,2008,Food and kindred products
+Food,2009,Food and kindred products
+Food,2010,Meat products
+Food,2011,Meat products
+Food,2012,Meat products
+Food,2013,Meat products
+Food,2014,Meat products
+Food,2015,Meat products
+Food,2016,Meat products
+Food,2017,Meat products
+Food,2018,Meat products
+Food,2019,Meat products
+Food,2020,Dairy products
+Food,2021,Dairy products
+Food,2022,Dairy products
+Food,2023,Dairy products
+Food,2024,Dairy products
+Food,2025,Dairy products
+Food,2026,Dairy products
+Food,2027,Dairy products
+Food,2028,Dairy products
+Food,2029,Dairy products
+Food,2030,Canned-preserved fruits-vegs
+Food,2031,Canned-preserved fruits-vegs
+Food,2032,Canned-preserved fruits-vegs
+Food,2033,Canned-preserved fruits-vegs
+Food,2034,Canned-preserved fruits-vegs
+Food,2035,Canned-preserved fruits-vegs
+Food,2036,Canned-preserved fruits-vegs
+Food,2037,Canned-preserved fruits-vegs
+Food,2038,Canned-preserved fruits-vegs
+Food,2039,Canned-preserved fruits-vegs
+Food,2040,Flour and other grain mill products
+Food,2041,Flour and other grain mill products
+Food,2042,Flour and other grain mill products
+Food,2043,Flour and other grain mill products
+Food,2044,Flour and other grain mill products
+Food,2045,Flour and other grain mill products
+Food,2046,Flour and other grain mill products
+Food,2050,Bakery products
+Food,2051,Bakery products
+Food,2052,Bakery products
+Food,2053,Bakery products
+Food,2054,Bakery products
+Food,2055,Bakery products
+Food,2056,Bakery products
+Food,2057,Bakery products
+Food,2058,Bakery products
+Food,2059,Bakery products
+Food,2060,Sugar and confectionery products
+Food,2061,Sugar and confectionery products
+Food,2062,Sugar and confectionery products
+Food,2063,Sugar and confectionery products
+Food,2070,Fats and oils
+Food,2071,Fats and oils
+Food,2072,Fats and oils
+Food,2073,Fats and oils
+Food,2074,Fats and oils
+Food,2075,Fats and oils
+Food,2076,Fats and oils
+Food,2077,Fats and oils
+Food,2078,Fats and oils
+Food,2079,Fats and oils
+Food,2090,Misc food preps
+Food,2091,Misc food preps
+Food,2092,Misc food preps
+Food,2095,Roasted coffee
+Food,2098,Misc food preparations
+Food,2099,Misc food preparations
+Soda,2064,Candy and other confectionery
+Soda,2065,Candy and other confectionery
+Soda,2066,Candy and other confectionery
+Soda,2067,Candy and other confectionery
+Soda,2068,Candy and other confectionery
+Soda,2086,Bottled-canned soft drinks
+Soda,2087,Flavoring syrup
+Soda,2096,Potato chips
+Soda,2097,Manufactured ice
+Beer,2080,Beverages
+Beer,2082,Malt beverages
+Beer,2083,Malt
+Beer,2084,Wine
+Beer,2085,Distilled and blended liquors
+Smoke,2100,Tobacco products
+Smoke,2101,Tobacco products
+Smoke,2102,Tobacco products
+Smoke,2103,Tobacco products
+Smoke,2104,Tobacco products
+Smoke,2105,Tobacco products
+Smoke,2106,Tobacco products
+Smoke,2107,Tobacco products
+Smoke,2108,Tobacco products
+Smoke,2109,Tobacco products
+Smoke,2110,Tobacco products
+Smoke,2111,Tobacco products
+Smoke,2112,Tobacco products
+Smoke,2113,Tobacco products
+Smoke,2114,Tobacco products
+Smoke,2115,Tobacco products
+Smoke,2116,Tobacco products
+Smoke,2117,Tobacco products
+Smoke,2118,Tobacco products
+Smoke,2119,Tobacco products
+Smoke,2120,Tobacco products
+Smoke,2121,Tobacco products
+Smoke,2122,Tobacco products
+Smoke,2123,Tobacco products
+Smoke,2124,Tobacco products
+Smoke,2125,Tobacco products
+Smoke,2126,Tobacco products
+Smoke,2127,Tobacco products
+Smoke,2128,Tobacco products
+Smoke,2129,Tobacco products
+Smoke,2130,Tobacco products
+Smoke,2131,Tobacco products
+Smoke,2132,Tobacco products
+Smoke,2133,Tobacco products
+Smoke,2134,Tobacco products
+Smoke,2135,Tobacco products
+Smoke,2136,Tobacco products
+Smoke,2137,Tobacco products
+Smoke,2138,Tobacco products
+Smoke,2139,Tobacco products
+Smoke,2140,Tobacco products
+Smoke,2141,Tobacco products
+Smoke,2142,Tobacco products
+Smoke,2143,Tobacco products
+Smoke,2144,Tobacco products
+Smoke,2145,Tobacco products
+Smoke,2146,Tobacco products
+Smoke,2147,Tobacco products
+Smoke,2148,Tobacco products
+Smoke,2149,Tobacco products
+Smoke,2150,Tobacco products
+Smoke,2151,Tobacco products
+Smoke,2152,Tobacco products
+Smoke,2153,Tobacco products
+Smoke,2154,Tobacco products
+Smoke,2155,Tobacco products
+Smoke,2156,Tobacco products
+Smoke,2157,Tobacco products
+Smoke,2158,Tobacco products
+Smoke,2159,Tobacco products
+Smoke,2160,Tobacco products
+Smoke,2161,Tobacco products
+Smoke,2162,Tobacco products
+Smoke,2163,Tobacco products
+Smoke,2164,Tobacco products
+Smoke,2165,Tobacco products
+Smoke,2166,Tobacco products
+Smoke,2167,Tobacco products
+Smoke,2168,Tobacco products
+Smoke,2169,Tobacco products
+Smoke,2170,Tobacco products
+Smoke,2171,Tobacco products
+Smoke,2172,Tobacco products
+Smoke,2173,Tobacco products
+Smoke,2174,Tobacco products
+Smoke,2175,Tobacco products
+Smoke,2176,Tobacco products
+Smoke,2177,Tobacco products
+Smoke,2178,Tobacco products
+Smoke,2179,Tobacco products
+Smoke,2180,Tobacco products
+Smoke,2181,Tobacco products
+Smoke,2182,Tobacco products
+Smoke,2183,Tobacco products
+Smoke,2184,Tobacco products
+Smoke,2185,Tobacco products
+Smoke,2186,Tobacco products
+Smoke,2187,Tobacco products
+Smoke,2188,Tobacco products
+Smoke,2189,Tobacco products
+Smoke,2190,Tobacco products
+Smoke,2191,Tobacco products
+Smoke,2192,Tobacco products
+Smoke,2193,Tobacco products
+Smoke,2194,Tobacco products
+Smoke,2195,Tobacco products
+Smoke,2196,Tobacco products
+Smoke,2197,Tobacco products
+Smoke,2198,Tobacco products
+Smoke,2199,Tobacco products
+Toys,920,Fishing hunting & trapping
+Toys,921,Fishing hunting & trapping
+Toys,922,Fishing hunting & trapping
+Toys,923,Fishing hunting & trapping
+Toys,924,Fishing hunting & trapping
+Toys,925,Fishing hunting & trapping
+Toys,926,Fishing hunting & trapping
+Toys,927,Fishing hunting & trapping
+Toys,928,Fishing hunting & trapping
+Toys,929,Fishing hunting & trapping
+Toys,930,Fishing hunting & trapping
+Toys,931,Fishing hunting & trapping
+Toys,932,Fishing hunting & trapping
+Toys,933,Fishing hunting & trapping
+Toys,934,Fishing hunting & trapping
+Toys,935,Fishing hunting & trapping
+Toys,936,Fishing hunting & trapping
+Toys,937,Fishing hunting & trapping
+Toys,938,Fishing hunting & trapping
+Toys,939,Fishing hunting & trapping
+Toys,940,Fishing hunting & trapping
+Toys,941,Fishing hunting & trapping
+Toys,942,Fishing hunting & trapping
+Toys,943,Fishing hunting & trapping
+Toys,944,Fishing hunting & trapping
+Toys,945,Fishing hunting & trapping
+Toys,946,Fishing hunting & trapping
+Toys,947,Fishing hunting & trapping
+Toys,948,Fishing hunting & trapping
+Toys,949,Fishing hunting & trapping
+Toys,950,Fishing hunting & trapping
+Toys,951,Fishing hunting & trapping
+Toys,952,Fishing hunting & trapping
+Toys,953,Fishing hunting & trapping
+Toys,954,Fishing hunting & trapping
+Toys,955,Fishing hunting & trapping
+Toys,956,Fishing hunting & trapping
+Toys,957,Fishing hunting & trapping
+Toys,958,Fishing hunting & trapping
+Toys,959,Fishing hunting & trapping
+Toys,960,Fishing hunting & trapping
+Toys,961,Fishing hunting & trapping
+Toys,962,Fishing hunting & trapping
+Toys,963,Fishing hunting & trapping
+Toys,964,Fishing hunting & trapping
+Toys,965,Fishing hunting & trapping
+Toys,966,Fishing hunting & trapping
+Toys,967,Fishing hunting & trapping
+Toys,968,Fishing hunting & trapping
+Toys,969,Fishing hunting & trapping
+Toys,970,Fishing hunting & trapping
+Toys,971,Fishing hunting & trapping
+Toys,972,Fishing hunting & trapping
+Toys,973,Fishing hunting & trapping
+Toys,974,Fishing hunting & trapping
+Toys,975,Fishing hunting & trapping
+Toys,976,Fishing hunting & trapping
+Toys,977,Fishing hunting & trapping
+Toys,978,Fishing hunting & trapping
+Toys,979,Fishing hunting & trapping
+Toys,980,Fishing hunting & trapping
+Toys,981,Fishing hunting & trapping
+Toys,982,Fishing hunting & trapping
+Toys,983,Fishing hunting & trapping
+Toys,984,Fishing hunting & trapping
+Toys,985,Fishing hunting & trapping
+Toys,986,Fishing hunting & trapping
+Toys,987,Fishing hunting & trapping
+Toys,988,Fishing hunting & trapping
+Toys,989,Fishing hunting & trapping
+Toys,990,Fishing hunting & trapping
+Toys,991,Fishing hunting & trapping
+Toys,992,Fishing hunting & trapping
+Toys,993,Fishing hunting & trapping
+Toys,994,Fishing hunting & trapping
+Toys,995,Fishing hunting & trapping
+Toys,996,Fishing hunting & trapping
+Toys,997,Fishing hunting & trapping
+Toys,998,Fishing hunting & trapping
+Toys,999,Fishing hunting & trapping
+Toys,3650,Household audio visual equip
+Toys,3651,Household audio visual equip
+Toys,3652,Phonographic records
+Toys,3732,Boat building and repair
+Toys,3930,Musical instruments
+Toys,3931,Musical instruments
+Toys,3940,Toys
+Toys,3941,Toys
+Toys,3942,Toys
+Toys,3943,Toys
+Toys,3944,Toys
+Toys,3945,Toys
+Toys,3946,Toys
+Toys,3947,Toys
+Toys,3948,Toys
+Toys,3949,Toys
+Fun,7800,Services - motion picture production and distribution
+Fun,7801,Services - motion picture production and distribution
+Fun,7802,Services - motion picture production and distribution
+Fun,7803,Services - motion picture production and distribution
+Fun,7804,Services - motion picture production and distribution
+Fun,7805,Services - motion picture production and distribution
+Fun,7806,Services - motion picture production and distribution
+Fun,7807,Services - motion picture production and distribution
+Fun,7808,Services - motion picture production and distribution
+Fun,7809,Services - motion picture production and distribution
+Fun,7810,Services - motion picture production and distribution
+Fun,7811,Services - motion picture production and distribution
+Fun,7812,Services - motion picture production and distribution
+Fun,7813,Services - motion picture production and distribution
+Fun,7814,Services - motion picture production and distribution
+Fun,7815,Services - motion picture production and distribution
+Fun,7816,Services - motion picture production and distribution
+Fun,7817,Services - motion picture production and distribution
+Fun,7818,Services - motion picture production and distribution
+Fun,7819,Services - motion picture production and distribution
+Fun,7820,Services - motion picture production and distribution
+Fun,7821,Services - motion picture production and distribution
+Fun,7822,Services - motion picture production and distribution
+Fun,7823,Services - motion picture production and distribution
+Fun,7824,Services - motion picture production and distribution
+Fun,7825,Services - motion picture production and distribution
+Fun,7826,Services - motion picture production and distribution
+Fun,7827,Services - motion picture production and distribution
+Fun,7828,Services - motion picture production and distribution
+Fun,7829,Services - motion picture production and distribution
+Fun,7830,Services - motion picture theatres
+Fun,7831,Services - motion picture theatres
+Fun,7832,Services - motion picture theatres
+Fun,7833,Services - motion picture theatres
+Fun,7840,Services - video rental
+Fun,7841,Services - video rental
+Fun,7900,Services - amusement and recreation
+Fun,7910,Services - dance studios
+Fun,7911,Services - dance studios
+Fun,7920,Services - bands entertainers
+Fun,7921,Services - bands entertainers
+Fun,7922,Services - bands entertainers
+Fun,7923,Services - bands entertainers
+Fun,7924,Services - bands entertainers
+Fun,7925,Services - bands entertainers
+Fun,7926,Services - bands entertainers
+Fun,7927,Services - bands entertainers
+Fun,7928,Services - bands entertainers
+Fun,7929,Services - bands entertainers
+Fun,7930,Services - bowling centers
+Fun,7931,Services - bowling centers
+Fun,7932,Services - bowling centers
+Fun,7933,Services - bowling centers
+Fun,7940,Services - professional sports
+Fun,7941,Services - professional sports
+Fun,7942,Services - professional sports
+Fun,7943,Services - professional sports
+Fun,7944,Services - professional sports
+Fun,7945,Services - professional sports
+Fun,7946,Services - professional sports
+Fun,7947,Services - professional sports
+Fun,7948,Services - professional sports
+Fun,7949,Services - professional sports
+Fun,7980,Amusement and recreation services (?)
+Fun,7990,Services - misc entertainment
+Fun,7991,Services - misc entertainment
+Fun,7992,Services - misc entertainment
+Fun,7993,Services - misc entertainment
+Fun,7994,Services - misc entertainment
+Fun,7995,Services - misc entertainment
+Fun,7996,Services - misc entertainment
+Fun,7997,Services - misc entertainment
+Fun,7998,Services - misc entertainment
+Fun,7999,Services - misc entertainment
+Books,2700,Printing publishing and allied
+Books,2701,Printing publishing and allied
+Books,2702,Printing publishing and allied
+Books,2703,Printing publishing and allied
+Books,2704,Printing publishing and allied
+Books,2705,Printing publishing and allied
+Books,2706,Printing publishing and allied
+Books,2707,Printing publishing and allied
+Books,2708,Printing publishing and allied
+Books,2709,Printing publishing and allied
+Books,2710,Newspapers: publishing-printing
+Books,2711,Newspapers: publishing-printing
+Books,2712,Newspapers: publishing-printing
+Books,2713,Newspapers: publishing-printing
+Books,2714,Newspapers: publishing-printing
+Books,2715,Newspapers: publishing-printing
+Books,2716,Newspapers: publishing-printing
+Books,2717,Newspapers: publishing-printing
+Books,2718,Newspapers: publishing-printing
+Books,2719,Newspapers: publishing-printing
+Books,2720,Periodicals: publishing-printing
+Books,2721,Periodicals: publishing-printing
+Books,2722,Periodicals: publishing-printing
+Books,2723,Periodicals: publishing-printing
+Books,2724,Periodicals: publishing-printing
+Books,2725,Periodicals: publishing-printing
+Books,2726,Periodicals: publishing-printing
+Books,2727,Periodicals: publishing-printing
+Books,2728,Periodicals: publishing-printing
+Books,2729,Periodicals: publishing-printing
+Books,2730,Books: publishing-printing
+Books,2731,Books: publishing-printing
+Books,2732,Books: publishing-printing
+Books,2733,Books: publishing-printing
+Books,2734,Books: publishing-printing
+Books,2735,Books: publishing-printing
+Books,2736,Books: publishing-printing
+Books,2737,Books: publishing-printing
+Books,2738,Books: publishing-printing
+Books,2739,Books: publishing-printing
+Books,2740,Misc publishing
+Books,2741,Misc publishing
+Books,2742,Misc publishing
+Books,2743,Misc publishing
+Books,2744,Misc publishing
+Books,2745,Misc publishing
+Books,2746,Misc publishing
+Books,2747,Misc publishing
+Books,2748,Misc publishing
+Books,2749,Misc publishing
+Books,2770,Greeting card publishing
+Books,2771,Greeting card publishing
+Books,2780,Book binding
+Books,2781,Book binding
+Books,2782,Book binding
+Books,2783,Book binding
+Books,2784,Book binding
+Books,2785,Book binding
+Books,2786,Book binding
+Books,2787,Book binding
+Books,2788,Book binding
+Books,2789,Book binding
+Books,2790,Service industries for print trade
+Books,2791,Service industries for print trade
+Books,2792,Service industries for print trade
+Books,2793,Service industries for print trade
+Books,2794,Service industries for print trade
+Books,2795,Service industries for print trade
+Books,2796,Service industries for print trade
+Books,2797,Service industries for print trade
+Books,2798,Service industries for print trade
+Books,2799,Service industries for print trade
+Hshld,2047,Dog and cat food
+Hshld,2391,Curtains home furnishings
+Hshld,2392,Curtains home furnishings
+Hshld,2510,Household furniture
+Hshld,2511,Household furniture
+Hshld,2512,Household furniture
+Hshld,2513,Household furniture
+Hshld,2514,Household furniture
+Hshld,2515,Household furniture
+Hshld,2516,Household furniture
+Hshld,2517,Household furniture
+Hshld,2518,Household furniture
+Hshld,2519,Household furniture
+Hshld,2590,Misc furniture and fixtures
+Hshld,2591,Misc furniture and fixtures
+Hshld,2592,Misc furniture and fixtures
+Hshld,2593,Misc furniture and fixtures
+Hshld,2594,Misc furniture and fixtures
+Hshld,2595,Misc furniture and fixtures
+Hshld,2596,Misc furniture and fixtures
+Hshld,2597,Misc furniture and fixtures
+Hshld,2598,Misc furniture and fixtures
+Hshld,2599,Misc furniture and fixtures
+Hshld,2840,Soap & other detergents
+Hshld,2841,Soap & other detergents
+Hshld,2842,Soap & other detergents
+Hshld,2843,Soap & other detergents
+Hshld,2844,Perfumes cosmetics
+Hshld,3160,Luggage
+Hshld,3161,Luggage
+Hshld,3170,Handbags and purses
+Hshld,3171,Handbags and purses
+Hshld,3172,Personal leather goods except handbags
+Hshld,3190,Leather goods
+Hshld,3191,Leather goods
+Hshld,3192,Leather goods
+Hshld,3193,Leather goods
+Hshld,3194,Leather goods
+Hshld,3195,Leather goods
+Hshld,3196,Leather goods
+Hshld,3197,Leather goods
+Hshld,3198,Leather goods
+Hshld,3199,Leather goods
+Hshld,3229,Pressed and blown glass
+Hshld,3260,Pottery and related products
+Hshld,3262,China and earthenware table articles
+Hshld,3263,China and earthenware table articles
+Hshld,3269,Pottery products
+Hshld,3230,Glass products
+Hshld,3231,Glass products
+Hshld,3630,Household appliances
+Hshld,3631,Household appliances
+Hshld,3632,Household appliances
+Hshld,3633,Household appliances
+Hshld,3634,Household appliances
+Hshld,3635,Household appliances
+Hshld,3636,Household appliances
+Hshld,3637,Household appliances
+Hshld,3638,Household appliances
+Hshld,3639,Household appliances
+Hshld,3750,Motorcycles bicycles and parts
+Hshld,3751,Motorcycles bicycles and parts
+(Harley & Huffy),0,
+Hshld,3800,Misc inst photo goods watches
+Hshld,3860,Photographic equip
+Hshld,3861,Photographic equip
+(Kodak etc but also Xerox),0,
+Hshld,3870,Watches clocks and parts
+Hshld,3871,Watches clocks and parts
+Hshld,3872,Watches clocks and parts
+Hshld,3873,Watches clocks and parts
+Hshld,3910,Jewelry-precious metals
+Hshld,3911,Jewelry-precious metals
+Hshld,3914,Silverware
+Hshld,3915,Jewelers' findings materials
+Hshld,3960,Costume jewelry and notions
+Hshld,3961,Costume jewelry and notions
+Hshld,3962,Costume jewelry and notions
+Hshld,3991,Brooms and brushes
+Hshld,3995,Burial caskets
+Clths,2300,Apparel and other finished products
+Clths,2301,Apparel and other finished products
+Clths,2302,Apparel and other finished products
+Clths,2303,Apparel and other finished products
+Clths,2304,Apparel and other finished products
+Clths,2305,Apparel and other finished products
+Clths,2306,Apparel and other finished products
+Clths,2307,Apparel and other finished products
+Clths,2308,Apparel and other finished products
+Clths,2309,Apparel and other finished products
+Clths,2310,Apparel and other finished products
+Clths,2311,Apparel and other finished products
+Clths,2312,Apparel and other finished products
+Clths,2313,Apparel and other finished products
+Clths,2314,Apparel and other finished products
+Clths,2315,Apparel and other finished products
+Clths,2316,Apparel and other finished products
+Clths,2317,Apparel and other finished products
+Clths,2318,Apparel and other finished products
+Clths,2319,Apparel and other finished products
+Clths,2320,Apparel and other finished products
+Clths,2321,Apparel and other finished products
+Clths,2322,Apparel and other finished products
+Clths,2323,Apparel and other finished products
+Clths,2324,Apparel and other finished products
+Clths,2325,Apparel and other finished products
+Clths,2326,Apparel and other finished products
+Clths,2327,Apparel and other finished products
+Clths,2328,Apparel and other finished products
+Clths,2329,Apparel and other finished products
+Clths,2330,Apparel and other finished products
+Clths,2331,Apparel and other finished products
+Clths,2332,Apparel and other finished products
+Clths,2333,Apparel and other finished products
+Clths,2334,Apparel and other finished products
+Clths,2335,Apparel and other finished products
+Clths,2336,Apparel and other finished products
+Clths,2337,Apparel and other finished products
+Clths,2338,Apparel and other finished products
+Clths,2339,Apparel and other finished products
+Clths,2340,Apparel and other finished products
+Clths,2341,Apparel and other finished products
+Clths,2342,Apparel and other finished products
+Clths,2343,Apparel and other finished products
+Clths,2344,Apparel and other finished products
+Clths,2345,Apparel and other finished products
+Clths,2346,Apparel and other finished products
+Clths,2347,Apparel and other finished products
+Clths,2348,Apparel and other finished products
+Clths,2349,Apparel and other finished products
+Clths,2350,Apparel and other finished products
+Clths,2351,Apparel and other finished products
+Clths,2352,Apparel and other finished products
+Clths,2353,Apparel and other finished products
+Clths,2354,Apparel and other finished products
+Clths,2355,Apparel and other finished products
+Clths,2356,Apparel and other finished products
+Clths,2357,Apparel and other finished products
+Clths,2358,Apparel and other finished products
+Clths,2359,Apparel and other finished products
+Clths,2360,Apparel and other finished products
+Clths,2361,Apparel and other finished products
+Clths,2362,Apparel and other finished products
+Clths,2363,Apparel and other finished products
+Clths,2364,Apparel and other finished products
+Clths,2365,Apparel and other finished products
+Clths,2366,Apparel and other finished products
+Clths,2367,Apparel and other finished products
+Clths,2368,Apparel and other finished products
+Clths,2369,Apparel and other finished products
+Clths,2370,Apparel and other finished products
+Clths,2371,Apparel and other finished products
+Clths,2372,Apparel and other finished products
+Clths,2373,Apparel and other finished products
+Clths,2374,Apparel and other finished products
+Clths,2375,Apparel and other finished products
+Clths,2376,Apparel and other finished products
+Clths,2377,Apparel and other finished products
+Clths,2378,Apparel and other finished products
+Clths,2379,Apparel and other finished products
+Clths,2380,Apparel and other finished products
+Clths,2381,Apparel and other finished products
+Clths,2382,Apparel and other finished products
+Clths,2383,Apparel and other finished products
+Clths,2384,Apparel and other finished products
+Clths,2385,Apparel and other finished products
+Clths,2386,Apparel and other finished products
+Clths,2387,Apparel and other finished products
+Clths,2388,Apparel and other finished products
+Clths,2389,Apparel and other finished products
+Clths,2390,Apparel and other finished products
+Clths,3020,Rubber and plastics footwear
+Clths,3021,Rubber and plastics footwear
+Clths,3100,Leather tanning and finishing
+Clths,3101,Leather tanning and finishing
+Clths,3102,Leather tanning and finishing
+Clths,3103,Leather tanning and finishing
+Clths,3104,Leather tanning and finishing
+Clths,3105,Leather tanning and finishing
+Clths,3106,Leather tanning and finishing
+Clths,3107,Leather tanning and finishing
+Clths,3108,Leather tanning and finishing
+Clths,3109,Leather tanning and finishing
+Clths,3110,Leather tanning and finishing
+Clths,3111,Leather tanning and finishing
+Clths,3130,Boot shoe cut stock findings
+Clths,3131,Boot shoe cut stock findings
+Clths,3140,Footware except rubber
+Clths,3141,Footware except rubber
+Clths,3142,Footware except rubber
+Clths,3143,Footware except rubber
+Clths,3144,Footware except rubber
+Clths,3145,Footware except rubber
+Clths,3146,Footware except rubber
+Clths,3147,Footware except rubber
+Clths,3148,Footware except rubber
+Clths,3149,Footware except rubber
+Clths,3150,Leather gloves and mittens
+Clths,3151,Leather gloves and mittens
+Clths,3963,Fasteners buttons needles pins
+Clths,3964,Fasteners buttons needles pins
+Clths,3965,Fasteners buttons needles pins
+Hlth,8000,Services - health
+Hlth,8001,Services - health
+Hlth,8002,Services - health
+Hlth,8003,Services - health
+Hlth,8004,Services - health
+Hlth,8005,Services - health
+Hlth,8006,Services - health
+Hlth,8007,Services - health
+Hlth,8008,Services - health
+Hlth,8009,Services - health
+Hlth,8010,Services - health
+Hlth,8011,Services - health
+Hlth,8012,Services - health
+Hlth,8013,Services - health
+Hlth,8014,Services - health
+Hlth,8015,Services - health
+Hlth,8016,Services - health
+Hlth,8017,Services - health
+Hlth,8018,Services - health
+Hlth,8019,Services - health
+Hlth,8020,Services - health
+Hlth,8021,Services - health
+Hlth,8022,Services - health
+Hlth,8023,Services - health
+Hlth,8024,Services - health
+Hlth,8025,Services - health
+Hlth,8026,Services - health
+Hlth,8027,Services - health
+Hlth,8028,Services - health
+Hlth,8029,Services - health
+Hlth,8030,Services - health
+Hlth,8031,Services - health
+Hlth,8032,Services - health
+Hlth,8033,Services - health
+Hlth,8034,Services - health
+Hlth,8035,Services - health
+Hlth,8036,Services - health
+Hlth,8037,Services - health
+Hlth,8038,Services - health
+Hlth,8039,Services - health
+Hlth,8040,Services - health
+Hlth,8041,Services - health
+Hlth,8042,Services - health
+Hlth,8043,Services - health
+Hlth,8044,Services - health
+Hlth,8045,Services - health
+Hlth,8046,Services - health
+Hlth,8047,Services - health
+Hlth,8048,Services - health
+Hlth,8049,Services - health
+Hlth,8050,Services - health
+Hlth,8051,Services - health
+Hlth,8052,Services - health
+Hlth,8053,Services - health
+Hlth,8054,Services - health
+Hlth,8055,Services - health
+Hlth,8056,Services - health
+Hlth,8057,Services - health
+Hlth,8058,Services - health
+Hlth,8059,Services - health
+Hlth,8060,Services - health
+Hlth,8061,Services - health
+Hlth,8062,Services - health
+Hlth,8063,Services - health
+Hlth,8064,Services - health
+Hlth,8065,Services - health
+Hlth,8066,Services - health
+Hlth,8067,Services - health
+Hlth,8068,Services - health
+Hlth,8069,Services - health
+Hlth,8070,Services - health
+Hlth,8071,Services - health
+Hlth,8072,Services - health
+Hlth,8073,Services - health
+Hlth,8074,Services - health
+Hlth,8075,Services - health
+Hlth,8076,Services - health
+Hlth,8077,Services - health
+Hlth,8078,Services - health
+Hlth,8079,Services - health
+Hlth,8080,Services - health
+Hlth,8081,Services - health
+Hlth,8082,Services - health
+Hlth,8083,Services - health
+Hlth,8084,Services - health
+Hlth,8085,Services - health
+Hlth,8086,Services - health
+Hlth,8087,Services - health
+Hlth,8088,Services - health
+Hlth,8089,Services - health
+Hlth,8090,Services - health
+Hlth,8091,Services - health
+Hlth,8092,Services - health
+Hlth,8093,Services - health
+Hlth,8094,Services - health
+Hlth,8095,Services - health
+Hlth,8096,Services - health
+Hlth,8097,Services - health
+Hlth,8098,Services - health
+Hlth,8099,Services - health
+MedEq,3693,X-ray electromedical app
+MedEq,3840,Surg & med instru
+MedEq,3841,Surg & med instru
+MedEq,3842,Surg & med instru
+MedEq,3843,Surg & med instru
+MedEq,3844,Surg & med instru
+MedEq,3845,Surg & med instru
+MedEq,3846,Surg & med instru
+MedEq,3847,Surg & med instru
+MedEq,3848,Surg & med instru
+MedEq,3849,Surg & med instru
+MedEq,3850,Ophthalmic goods
+MedEq,3851,Ophthalmic goods
+Drugs,2830,Drugs
+Drugs,2831,Biological products
+Drugs,2833,Medicinal chemicals
+Drugs,2834,Pharmaceutical preparations
+Drugs,2835,In vitro in vivo diagnostics
+Drugs,2836,Biological products except diagnostics
+Chems,2800,Chemicals and allied products
+Chems,2801,Chemicals and allied products
+Chems,2802,Chemicals and allied products
+Chems,2803,Chemicals and allied products
+Chems,2804,Chemicals and allied products
+Chems,2805,Chemicals and allied products
+Chems,2806,Chemicals and allied products
+Chems,2807,Chemicals and allied products
+Chems,2808,Chemicals and allied products
+Chems,2809,Chemicals and allied products
+Chems,2810,Industrial inorganical chems
+Chems,2811,Industrial inorganical chems
+Chems,2812,Industrial inorganical chems
+Chems,2813,Industrial inorganical chems
+Chems,2814,Industrial inorganical chems
+Chems,2815,Industrial inorganical chems
+Chems,2816,Industrial inorganical chems
+Chems,2817,Industrial inorganical chems
+Chems,2818,Industrial inorganical chems
+Chems,2819,Industrial inorganical chems
+Chems,2820,Plastic material & synthetic resin
+Chems,2821,Plastic material & synthetic resin
+Chems,2822,Plastic material & synthetic resin
+Chems,2823,Plastic material & synthetic resin
+Chems,2824,Plastic material & synthetic resin
+Chems,2825,Plastic material & synthetic resin
+Chems,2826,Plastic material & synthetic resin
+Chems,2827,Plastic material & synthetic resin
+Chems,2828,Plastic material & synthetic resin
+Chems,2829,Plastic material & synthetic resin
+Chems,2850,Paints
+Chems,2851,Paints
+Chems,2852,Paints
+Chems,2853,Paints
+Chems,2854,Paints
+Chems,2855,Paints
+Chems,2856,Paints
+Chems,2857,Paints
+Chems,2858,Paints
+Chems,2859,Paints
+Chems,2860,Industrial organic chems
+Chems,2861,Industrial organic chems
+Chems,2862,Industrial organic chems
+Chems,2863,Industrial organic chems
+Chems,2864,Industrial organic chems
+Chems,2865,Industrial organic chems
+Chems,2866,Industrial organic chems
+Chems,2867,Industrial organic chems
+Chems,2868,Industrial organic chems
+Chems,2869,Industrial organic chems
+Chems,2870,Agriculture chemicals
+Chems,2871,Agriculture chemicals
+Chems,2872,Agriculture chemicals
+Chems,2873,Agriculture chemicals
+Chems,2874,Agriculture chemicals
+Chems,2875,Agriculture chemicals
+Chems,2876,Agriculture chemicals
+Chems,2877,Agriculture chemicals
+Chems,2878,Agriculture chemicals
+Chems,2879,Agriculture chemicals
+Chems,2890,Misc chemical products
+Chems,2891,Misc chemical products
+Chems,2892,Misc chemical products
+Chems,2893,Misc chemical products
+Chems,2894,Misc chemical products
+Chems,2895,Misc chemical products
+Chems,2896,Misc chemical products
+Chems,2897,Misc chemical products
+Chems,2898,Misc chemical products
+Chems,2899,Misc chemical products
+Rubbr,3031,Reclaimed rubber
+Rubbr,3041,Rubber & plastic hose and belting
+Rubbr,3050,Gaskets hoses etc
+Rubbr,3051,Gaskets hoses etc
+Rubbr,3052,Gaskets hoses etc
+Rubbr,3053,Gaskets hoses etc
+Rubbr,3060,Fabricated rubber products
+Rubbr,3061,Fabricated rubber products
+Rubbr,3062,Fabricated rubber products
+Rubbr,3063,Fabricated rubber products
+Rubbr,3064,Fabricated rubber products
+Rubbr,3065,Fabricated rubber products
+Rubbr,3066,Fabricated rubber products
+Rubbr,3067,Fabricated rubber products
+Rubbr,3068,Fabricated rubber products
+Rubbr,3069,Fabricated rubber products
+Rubbr,3070,Misc rubber products (?)
+Rubbr,3071,Misc rubber products (?)
+Rubbr,3072,Misc rubber products (?)
+Rubbr,3073,Misc rubber products (?)
+Rubbr,3074,Misc rubber products (?)
+Rubbr,3075,Misc rubber products (?)
+Rubbr,3076,Misc rubber products (?)
+Rubbr,3077,Misc rubber products (?)
+Rubbr,3078,Misc rubber products (?)
+Rubbr,3079,Misc rubber products (?)
+Rubbr,3080,Misc plastic products
+Rubbr,3081,Misc plastic products
+Rubbr,3082,Misc plastic products
+Rubbr,3083,Misc plastic products
+Rubbr,3084,Misc plastic products
+Rubbr,3085,Misc plastic products
+Rubbr,3086,Misc plastic products
+Rubbr,3087,Misc plastic products
+Rubbr,3088,Misc plastic products
+Rubbr,3089,Misc plastic products
+Rubbr,3090,Misc rubber and plastic products (?)
+Rubbr,3091,Misc rubber and plastic products (?)
+Rubbr,3092,Misc rubber and plastic products (?)
+Rubbr,3093,Misc rubber and plastic products (?)
+Rubbr,3094,Misc rubber and plastic products (?)
+Rubbr,3095,Misc rubber and plastic products (?)
+Rubbr,3096,Misc rubber and plastic products (?)
+Rubbr,3097,Misc rubber and plastic products (?)
+Rubbr,3098,Misc rubber and plastic products (?)
+Rubbr,3099,Misc rubber and plastic products (?)
+Txtls,2200,Textile mill products
+Txtls,2201,Textile mill products
+Txtls,2202,Textile mill products
+Txtls,2203,Textile mill products
+Txtls,2204,Textile mill products
+Txtls,2205,Textile mill products
+Txtls,2206,Textile mill products
+Txtls,2207,Textile mill products
+Txtls,2208,Textile mill products
+Txtls,2209,Textile mill products
+Txtls,2210,Textile mill products
+Txtls,2211,Textile mill products
+Txtls,2212,Textile mill products
+Txtls,2213,Textile mill products
+Txtls,2214,Textile mill products
+Txtls,2215,Textile mill products
+Txtls,2216,Textile mill products
+Txtls,2217,Textile mill products
+Txtls,2218,Textile mill products
+Txtls,2219,Textile mill products
+Txtls,2220,Textile mill products
+Txtls,2221,Textile mill products
+Txtls,2222,Textile mill products
+Txtls,2223,Textile mill products
+Txtls,2224,Textile mill products
+Txtls,2225,Textile mill products
+Txtls,2226,Textile mill products
+Txtls,2227,Textile mill products
+Txtls,2228,Textile mill products
+Txtls,2229,Textile mill products
+Txtls,2230,Textile mill products
+Txtls,2231,Textile mill products
+Txtls,2232,Textile mill products
+Txtls,2233,Textile mill products
+Txtls,2234,Textile mill products
+Txtls,2235,Textile mill products
+Txtls,2236,Textile mill products
+Txtls,2237,Textile mill products
+Txtls,2238,Textile mill products
+Txtls,2239,Textile mill products
+Txtls,2240,Textile mill products
+Txtls,2241,Textile mill products
+Txtls,2242,Textile mill products
+Txtls,2243,Textile mill products
+Txtls,2244,Textile mill products
+Txtls,2245,Textile mill products
+Txtls,2246,Textile mill products
+Txtls,2247,Textile mill products
+Txtls,2248,Textile mill products
+Txtls,2249,Textile mill products
+Txtls,2250,Textile mill products
+Txtls,2251,Textile mill products
+Txtls,2252,Textile mill products
+Txtls,2253,Textile mill products
+Txtls,2254,Textile mill products
+Txtls,2255,Textile mill products
+Txtls,2256,Textile mill products
+Txtls,2257,Textile mill products
+Txtls,2258,Textile mill products
+Txtls,2259,Textile mill products
+Txtls,2260,Textile mill products
+Txtls,2261,Textile mill products
+Txtls,2262,Textile mill products
+Txtls,2263,Textile mill products
+Txtls,2264,Textile mill products
+Txtls,2265,Textile mill products
+Txtls,2266,Textile mill products
+Txtls,2267,Textile mill products
+Txtls,2268,Textile mill products
+Txtls,2269,Textile mill products
+Txtls,2270,Floor covering mills
+Txtls,2271,Floor covering mills
+Txtls,2272,Floor covering mills
+Txtls,2273,Floor covering mills
+Txtls,2274,Floor covering mills
+Txtls,2275,Floor covering mills
+Txtls,2276,Floor covering mills
+Txtls,2277,Floor covering mills
+Txtls,2278,Floor covering mills
+Txtls,2279,Floor covering mills
+Txtls,2280,Yarn and thread mills
+Txtls,2281,Yarn and thread mills
+Txtls,2282,Yarn and thread mills
+Txtls,2283,Yarn and thread mills
+Txtls,2284,Yarn and thread mills
+Txtls,2290,Misc textile goods
+Txtls,2291,Misc textile goods
+Txtls,2292,Misc textile goods
+Txtls,2293,Misc textile goods
+Txtls,2294,Misc textile goods
+Txtls,2295,Misc textile goods
+Txtls,2297,Nonwoven fabrics
+Txtls,2298,Cordage and twine
+Txtls,2299,Misc textile products
+Txtls,2393,Textile bags canvas products
+Txtls,2394,Textile bags canvas products
+Txtls,2395,Textile bags canvas products
+Txtls,2397,Misc textile products
+Txtls,2398,Misc textile products
+Txtls,2399,Misc textile products
+BldMt,800,Forestry
+BldMt,801,Forestry
+BldMt,802,Forestry
+BldMt,803,Forestry
+BldMt,804,Forestry
+BldMt,805,Forestry
+BldMt,806,Forestry
+BldMt,807,Forestry
+BldMt,808,Forestry
+BldMt,809,Forestry
+BldMt,810,Forestry
+BldMt,811,Forestry
+BldMt,812,Forestry
+BldMt,813,Forestry
+BldMt,814,Forestry
+BldMt,815,Forestry
+BldMt,816,Forestry
+BldMt,817,Forestry
+BldMt,818,Forestry
+BldMt,819,Forestry
+BldMt,820,Forestry
+BldMt,821,Forestry
+BldMt,822,Forestry
+BldMt,823,Forestry
+BldMt,824,Forestry
+BldMt,825,Forestry
+BldMt,826,Forestry
+BldMt,827,Forestry
+BldMt,828,Forestry
+BldMt,829,Forestry
+BldMt,830,Forestry
+BldMt,831,Forestry
+BldMt,832,Forestry
+BldMt,833,Forestry
+BldMt,834,Forestry
+BldMt,835,Forestry
+BldMt,836,Forestry
+BldMt,837,Forestry
+BldMt,838,Forestry
+BldMt,839,Forestry
+BldMt,840,Forestry
+BldMt,841,Forestry
+BldMt,842,Forestry
+BldMt,843,Forestry
+BldMt,844,Forestry
+BldMt,845,Forestry
+BldMt,846,Forestry
+BldMt,847,Forestry
+BldMt,848,Forestry
+BldMt,849,Forestry
+BldMt,850,Forestry
+BldMt,851,Forestry
+BldMt,852,Forestry
+BldMt,853,Forestry
+BldMt,854,Forestry
+BldMt,855,Forestry
+BldMt,856,Forestry
+BldMt,857,Forestry
+BldMt,858,Forestry
+BldMt,859,Forestry
+BldMt,860,Forestry
+BldMt,861,Forestry
+BldMt,862,Forestry
+BldMt,863,Forestry
+BldMt,864,Forestry
+BldMt,865,Forestry
+BldMt,866,Forestry
+BldMt,867,Forestry
+BldMt,868,Forestry
+BldMt,869,Forestry
+BldMt,870,Forestry
+BldMt,871,Forestry
+BldMt,872,Forestry
+BldMt,873,Forestry
+BldMt,874,Forestry
+BldMt,875,Forestry
+BldMt,876,Forestry
+BldMt,877,Forestry
+BldMt,878,Forestry
+BldMt,879,Forestry
+BldMt,880,Forestry
+BldMt,881,Forestry
+BldMt,882,Forestry
+BldMt,883,Forestry
+BldMt,884,Forestry
+BldMt,885,Forestry
+BldMt,886,Forestry
+BldMt,887,Forestry
+BldMt,888,Forestry
+BldMt,889,Forestry
+BldMt,890,Forestry
+BldMt,891,Forestry
+BldMt,892,Forestry
+BldMt,893,Forestry
+BldMt,894,Forestry
+BldMt,895,Forestry
+BldMt,896,Forestry
+BldMt,897,Forestry
+BldMt,898,Forestry
+BldMt,899,Forestry
+BldMt,2400,Lumber and wood products
+BldMt,2401,Lumber and wood products
+BldMt,2402,Lumber and wood products
+BldMt,2403,Lumber and wood products
+BldMt,2404,Lumber and wood products
+BldMt,2405,Lumber and wood products
+BldMt,2406,Lumber and wood products
+BldMt,2407,Lumber and wood products
+BldMt,2408,Lumber and wood products
+BldMt,2409,Lumber and wood products
+BldMt,2410,Lumber and wood products
+BldMt,2411,Lumber and wood products
+BldMt,2412,Lumber and wood products
+BldMt,2413,Lumber and wood products
+BldMt,2414,Lumber and wood products
+BldMt,2415,Lumber and wood products
+BldMt,2416,Lumber and wood products
+BldMt,2417,Lumber and wood products
+BldMt,2418,Lumber and wood products
+BldMt,2419,Lumber and wood products
+BldMt,2420,Lumber and wood products
+BldMt,2421,Lumber and wood products
+BldMt,2422,Lumber and wood products
+BldMt,2423,Lumber and wood products
+BldMt,2424,Lumber and wood products
+BldMt,2425,Lumber and wood products
+BldMt,2426,Lumber and wood products
+BldMt,2427,Lumber and wood products
+BldMt,2428,Lumber and wood products
+BldMt,2429,Lumber and wood products
+BldMt,2430,Lumber and wood products
+BldMt,2431,Lumber and wood products
+BldMt,2432,Lumber and wood products
+BldMt,2433,Lumber and wood products
+BldMt,2434,Lumber and wood products
+BldMt,2435,Lumber and wood products
+BldMt,2436,Lumber and wood products
+BldMt,2437,Lumber and wood products
+BldMt,2438,Lumber and wood products
+BldMt,2439,Lumber and wood products
+BldMt,2450,Wood buildings-mobile homes
+BldMt,2451,Wood buildings-mobile homes
+BldMt,2452,Wood buildings-mobile homes
+BldMt,2453,Wood buildings-mobile homes
+BldMt,2454,Wood buildings-mobile homes
+BldMt,2455,Wood buildings-mobile homes
+BldMt,2456,Wood buildings-mobile homes
+BldMt,2457,Wood buildings-mobile homes
+BldMt,2458,Wood buildings-mobile homes
+BldMt,2459,Wood buildings-mobile homes
+BldMt,2490,Misc wood products
+BldMt,2491,Misc wood products
+BldMt,2492,Misc wood products
+BldMt,2493,Misc wood products
+BldMt,2494,Misc wood products
+BldMt,2495,Misc wood products
+BldMt,2496,Misc wood products
+BldMt,2497,Misc wood products
+BldMt,2498,Misc wood products
+BldMt,2499,Misc wood products
+BldMt,2660,Building paper and board mills
+BldMt,2661,Building paper and board mills
+BldMt,2950,Paving & roofing materials
+BldMt,2951,Paving & roofing materials
+BldMt,2952,Paving & roofing materials
+BldMt,3200,Stone clay glass concrete etc
+BldMt,3210,Flat glass
+BldMt,3211,Flat glass
+BldMt,3240,Cement hydraulic
+BldMt,3241,Cement hydraulic
+BldMt,3250,Structural clay prods
+BldMt,3251,Structural clay prods
+BldMt,3252,Structural clay prods
+BldMt,3253,Structural clay prods
+BldMt,3254,Structural clay prods
+BldMt,3255,Structural clay prods
+BldMt,3256,Structural clay prods
+BldMt,3257,Structural clay prods
+BldMt,3258,Structural clay prods
+BldMt,3259,Structural clay prods
+BldMt,3261,Vitreous china plumbing fixtures
+BldMt,3264,Porcelain electrical supply
+BldMt,3270,Concrete gypsum & plaster
+BldMt,3271,Concrete gypsum & plaster
+BldMt,3272,Concrete gypsum & plaster
+BldMt,3273,Concrete gypsum & plaster
+BldMt,3274,Concrete gypsum & plaster
+BldMt,3275,Concrete gypsum & plaster
+BldMt,3280,Cut stone and stone products
+BldMt,3281,Cut stone and stone products
+BldMt,3290,Abrasive and asbestos products
+BldMt,3291,Abrasive and asbestos products
+BldMt,3292,Abrasive and asbestos products
+BldMt,3293,Abrasive and asbestos products
+BldMt,3295,Non-metalic mineral products
+BldMt,3296,Non-metalic mineral products
+BldMt,3297,Non-metalic mineral products
+BldMt,3298,Non-metalic mineral products
+BldMt,3299,Non-metalic mineral products
+BldMt,3420,Handtools and hardware
+BldMt,3421,Handtools and hardware
+BldMt,3422,Handtools and hardware
+BldMt,3423,Handtools and hardware
+BldMt,3424,Handtools and hardware
+BldMt,3425,Handtools and hardware
+BldMt,3426,Handtools and hardware
+BldMt,3427,Handtools and hardware
+BldMt,3428,Handtools and hardware
+BldMt,3429,Handtools and hardware
+BldMt,3430,Heating equip & plumbing fix
+BldMt,3431,Heating equip & plumbing fix
+BldMt,3432,Heating equip & plumbing fix
+BldMt,3433,Heating equip & plumbing fix
+BldMt,3440,Fabicated struct metal products
+BldMt,3441,Fabicated struct metal products
+BldMt,3442,Metal doors frames
+BldMt,3446,Architectual or ornamental metal work
+BldMt,3448,Pre-fab metal buildings
+BldMt,3449,Misc structural metal work
+BldMt,3450,Screw machine products
+BldMt,3451,Screw machine products
+BldMt,3452,Bolts nuts screws
+BldMt,3490,Misc fabricated metal products
+BldMt,3491,Misc fabricated metal products
+BldMt,3492,Misc fabricated metal products
+BldMt,3493,Misc fabricated metal products
+BldMt,3494,Misc fabricated metal products
+BldMt,3495,Misc fabricated metal products
+BldMt,3496,Misc fabricated metal products
+BldMt,3497,Misc fabricated metal products
+BldMt,3498,Misc fabricated metal products
+BldMt,3499,Misc fabricated metal products
+BldMt,3996,Hard surface floor cover
+Cnstr,1500,Build construction - general contractors
+Cnstr,1501,Build construction - general contractors
+Cnstr,1502,Build construction - general contractors
+Cnstr,1503,Build construction - general contractors
+Cnstr,1504,Build construction - general contractors
+Cnstr,1505,Build construction - general contractors
+Cnstr,1506,Build construction - general contractors
+Cnstr,1507,Build construction - general contractors
+Cnstr,1508,Build construction - general contractors
+Cnstr,1509,Build construction - general contractors
+Cnstr,1510,Build construction - general contractors
+Cnstr,1511,Build construction - general contractors
+Cnstr,1520,Gen building contractors - residential
+Cnstr,1521,Gen building contractors - residential
+Cnstr,1522,Gen building contractors - residential
+Cnstr,1523,Gen building contractors - residential
+Cnstr,1524,Gen building contractors - residential
+Cnstr,1525,Gen building contractors - residential
+Cnstr,1526,Gen building contractors - residential
+Cnstr,1527,Gen building contractors - residential
+Cnstr,1528,Gen building contractors - residential
+Cnstr,1529,Gen building contractors - residential
+Cnstr,1530,Operative builders
+Cnstr,1531,Operative builders
+Cnstr,1532,Operative builders
+Cnstr,1533,Operative builders
+Cnstr,1534,Operative builders
+Cnstr,1535,Operative builders
+Cnstr,1536,Operative builders
+Cnstr,1537,Operative builders
+Cnstr,1538,Operative builders
+Cnstr,1539,Operative builders
+Cnstr,1540,Gen building contractors - non-residential
+Cnstr,1541,Gen building contractors - non-residential
+Cnstr,1542,Gen building contractors - non-residential
+Cnstr,1543,Gen building contractors - non-residential
+Cnstr,1544,Gen building contractors - non-residential
+Cnstr,1545,Gen building contractors - non-residential
+Cnstr,1546,Gen building contractors - non-residential
+Cnstr,1547,Gen building contractors - non-residential
+Cnstr,1548,Gen building contractors - non-residential
+Cnstr,1549,Gen building contractors - non-residential
+Cnstr,1600,Heavy Construction - not building contractors
+Cnstr,1601,Heavy Construction - not building contractors
+Cnstr,1602,Heavy Construction - not building contractors
+Cnstr,1603,Heavy Construction - not building contractors
+Cnstr,1604,Heavy Construction - not building contractors
+Cnstr,1605,Heavy Construction - not building contractors
+Cnstr,1606,Heavy Construction - not building contractors
+Cnstr,1607,Heavy Construction - not building contractors
+Cnstr,1608,Heavy Construction - not building contractors
+Cnstr,1609,Heavy Construction - not building contractors
+Cnstr,1610,Heavy Construction - not building contractors
+Cnstr,1611,Heavy Construction - not building contractors
+Cnstr,1612,Heavy Construction - not building contractors
+Cnstr,1613,Heavy Construction - not building contractors
+Cnstr,1614,Heavy Construction - not building contractors
+Cnstr,1615,Heavy Construction - not building contractors
+Cnstr,1616,Heavy Construction - not building contractors
+Cnstr,1617,Heavy Construction - not building contractors
+Cnstr,1618,Heavy Construction - not building contractors
+Cnstr,1619,Heavy Construction - not building contractors
+Cnstr,1620,Heavy Construction - not building contractors
+Cnstr,1621,Heavy Construction - not building contractors
+Cnstr,1622,Heavy Construction - not building contractors
+Cnstr,1623,Heavy Construction - not building contractors
+Cnstr,1624,Heavy Construction - not building contractors
+Cnstr,1625,Heavy Construction - not building contractors
+Cnstr,1626,Heavy Construction - not building contractors
+Cnstr,1627,Heavy Construction - not building contractors
+Cnstr,1628,Heavy Construction - not building contractors
+Cnstr,1629,Heavy Construction - not building contractors
+Cnstr,1630,Heavy Construction - not building contractors
+Cnstr,1631,Heavy Construction - not building contractors
+Cnstr,1632,Heavy Construction - not building contractors
+Cnstr,1633,Heavy Construction - not building contractors
+Cnstr,1634,Heavy Construction - not building contractors
+Cnstr,1635,Heavy Construction - not building contractors
+Cnstr,1636,Heavy Construction - not building contractors
+Cnstr,1637,Heavy Construction - not building contractors
+Cnstr,1638,Heavy Construction - not building contractors
+Cnstr,1639,Heavy Construction - not building contractors
+Cnstr,1640,Heavy Construction - not building contractors
+Cnstr,1641,Heavy Construction - not building contractors
+Cnstr,1642,Heavy Construction - not building contractors
+Cnstr,1643,Heavy Construction - not building contractors
+Cnstr,1644,Heavy Construction - not building contractors
+Cnstr,1645,Heavy Construction - not building contractors
+Cnstr,1646,Heavy Construction - not building contractors
+Cnstr,1647,Heavy Construction - not building contractors
+Cnstr,1648,Heavy Construction - not building contractors
+Cnstr,1649,Heavy Construction - not building contractors
+Cnstr,1650,Heavy Construction - not building contractors
+Cnstr,1651,Heavy Construction - not building contractors
+Cnstr,1652,Heavy Construction - not building contractors
+Cnstr,1653,Heavy Construction - not building contractors
+Cnstr,1654,Heavy Construction - not building contractors
+Cnstr,1655,Heavy Construction - not building contractors
+Cnstr,1656,Heavy Construction - not building contractors
+Cnstr,1657,Heavy Construction - not building contractors
+Cnstr,1658,Heavy Construction - not building contractors
+Cnstr,1659,Heavy Construction - not building contractors
+Cnstr,1660,Heavy Construction - not building contractors
+Cnstr,1661,Heavy Construction - not building contractors
+Cnstr,1662,Heavy Construction - not building contractors
+Cnstr,1663,Heavy Construction - not building contractors
+Cnstr,1664,Heavy Construction - not building contractors
+Cnstr,1665,Heavy Construction - not building contractors
+Cnstr,1666,Heavy Construction - not building contractors
+Cnstr,1667,Heavy Construction - not building contractors
+Cnstr,1668,Heavy Construction - not building contractors
+Cnstr,1669,Heavy Construction - not building contractors
+Cnstr,1670,Heavy Construction - not building contractors
+Cnstr,1671,Heavy Construction - not building contractors
+Cnstr,1672,Heavy Construction - not building contractors
+Cnstr,1673,Heavy Construction - not building contractors
+Cnstr,1674,Heavy Construction - not building contractors
+Cnstr,1675,Heavy Construction - not building contractors
+Cnstr,1676,Heavy Construction - not building contractors
+Cnstr,1677,Heavy Construction - not building contractors
+Cnstr,1678,Heavy Construction - not building contractors
+Cnstr,1679,Heavy Construction - not building contractors
+Cnstr,1680,Heavy Construction - not building contractors
+Cnstr,1681,Heavy Construction - not building contractors
+Cnstr,1682,Heavy Construction - not building contractors
+Cnstr,1683,Heavy Construction - not building contractors
+Cnstr,1684,Heavy Construction - not building contractors
+Cnstr,1685,Heavy Construction - not building contractors
+Cnstr,1686,Heavy Construction - not building contractors
+Cnstr,1687,Heavy Construction - not building contractors
+Cnstr,1688,Heavy Construction - not building contractors
+Cnstr,1689,Heavy Construction - not building contractors
+Cnstr,1690,Heavy Construction - not building contractors
+Cnstr,1691,Heavy Construction - not building contractors
+Cnstr,1692,Heavy Construction - not building contractors
+Cnstr,1693,Heavy Construction - not building contractors
+Cnstr,1694,Heavy Construction - not building contractors
+Cnstr,1695,Heavy Construction - not building contractors
+Cnstr,1696,Heavy Construction - not building contractors
+Cnstr,1697,Heavy Construction - not building contractors
+Cnstr,1698,Heavy Construction - not building contractors
+Cnstr,1699,Heavy Construction - not building contractors
+Cnstr,1700,Construction - special contractors
+Cnstr,1701,Construction - special contractors
+Cnstr,1702,Construction - special contractors
+Cnstr,1703,Construction - special contractors
+Cnstr,1704,Construction - special contractors
+Cnstr,1705,Construction - special contractors
+Cnstr,1706,Construction - special contractors
+Cnstr,1707,Construction - special contractors
+Cnstr,1708,Construction - special contractors
+Cnstr,1709,Construction - special contractors
+Cnstr,1710,Construction - special contractors
+Cnstr,1711,Construction - special contractors
+Cnstr,1712,Construction - special contractors
+Cnstr,1713,Construction - special contractors
+Cnstr,1714,Construction - special contractors
+Cnstr,1715,Construction - special contractors
+Cnstr,1716,Construction - special contractors
+Cnstr,1717,Construction - special contractors
+Cnstr,1718,Construction - special contractors
+Cnstr,1719,Construction - special contractors
+Cnstr,1720,Construction - special contractors
+Cnstr,1721,Construction - special contractors
+Cnstr,1722,Construction - special contractors
+Cnstr,1723,Construction - special contractors
+Cnstr,1724,Construction - special contractors
+Cnstr,1725,Construction - special contractors
+Cnstr,1726,Construction - special contractors
+Cnstr,1727,Construction - special contractors
+Cnstr,1728,Construction - special contractors
+Cnstr,1729,Construction - special contractors
+Cnstr,1730,Construction - special contractors
+Cnstr,1731,Construction - special contractors
+Cnstr,1732,Construction - special contractors
+Cnstr,1733,Construction - special contractors
+Cnstr,1734,Construction - special contractors
+Cnstr,1735,Construction - special contractors
+Cnstr,1736,Construction - special contractors
+Cnstr,1737,Construction - special contractors
+Cnstr,1738,Construction - special contractors
+Cnstr,1739,Construction - special contractors
+Cnstr,1740,Construction - special contractors
+Cnstr,1741,Construction - special contractors
+Cnstr,1742,Construction - special contractors
+Cnstr,1743,Construction - special contractors
+Cnstr,1744,Construction - special contractors
+Cnstr,1745,Construction - special contractors
+Cnstr,1746,Construction - special contractors
+Cnstr,1747,Construction - special contractors
+Cnstr,1748,Construction - special contractors
+Cnstr,1749,Construction - special contractors
+Cnstr,1750,Construction - special contractors
+Cnstr,1751,Construction - special contractors
+Cnstr,1752,Construction - special contractors
+Cnstr,1753,Construction - special contractors
+Cnstr,1754,Construction - special contractors
+Cnstr,1755,Construction - special contractors
+Cnstr,1756,Construction - special contractors
+Cnstr,1757,Construction - special contractors
+Cnstr,1758,Construction - special contractors
+Cnstr,1759,Construction - special contractors
+Cnstr,1760,Construction - special contractors
+Cnstr,1761,Construction - special contractors
+Cnstr,1762,Construction - special contractors
+Cnstr,1763,Construction - special contractors
+Cnstr,1764,Construction - special contractors
+Cnstr,1765,Construction - special contractors
+Cnstr,1766,Construction - special contractors
+Cnstr,1767,Construction - special contractors
+Cnstr,1768,Construction - special contractors
+Cnstr,1769,Construction - special contractors
+Cnstr,1770,Construction - special contractors
+Cnstr,1771,Construction - special contractors
+Cnstr,1772,Construction - special contractors
+Cnstr,1773,Construction - special contractors
+Cnstr,1774,Construction - special contractors
+Cnstr,1775,Construction - special contractors
+Cnstr,1776,Construction - special contractors
+Cnstr,1777,Construction - special contractors
+Cnstr,1778,Construction - special contractors
+Cnstr,1779,Construction - special contractors
+Cnstr,1780,Construction - special contractors
+Cnstr,1781,Construction - special contractors
+Cnstr,1782,Construction - special contractors
+Cnstr,1783,Construction - special contractors
+Cnstr,1784,Construction - special contractors
+Cnstr,1785,Construction - special contractors
+Cnstr,1786,Construction - special contractors
+Cnstr,1787,Construction - special contractors
+Cnstr,1788,Construction - special contractors
+Cnstr,1789,Construction - special contractors
+Cnstr,1790,Construction - special contractors
+Cnstr,1791,Construction - special contractors
+Cnstr,1792,Construction - special contractors
+Cnstr,1793,Construction - special contractors
+Cnstr,1794,Construction - special contractors
+Cnstr,1795,Construction - special contractors
+Cnstr,1796,Construction - special contractors
+Cnstr,1797,Construction - special contractors
+Cnstr,1798,Construction - special contractors
+Cnstr,1799,Construction - special contractors
+Steel,3300,Primary metal industries
+Steel,3310,Blast furnaces & steel works
+Steel,3311,Blast furnaces & steel works
+Steel,3312,Blast furnaces & steel works
+Steel,3313,Blast furnaces & steel works
+Steel,3314,Blast furnaces & steel works
+Steel,3315,Blast furnaces & steel works
+Steel,3316,Blast furnaces & steel works
+Steel,3317,Blast furnaces & steel works
+Steel,3320,Iron & steel foundries
+Steel,3321,Iron & steel foundries
+Steel,3322,Iron & steel foundries
+Steel,3323,Iron & steel foundries
+Steel,3324,Iron & steel foundries
+Steel,3325,Iron & steel foundries
+Steel,3330,Prim smelt-refin nonfer metals
+Steel,3331,Prim smelt-refin nonfer metals
+Steel,3332,Prim smelt-refin nonfer metals
+Steel,3333,Prim smelt-refin nonfer metals
+Steel,3334,Prim smelt-refin nonfer metals
+Steel,3335,Prim smelt-refin nonfer metals
+Steel,3336,Prim smelt-refin nonfer metals
+Steel,3337,Prim smelt-refin nonfer metals
+Steel,3338,Prim smelt-refin nonfer metals
+Steel,3339,Prim smelt-refin nonfer metals
+Steel,3340,Secondary smelt-refin nonfer metals
+Steel,3341,Secondary smelt-refin nonfer metals
+Steel,3350,Rolling & drawing nonferous metals
+Steel,3351,Rolling & drawing nonferous metals
+Steel,3352,Rolling & drawing nonferous metals
+Steel,3353,Rolling & drawing nonferous metals
+Steel,3354,Rolling & drawing nonferous metals
+Steel,3355,Rolling & drawing nonferous metals
+Steel,3356,Rolling & drawing nonferous metals
+Steel,3357,Rolling & drawing nonferous metals
+Steel,3360,Non-ferrous foundries and casting
+Steel,3361,Non-ferrous foundries and casting
+Steel,3362,Non-ferrous foundries and casting
+Steel,3363,Non-ferrous foundries and casting
+Steel,3364,Non-ferrous foundries and casting
+Steel,3365,Non-ferrous foundries and casting
+Steel,3366,Non-ferrous foundries and casting
+Steel,3367,Non-ferrous foundries and casting
+Steel,3368,Non-ferrous foundries and casting
+Steel,3369,Non-ferrous foundries and casting
+Steel,3370,Steel works etc
+Steel,3371,Steel works etc
+Steel,3372,Steel works etc
+Steel,3373,Steel works etc
+Steel,3374,Steel works etc
+Steel,3375,Steel works etc
+Steel,3376,Steel works etc
+Steel,3377,Steel works etc
+Steel,3378,Steel works etc
+Steel,3379,Steel works etc
+Steel,3390,Misc primary metal products
+Steel,3391,Misc primary metal products
+Steel,3392,Misc primary metal products
+Steel,3393,Misc primary metal products
+Steel,3394,Misc primary metal products
+Steel,3395,Misc primary metal products
+Steel,3396,Misc primary metal products
+Steel,3397,Misc primary metal products
+Steel,3398,Misc primary metal products
+Steel,3399,Misc primary metal products
+FabPr,3400,Fabricated metal except machinery and trans eq
+FabPr,3443,Fabricated plate work
+FabPr,3444,Sheet metal work
+FabPr,3460,Metal forgings and stampings
+FabPr,3461,Metal forgings and stampings
+FabPr,3462,Metal forgings and stampings
+FabPr,3463,Metal forgings and stampings
+FabPr,3464,Metal forgings and stampings
+FabPr,3465,Metal forgings and stampings
+FabPr,3466,Metal forgings and stampings
+FabPr,3467,Metal forgings and stampings
+FabPr,3468,Metal forgings and stampings
+FabPr,3469,Metal forgings and stampings
+FabPr,3470,Coating and engraving
+FabPr,3471,Coating and engraving
+FabPr,3472,Coating and engraving
+FabPr,3473,Coating and engraving
+FabPr,3474,Coating and engraving
+FabPr,3475,Coating and engraving
+FabPr,3476,Coating and engraving
+FabPr,3477,Coating and engraving
+FabPr,3478,Coating and engraving
+FabPr,3479,Coating and engraving
+Mach,3510,Engines & turbines
+Mach,3511,Engines & turbines
+Mach,3512,Engines & turbines
+Mach,3513,Engines & turbines
+Mach,3514,Engines & turbines
+Mach,3515,Engines & turbines
+Mach,3516,Engines & turbines
+Mach,3517,Engines & turbines
+Mach,3518,Engines & turbines
+Mach,3519,Engines & turbines
+Mach,3520,Farm and garden machinery
+Mach,3521,Farm and garden machinery
+Mach,3522,Farm and garden machinery
+Mach,3523,Farm and garden machinery
+Mach,3524,Farm and garden machinery
+Mach,3525,Farm and garden machinery
+Mach,3526,Farm and garden machinery
+Mach,3527,Farm and garden machinery
+Mach,3528,Farm and garden machinery
+Mach,3529,Farm and garden machinery
+Mach,3530,Constr mining material handling machinery
+Mach,3531,Construction machinery
+Mach,3532,Mining machinery except oil field
+Mach,3533,Oil field machinery
+Mach,3534,Elevators
+Mach,3535,Conveyors
+Mach,3536,Cranes hoists
+Mach,3538,Machinery
+Mach,3540,Metalworking machinery 
+Mach,3541,Metalworking machinery 
+Mach,3542,Metalworking machinery 
+Mach,3543,Metalworking machinery 
+Mach,3544,Metalworking machinery 
+Mach,3545,Metalworking machinery 
+Mach,3546,Metalworking machinery 
+Mach,3547,Metalworking machinery 
+Mach,3548,Metalworking machinery 
+Mach,3549,Metalworking machinery 
+Mach,3550,Special industry machinery
+Mach,3551,Special industry machinery
+Mach,3552,Special industry machinery
+Mach,3553,Special industry machinery
+Mach,3554,Special industry machinery
+Mach,3555,Special industry machinery
+Mach,3556,Special industry machinery
+Mach,3557,Special industry machinery
+Mach,3558,Special industry machinery
+Mach,3559,Special industry machinery
+Mach,3560,General industrial machinery
+Mach,3561,General industrial machinery
+Mach,3562,General industrial machinery
+Mach,3563,General industrial machinery
+Mach,3564,General industrial machinery
+Mach,3565,General industrial machinery
+Mach,3566,General industrial machinery
+Mach,3567,General industrial machinery
+Mach,3568,General industrial machinery
+Mach,3569,General industrial machinery
+Mach,3580,Refrig & service ind machines
+Mach,3581,Automatic vending machines
+Mach,3582,Commercial laundry and drycleaning machines
+Mach,3585,Air conditioning heating refrid eq
+Mach,3586,Measuring and dispensing pumps
+Mach,3589,Service industry machinery
+Mach,3590,Misc industrial and commercial equipment and mach
+Mach,3591,Misc industrial and commercial equipment and mach
+Mach,3592,Misc industrial and commercial equipment and mach
+Mach,3593,Misc industrial and commercial equipment and mach
+Mach,3594,Misc industrial and commercial equipment and mach
+Mach,3595,Misc industrial and commercial equipment and mach
+Mach,3596,Misc industrial and commercial equipment and mach
+Mach,3597,Misc industrial and commercial equipment and mach
+Mach,3598,Misc industrial and commercial equipment and mach
+Mach,3599,Misc industrial and commercial equipment and mach
+ElcEq,3600,Elec mach eq & supply
+ElcEq,3610,Elec transmission
+ElcEq,3611,Elec transmission
+ElcEq,3612,Elec transmission
+ElcEq,3613,Elec transmission
+ElcEq,3620,Electrical industrial appar
+ElcEq,3621,Electrical industrial appar
+ElcEq,3623,Electrical industrial appar
+ElcEq,3624,Electrical industrial appar
+ElcEq,3625,Electrical industrial appar
+ElcEq,3626,Electrical industrial appar
+ElcEq,3627,Electrical industrial appar
+ElcEq,3628,Electrical industrial appar
+ElcEq,3629,Electrical industrial appar
+ElcEq,3640,Electric lighting wiring
+ElcEq,3641,Electric lighting wiring
+ElcEq,3642,Electric lighting wiring
+ElcEq,3643,Electric lighting wiring
+ElcEq,3644,Electric lighting wiring
+ElcEq,3645,Residential lighting fixtures
+ElcEq,3646,Commercial lighting 
+ElcEq,3648,Lighting equipment
+ElcEq,3649,Lighting equipment
+ElcEq,3660,Communication equip
+ElcEq,3690,Miscellaneous electrical machinery and equip
+ElcEq,3691,Storage batteries
+ElcEq,3692,Storage batteries
+ElcEq,3699,Electrical machinery and equip
+Autos,2296,Tire cord and fabric
+Autos,2396,Auto trim
+Autos,3010,Tires and inner tubes
+Autos,3011,Tires and inner tubes
+Autos,3537,Trucks tractors trailers
+Autos,3647,Vehicular lighting
+Autos,3694,Elec eq internal combustion engines
+Autos,3700,Transportation equipment
+Autos,3710,Motor vehicles and motor vehicle equip
+Autos,3711,Motor vehicles & car bodies
+Autos,3713,Truck & bus bodies
+Autos,3714,Motor vehicle parts
+Autos,3715,Truck trailers
+Autos,3716,Motor homes
+Autos,3792,Travel trailers and campers
+Autos,3790,Misc trans equip
+Autos,3791,Misc trans equip
+Autos,3799,Misc trans equip
+Aero,3720,Aircraft & parts
+Aero,3721,Aircraft
+Aero,3723,Aircraft engines engine parts
+Aero,3724,Aircraft engines engine parts
+Aero,3725,Aircraft parts
+Aero,3728,Aircraft parts
+Aero,3729,Aircraft parts
+Ships,3730,Ship building and repair
+Ships,3731,Ship building and repair
+Ships,3740,Railroad Equipment
+Ships,3741,Railroad Equipment
+Ships,3742,Railroad Equipment
+Ships,3743,Railroad Equipment
+Guns,3760,Guided missiles and space vehicles
+Guns,3761,Guided missiles and space vehicles
+Guns,3762,Guided missiles and space vehicles
+Guns,3763,Guided missiles and space vehicles
+Guns,3764,Guided missiles and space vehicles
+Guns,3765,Guided missiles and space vehicles
+Guns,3766,Guided missiles and space vehicles
+Guns,3767,Guided missiles and space vehicles
+Guns,3768,Guided missiles and space vehicles
+Guns,3769,Guided missiles and space vehicles
+Guns,3795,Tanks and tank components
+Guns,3480,Ordnance & accessories
+Guns,3481,Ordnance & accessories
+Guns,3482,Ordnance & accessories
+Guns,3483,Ordnance & accessories
+Guns,3484,Ordnance & accessories
+Guns,3485,Ordnance & accessories
+Guns,3486,Ordnance & accessories
+Guns,3487,Ordnance & accessories
+Guns,3488,Ordnance & accessories
+Guns,3489,Ordnance & accessories
+Gold,1040,Gold & silver ores
+Gold,1041,Gold & silver ores
+Gold,1042,Gold & silver ores
+Gold,1043,Gold & silver ores
+Gold,1044,Gold & silver ores
+Gold,1045,Gold & silver ores
+Gold,1046,Gold & silver ores
+Gold,1047,Gold & silver ores
+Gold,1048,Gold & silver ores
+Gold,1049,Gold & silver ores
+Mines,1000,Metal mining
+Mines,1001,Metal mining
+Mines,1002,Metal mining
+Mines,1003,Metal mining
+Mines,1004,Metal mining
+Mines,1005,Metal mining
+Mines,1006,Metal mining
+Mines,1007,Metal mining
+Mines,1008,Metal mining
+Mines,1009,Metal mining
+Mines,1010,Iron ores
+Mines,1011,Iron ores
+Mines,1012,Iron ores
+Mines,1013,Iron ores
+Mines,1014,Iron ores
+Mines,1015,Iron ores
+Mines,1016,Iron ores
+Mines,1017,Iron ores
+Mines,1018,Iron ores
+Mines,1019,Iron ores
+Mines,1020,Copper ores
+Mines,1021,Copper ores
+Mines,1022,Copper ores
+Mines,1023,Copper ores
+Mines,1024,Copper ores
+Mines,1025,Copper ores
+Mines,1026,Copper ores
+Mines,1027,Copper ores
+Mines,1028,Copper ores
+Mines,1029,Copper ores
+Mines,1030,Lead and zinc ores
+Mines,1031,Lead and zinc ores
+Mines,1032,Lead and zinc ores
+Mines,1033,Lead and zinc ores
+Mines,1034,Lead and zinc ores
+Mines,1035,Lead and zinc ores
+Mines,1036,Lead and zinc ores
+Mines,1037,Lead and zinc ores
+Mines,1038,Lead and zinc ores
+Mines,1039,Lead and zinc ores
+Mines,1050,Bauxite and other aluminum ores
+Mines,1051,Bauxite and other aluminum ores
+Mines,1052,Bauxite and other aluminum ores
+Mines,1053,Bauxite and other aluminum ores
+Mines,1054,Bauxite and other aluminum ores
+Mines,1055,Bauxite and other aluminum ores
+Mines,1056,Bauxite and other aluminum ores
+Mines,1057,Bauxite and other aluminum ores
+Mines,1058,Bauxite and other aluminum ores
+Mines,1059,Bauxite and other aluminum ores
+Mines,1060,Ferroalloy ores
+Mines,1061,Ferroalloy ores
+Mines,1062,Ferroalloy ores
+Mines,1063,Ferroalloy ores
+Mines,1064,Ferroalloy ores
+Mines,1065,Ferroalloy ores
+Mines,1066,Ferroalloy ores
+Mines,1067,Ferroalloy ores
+Mines,1068,Ferroalloy ores
+Mines,1069,Ferroalloy ores
+Mines,1070,Mining
+Mines,1071,Mining
+Mines,1072,Mining
+Mines,1073,Mining
+Mines,1074,Mining
+Mines,1075,Mining
+Mines,1076,Mining
+Mines,1077,Mining
+Mines,1078,Mining
+Mines,1079,Mining
+Mines,1080,Mining services
+Mines,1081,Mining services
+Mines,1082,Mining services
+Mines,1083,Mining services
+Mines,1084,Mining services
+Mines,1085,Mining services
+Mines,1086,Mining services
+Mines,1087,Mining services
+Mines,1088,Mining services
+Mines,1089,Mining services
+Mines,1090,Misc metal ores
+Mines,1091,Misc metal ores
+Mines,1092,Misc metal ores
+Mines,1093,Misc metal ores
+Mines,1094,Misc metal ores
+Mines,1095,Misc metal ores
+Mines,1096,Misc metal ores
+Mines,1097,Misc metal ores
+Mines,1098,Misc metal ores
+Mines,1099,Misc metal ores
+Mines,1100,Anthracite mining
+Mines,1101,Anthracite mining
+Mines,1102,Anthracite mining
+Mines,1103,Anthracite mining
+Mines,1104,Anthracite mining
+Mines,1105,Anthracite mining
+Mines,1106,Anthracite mining
+Mines,1107,Anthracite mining
+Mines,1108,Anthracite mining
+Mines,1109,Anthracite mining
+Mines,1110,Anthracite mining
+Mines,1111,Anthracite mining
+Mines,1112,Anthracite mining
+Mines,1113,Anthracite mining
+Mines,1114,Anthracite mining
+Mines,1115,Anthracite mining
+Mines,1116,Anthracite mining
+Mines,1117,Anthracite mining
+Mines,1118,Anthracite mining
+Mines,1119,Anthracite mining
+Mines,1400,Mining and quarrying non-metalic minerals
+Mines,1401,Mining and quarrying non-metalic minerals
+Mines,1402,Mining and quarrying non-metalic minerals
+Mines,1403,Mining and quarrying non-metalic minerals
+Mines,1404,Mining and quarrying non-metalic minerals
+Mines,1405,Mining and quarrying non-metalic minerals
+Mines,1406,Mining and quarrying non-metalic minerals
+Mines,1407,Mining and quarrying non-metalic minerals
+Mines,1408,Mining and quarrying non-metalic minerals
+Mines,1409,Mining and quarrying non-metalic minerals
+Mines,1410,Mining and quarrying non-metalic minerals
+Mines,1411,Mining and quarrying non-metalic minerals
+Mines,1412,Mining and quarrying non-metalic minerals
+Mines,1413,Mining and quarrying non-metalic minerals
+Mines,1414,Mining and quarrying non-metalic minerals
+Mines,1415,Mining and quarrying non-metalic minerals
+Mines,1416,Mining and quarrying non-metalic minerals
+Mines,1417,Mining and quarrying non-metalic minerals
+Mines,1418,Mining and quarrying non-metalic minerals
+Mines,1419,Mining and quarrying non-metalic minerals
+Mines,1420,Mining and quarrying non-metalic minerals
+Mines,1421,Mining and quarrying non-metalic minerals
+Mines,1422,Mining and quarrying non-metalic minerals
+Mines,1423,Mining and quarrying non-metalic minerals
+Mines,1424,Mining and quarrying non-metalic minerals
+Mines,1425,Mining and quarrying non-metalic minerals
+Mines,1426,Mining and quarrying non-metalic minerals
+Mines,1427,Mining and quarrying non-metalic minerals
+Mines,1428,Mining and quarrying non-metalic minerals
+Mines,1429,Mining and quarrying non-metalic minerals
+Mines,1430,Mining and quarrying non-metalic minerals
+Mines,1431,Mining and quarrying non-metalic minerals
+Mines,1432,Mining and quarrying non-metalic minerals
+Mines,1433,Mining and quarrying non-metalic minerals
+Mines,1434,Mining and quarrying non-metalic minerals
+Mines,1435,Mining and quarrying non-metalic minerals
+Mines,1436,Mining and quarrying non-metalic minerals
+Mines,1437,Mining and quarrying non-metalic minerals
+Mines,1438,Mining and quarrying non-metalic minerals
+Mines,1439,Mining and quarrying non-metalic minerals
+Mines,1440,Mining and quarrying non-metalic minerals
+Mines,1441,Mining and quarrying non-metalic minerals
+Mines,1442,Mining and quarrying non-metalic minerals
+Mines,1443,Mining and quarrying non-metalic minerals
+Mines,1444,Mining and quarrying non-metalic minerals
+Mines,1445,Mining and quarrying non-metalic minerals
+Mines,1446,Mining and quarrying non-metalic minerals
+Mines,1447,Mining and quarrying non-metalic minerals
+Mines,1448,Mining and quarrying non-metalic minerals
+Mines,1449,Mining and quarrying non-metalic minerals
+Mines,1450,Mining and quarrying non-metalic minerals
+Mines,1451,Mining and quarrying non-metalic minerals
+Mines,1452,Mining and quarrying non-metalic minerals
+Mines,1453,Mining and quarrying non-metalic minerals
+Mines,1454,Mining and quarrying non-metalic minerals
+Mines,1455,Mining and quarrying non-metalic minerals
+Mines,1456,Mining and quarrying non-metalic minerals
+Mines,1457,Mining and quarrying non-metalic minerals
+Mines,1458,Mining and quarrying non-metalic minerals
+Mines,1459,Mining and quarrying non-metalic minerals
+Mines,1460,Mining and quarrying non-metalic minerals
+Mines,1461,Mining and quarrying non-metalic minerals
+Mines,1462,Mining and quarrying non-metalic minerals
+Mines,1463,Mining and quarrying non-metalic minerals
+Mines,1464,Mining and quarrying non-metalic minerals
+Mines,1465,Mining and quarrying non-metalic minerals
+Mines,1466,Mining and quarrying non-metalic minerals
+Mines,1467,Mining and quarrying non-metalic minerals
+Mines,1468,Mining and quarrying non-metalic minerals
+Mines,1469,Mining and quarrying non-metalic minerals
+Mines,1470,Mining and quarrying non-metalic minerals
+Mines,1471,Mining and quarrying non-metalic minerals
+Mines,1472,Mining and quarrying non-metalic minerals
+Mines,1473,Mining and quarrying non-metalic minerals
+Mines,1474,Mining and quarrying non-metalic minerals
+Mines,1475,Mining and quarrying non-metalic minerals
+Mines,1476,Mining and quarrying non-metalic minerals
+Mines,1477,Mining and quarrying non-metalic minerals
+Mines,1478,Mining and quarrying non-metalic minerals
+Mines,1479,Mining and quarrying non-metalic minerals
+Mines,1480,Mining and quarrying non-metalic minerals
+Mines,1481,Mining and quarrying non-metalic minerals
+Mines,1482,Mining and quarrying non-metalic minerals
+Mines,1483,Mining and quarrying non-metalic minerals
+Mines,1484,Mining and quarrying non-metalic minerals
+Mines,1485,Mining and quarrying non-metalic minerals
+Mines,1486,Mining and quarrying non-metalic minerals
+Mines,1487,Mining and quarrying non-metalic minerals
+Mines,1488,Mining and quarrying non-metalic minerals
+Mines,1489,Mining and quarrying non-metalic minerals
+Mines,1490,Mining and quarrying non-metalic minerals
+Mines,1491,Mining and quarrying non-metalic minerals
+Mines,1492,Mining and quarrying non-metalic minerals
+Mines,1493,Mining and quarrying non-metalic minerals
+Mines,1494,Mining and quarrying non-metalic minerals
+Mines,1495,Mining and quarrying non-metalic minerals
+Mines,1496,Mining and quarrying non-metalic minerals
+Mines,1497,Mining and quarrying non-metalic minerals
+Mines,1498,Mining and quarrying non-metalic minerals
+Mines,1499,Mining and quarrying non-metalic minerals
+Coal,1200,Bituminous coal
+Coal,1201,Bituminous coal
+Coal,1202,Bituminous coal
+Coal,1203,Bituminous coal
+Coal,1204,Bituminous coal
+Coal,1205,Bituminous coal
+Coal,1206,Bituminous coal
+Coal,1207,Bituminous coal
+Coal,1208,Bituminous coal
+Coal,1209,Bituminous coal
+Coal,1210,Bituminous coal
+Coal,1211,Bituminous coal
+Coal,1212,Bituminous coal
+Coal,1213,Bituminous coal
+Coal,1214,Bituminous coal
+Coal,1215,Bituminous coal
+Coal,1216,Bituminous coal
+Coal,1217,Bituminous coal
+Coal,1218,Bituminous coal
+Coal,1219,Bituminous coal
+Coal,1220,Bituminous coal
+Coal,1221,Bituminous coal
+Coal,1222,Bituminous coal
+Coal,1223,Bituminous coal
+Coal,1224,Bituminous coal
+Coal,1225,Bituminous coal
+Coal,1226,Bituminous coal
+Coal,1227,Bituminous coal
+Coal,1228,Bituminous coal
+Coal,1229,Bituminous coal
+Coal,1230,Bituminous coal
+Coal,1231,Bituminous coal
+Coal,1232,Bituminous coal
+Coal,1233,Bituminous coal
+Coal,1234,Bituminous coal
+Coal,1235,Bituminous coal
+Coal,1236,Bituminous coal
+Coal,1237,Bituminous coal
+Coal,1238,Bituminous coal
+Coal,1239,Bituminous coal
+Coal,1240,Bituminous coal
+Coal,1241,Bituminous coal
+Coal,1242,Bituminous coal
+Coal,1243,Bituminous coal
+Coal,1244,Bituminous coal
+Coal,1245,Bituminous coal
+Coal,1246,Bituminous coal
+Coal,1247,Bituminous coal
+Coal,1248,Bituminous coal
+Coal,1249,Bituminous coal
+Coal,1250,Bituminous coal
+Coal,1251,Bituminous coal
+Coal,1252,Bituminous coal
+Coal,1253,Bituminous coal
+Coal,1254,Bituminous coal
+Coal,1255,Bituminous coal
+Coal,1256,Bituminous coal
+Coal,1257,Bituminous coal
+Coal,1258,Bituminous coal
+Coal,1259,Bituminous coal
+Coal,1260,Bituminous coal
+Coal,1261,Bituminous coal
+Coal,1262,Bituminous coal
+Coal,1263,Bituminous coal
+Coal,1264,Bituminous coal
+Coal,1265,Bituminous coal
+Coal,1266,Bituminous coal
+Coal,1267,Bituminous coal
+Coal,1268,Bituminous coal
+Coal,1269,Bituminous coal
+Coal,1270,Bituminous coal
+Coal,1271,Bituminous coal
+Coal,1272,Bituminous coal
+Coal,1273,Bituminous coal
+Coal,1274,Bituminous coal
+Coal,1275,Bituminous coal
+Coal,1276,Bituminous coal
+Coal,1277,Bituminous coal
+Coal,1278,Bituminous coal
+Coal,1279,Bituminous coal
+Coal,1280,Bituminous coal
+Coal,1281,Bituminous coal
+Coal,1282,Bituminous coal
+Coal,1283,Bituminous coal
+Coal,1284,Bituminous coal
+Coal,1285,Bituminous coal
+Coal,1286,Bituminous coal
+Coal,1287,Bituminous coal
+Coal,1288,Bituminous coal
+Coal,1289,Bituminous coal
+Coal,1290,Bituminous coal
+Coal,1291,Bituminous coal
+Coal,1292,Bituminous coal
+Coal,1293,Bituminous coal
+Coal,1294,Bituminous coal
+Coal,1295,Bituminous coal
+Coal,1296,Bituminous coal
+Coal,1297,Bituminous coal
+Coal,1298,Bituminous coal
+Coal,1299,Bituminous coal
+Oil,1300,Oil and gas extraction
+Oil,1310,Crude petroleum & natural gas
+Oil,1311,Crude petroleum & natural gas
+Oil,1312,Crude petroleum & natural gas
+Oil,1313,Crude petroleum & natural gas
+Oil,1314,Crude petroleum & natural gas
+Oil,1315,Crude petroleum & natural gas
+Oil,1316,Crude petroleum & natural gas
+Oil,1317,Crude petroleum & natural gas
+Oil,1318,Crude petroleum & natural gas
+Oil,1319,Crude petroleum & natural gas
+Oil,1320,Natural gas liquids
+Oil,1321,Natural gas liquids
+Oil,1322,Natural gas liquids
+Oil,1323,Natural gas liquids
+Oil,1324,Natural gas liquids
+Oil,1325,Natural gas liquids
+Oil,1326,Natural gas liquids
+Oil,1327,Natural gas liquids
+Oil,1328,Natural gas liquids
+Oil,1329,Natural gas liquids
+Oil,1330,Petroleum and natural gas
+Oil,1331,Petroleum and natural gas
+Oil,1332,Petroleum and natural gas
+Oil,1333,Petroleum and natural gas
+Oil,1334,Petroleum and natural gas
+Oil,1335,Petroleum and natural gas
+Oil,1336,Petroleum and natural gas
+Oil,1337,Petroleum and natural gas
+Oil,1338,Petroleum and natural gas
+Oil,1339,Petroleum and natural gas
+Oil,1370,Petroleum and natural gas
+Oil,1371,Petroleum and natural gas
+Oil,1372,Petroleum and natural gas
+Oil,1373,Petroleum and natural gas
+Oil,1374,Petroleum and natural gas
+Oil,1375,Petroleum and natural gas
+Oil,1376,Petroleum and natural gas
+Oil,1377,Petroleum and natural gas
+Oil,1378,Petroleum and natural gas
+Oil,1379,Petroleum and natural gas
+Oil,1380,Oil and gas field services
+Oil,1381,Drilling oil & gas wells
+Oil,1382,Oil-gas field exploration
+Oil,1389,Oil and gas field services
+Oil,2900,Petroleum refining
+Oil,2901,Petroleum refining
+Oil,2902,Petroleum refining
+Oil,2903,Petroleum refining
+Oil,2904,Petroleum refining
+Oil,2905,Petroleum refining
+Oil,2906,Petroleum refining
+Oil,2907,Petroleum refining
+Oil,2908,Petroleum refining
+Oil,2909,Petroleum refining
+Oil,2910,Petroleum refining
+Oil,2911,Petroleum refining
+Oil,2912,Petroleum refining
+Oil,2990,Misc petroleum products
+Oil,2991,Misc petroleum products
+Oil,2992,Misc petroleum products
+Oil,2993,Misc petroleum products
+Oil,2994,Misc petroleum products
+Oil,2995,Misc petroleum products
+Oil,2996,Misc petroleum products
+Oil,2997,Misc petroleum products
+Oil,2998,Misc petroleum products
+Oil,2999,Misc petroleum products
+Util,4900,Electric gas sanitary services
+Util,4910,Electric services
+Util,4911,Electric services
+Util,4920,Natural gas transmission
+Util,4921,Natural gas transmission
+Util,4922,Natural gas transmission
+Util,4923,Natural gas transmission-distr
+Util,4924,Natural gas distribution
+Util,4925,Natural gas distribution
+Util,4930,Electric and other services combined
+Util,4931,Electric and other services combined
+Util,4932,Gas and other services combined
+Util,4939,Combination utilities
+Util,4940,Water supply
+Util,4941,Water supply
+Util,4942,Water supply
+Telcm,4800,Communications
+Telcm,4810,Telephone communications
+Telcm,4811,Telephone communications
+Telcm,4812,Telephone communications
+Telcm,4813,Telephone communications
+Telcm,4820,Telegraph and other message communication
+Telcm,4821,Telegraph and other message communication
+Telcm,4822,Telegraph and other message communication
+Telcm,4830,Radio-TV Broadcasters
+Telcm,4831,Radio-TV Broadcasters
+Telcm,4832,Radio-TV Broadcasters
+Telcm,4833,Radio-TV Broadcasters
+Telcm,4834,Radio-TV Broadcasters
+Telcm,4835,Radio-TV Broadcasters
+Telcm,4836,Radio-TV Broadcasters
+Telcm,4837,Radio-TV Broadcasters
+Telcm,4838,Radio-TV Broadcasters
+Telcm,4839,Radio-TV Broadcasters
+Telcm,4840,Cable and other pay TV services
+Telcm,4841,Cable and other pay TV services
+Telcm,4880,Communications
+Telcm,4881,Communications
+Telcm,4882,Communications
+Telcm,4883,Communications
+Telcm,4884,Communications
+Telcm,4885,Communications
+Telcm,4886,Communications
+Telcm,4887,Communications
+Telcm,4888,Communications
+Telcm,4889,Communications
+Telcm,4890,Communication services (Comsat)
+Telcm,4891,Cable TV operators
+Telcm,4892,Telephone interconnect
+Telcm,4899,Communication services
+PerSv,7020,Rooming and boarding houses
+PerSv,7021,Rooming and boarding houses
+PerSv,7030,Camps and recreational vehicle parks
+PerSv,7031,Camps and recreational vehicle parks
+PerSv,7032,Camps and recreational vehicle parks
+PerSv,7033,Camps and recreational vehicle parks
+PerSv,7200,Services - personal
+PerSv,7210,Services - laundry cleaners
+PerSv,7211,Services - laundry cleaners
+PerSv,7212,Services - laundry cleaners
+PerSv,7214,Services - diaper service
+PerSv,7215,Services - coin-op cleaners dry cleaners
+PerSv,7216,Services - coin-op cleaners dry cleaners
+PerSv,7217,Services - carpet upholstery cleaning
+PerSv,7219,Services - laundry cleaners
+PerSv,7220,Services - photo studios portrait
+PerSv,7221,Services - photo studios portrait
+PerSv,7230,Services - beauty shops
+PerSv,7231,Services - beauty shops
+PerSv,7240,Services - barber shops
+PerSv,7241,Services - barber shops
+PerSv,7250,Services - shoe repair
+PerSv,7251,Services - shoe repair
+PerSv,7260,Services - funeral
+PerSv,7261,Services - funeral
+PerSv,7262,Services - funeral
+PerSv,7263,Services - funeral
+PerSv,7264,Services - funeral
+PerSv,7265,Services - funeral
+PerSv,7266,Services - funeral
+PerSv,7267,Services - funeral
+PerSv,7268,Services - funeral
+PerSv,7269,Services - funeral
+PerSv,7270,Services - misc
+PerSv,7271,Services - misc
+PerSv,7272,Services - misc
+PerSv,7273,Services - misc
+PerSv,7274,Services - misc
+PerSv,7275,Services - misc
+PerSv,7276,Services - misc
+PerSv,7277,Services - misc
+PerSv,7278,Services - misc
+PerSv,7279,Services - misc
+PerSv,7280,Services - misc
+PerSv,7281,Services - misc
+PerSv,7282,Services - misc
+PerSv,7283,Services - misc
+PerSv,7284,Services - misc
+PerSv,7285,Services - misc
+PerSv,7286,Services - misc
+PerSv,7287,Services - misc
+PerSv,7288,Services - misc
+PerSv,7289,Services - misc
+PerSv,7290,Services - misc
+PerSv,7291,Services - tax return
+PerSv,7292,Services - misc
+PerSv,7293,Services - misc
+PerSv,7294,Services - misc
+PerSv,7295,Services - misc
+PerSv,7296,Services - misc
+PerSv,7297,Services - misc
+PerSv,7298,Services - misc
+PerSv,7299,Services - misc
+PerSv,7395,Services - photofinishing labs (School pictures)
+PerSv,7500,Services - auto repair services
+PerSv,7520,Services - automobile parking
+PerSv,7521,Services - automobile parking
+PerSv,7522,Services - automobile parking
+PerSv,7523,Services - automobile parking
+PerSv,7524,Services - automobile parking
+PerSv,7525,Services - automobile parking
+PerSv,7526,Services - automobile parking
+PerSv,7527,Services - automobile parking
+PerSv,7528,Services - automobile parking
+PerSv,7529,Services - automobile parking
+PerSv,7530,Services - auto repair shops
+PerSv,7531,Services - auto repair shops
+PerSv,7532,Services - auto repair shops
+PerSv,7533,Services - auto repair shops
+PerSv,7534,Services - auto repair shops
+PerSv,7535,Services - auto repair shops
+PerSv,7536,Services - auto repair shops
+PerSv,7537,Services - auto repair shops
+PerSv,7538,Services - auto repair shops
+PerSv,7539,Services - auto repair shops
+PerSv,7540,Services - auto services except repair (car washes)
+PerSv,7541,Services - auto services except repair (car washes)
+PerSv,7542,Services - auto services except repair (car washes)
+PerSv,7543,Services - auto services except repair (car washes)
+PerSv,7544,Services - auto services except repair (car washes)
+PerSv,7545,Services - auto services except repair (car washes)
+PerSv,7546,Services - auto services except repair (car washes)
+PerSv,7547,Services - auto services except repair (car washes)
+PerSv,7548,Services - auto services except repair (car washes)
+PerSv,7549,Services - auto services except repair (car washes)
+PerSv,7600,Services - Misc repair services
+PerSv,7620,Services - Electrical repair shops
+PerSv,7622,Services - Radio and TV repair shops
+PerSv,7623,Services - Refridg and air conditioner repair
+PerSv,7629,Services - Electrical repair shops
+PerSv,7630,Services - Watch clock and jewelry repair
+PerSv,7631,Services - Watch clock and jewelry repair
+PerSv,7640,Services - Reupholster furniture repair
+PerSv,7641,Services - Reupholster furniture repair
+PerSv,7690,Services - Misc repair shops
+PerSv,7691,Services - Misc repair shops
+PerSv,7692,Services - Misc repair shops
+PerSv,7693,Services - Misc repair shops
+PerSv,7694,Services - Misc repair shops
+PerSv,7695,Services - Misc repair shops
+PerSv,7696,Services - Misc repair shops
+PerSv,7697,Services - Misc repair shops
+PerSv,7698,Services - Misc repair shops
+PerSv,7699,Services - Misc repair shops
+PerSv,8100,Services - legal
+PerSv,8101,Services - legal
+PerSv,8102,Services - legal
+PerSv,8103,Services - legal
+PerSv,8104,Services - legal
+PerSv,8105,Services - legal
+PerSv,8106,Services - legal
+PerSv,8107,Services - legal
+PerSv,8108,Services - legal
+PerSv,8109,Services - legal
+PerSv,8110,Services - legal
+PerSv,8111,Services - legal
+PerSv,8112,Services - legal
+PerSv,8113,Services - legal
+PerSv,8114,Services - legal
+PerSv,8115,Services - legal
+PerSv,8116,Services - legal
+PerSv,8117,Services - legal
+PerSv,8118,Services - legal
+PerSv,8119,Services - legal
+PerSv,8120,Services - legal
+PerSv,8121,Services - legal
+PerSv,8122,Services - legal
+PerSv,8123,Services - legal
+PerSv,8124,Services - legal
+PerSv,8125,Services - legal
+PerSv,8126,Services - legal
+PerSv,8127,Services - legal
+PerSv,8128,Services - legal
+PerSv,8129,Services - legal
+PerSv,8130,Services - legal
+PerSv,8131,Services - legal
+PerSv,8132,Services - legal
+PerSv,8133,Services - legal
+PerSv,8134,Services - legal
+PerSv,8135,Services - legal
+PerSv,8136,Services - legal
+PerSv,8137,Services - legal
+PerSv,8138,Services - legal
+PerSv,8139,Services - legal
+PerSv,8140,Services - legal
+PerSv,8141,Services - legal
+PerSv,8142,Services - legal
+PerSv,8143,Services - legal
+PerSv,8144,Services - legal
+PerSv,8145,Services - legal
+PerSv,8146,Services - legal
+PerSv,8147,Services - legal
+PerSv,8148,Services - legal
+PerSv,8149,Services - legal
+PerSv,8150,Services - legal
+PerSv,8151,Services - legal
+PerSv,8152,Services - legal
+PerSv,8153,Services - legal
+PerSv,8154,Services - legal
+PerSv,8155,Services - legal
+PerSv,8156,Services - legal
+PerSv,8157,Services - legal
+PerSv,8158,Services - legal
+PerSv,8159,Services - legal
+PerSv,8160,Services - legal
+PerSv,8161,Services - legal
+PerSv,8162,Services - legal
+PerSv,8163,Services - legal
+PerSv,8164,Services - legal
+PerSv,8165,Services - legal
+PerSv,8166,Services - legal
+PerSv,8167,Services - legal
+PerSv,8168,Services - legal
+PerSv,8169,Services - legal
+PerSv,8170,Services - legal
+PerSv,8171,Services - legal
+PerSv,8172,Services - legal
+PerSv,8173,Services - legal
+PerSv,8174,Services - legal
+PerSv,8175,Services - legal
+PerSv,8176,Services - legal
+PerSv,8177,Services - legal
+PerSv,8178,Services - legal
+PerSv,8179,Services - legal
+PerSv,8180,Services - legal
+PerSv,8181,Services - legal
+PerSv,8182,Services - legal
+PerSv,8183,Services - legal
+PerSv,8184,Services - legal
+PerSv,8185,Services - legal
+PerSv,8186,Services - legal
+PerSv,8187,Services - legal
+PerSv,8188,Services - legal
+PerSv,8189,Services - legal
+PerSv,8190,Services - legal
+PerSv,8191,Services - legal
+PerSv,8192,Services - legal
+PerSv,8193,Services - legal
+PerSv,8194,Services - legal
+PerSv,8195,Services - legal
+PerSv,8196,Services - legal
+PerSv,8197,Services - legal
+PerSv,8198,Services - legal
+PerSv,8199,Services - legal
+PerSv,8200,Services - educational
+PerSv,8201,Services - educational
+PerSv,8202,Services - educational
+PerSv,8203,Services - educational
+PerSv,8204,Services - educational
+PerSv,8205,Services - educational
+PerSv,8206,Services - educational
+PerSv,8207,Services - educational
+PerSv,8208,Services - educational
+PerSv,8209,Services - educational
+PerSv,8210,Services - educational
+PerSv,8211,Services - educational
+PerSv,8212,Services - educational
+PerSv,8213,Services - educational
+PerSv,8214,Services - educational
+PerSv,8215,Services - educational
+PerSv,8216,Services - educational
+PerSv,8217,Services - educational
+PerSv,8218,Services - educational
+PerSv,8219,Services - educational
+PerSv,8220,Services - educational
+PerSv,8221,Services - educational
+PerSv,8222,Services - educational
+PerSv,8223,Services - educational
+PerSv,8224,Services - educational
+PerSv,8225,Services - educational
+PerSv,8226,Services - educational
+PerSv,8227,Services - educational
+PerSv,8228,Services - educational
+PerSv,8229,Services - educational
+PerSv,8230,Services - educational
+PerSv,8231,Services - educational
+PerSv,8232,Services - educational
+PerSv,8233,Services - educational
+PerSv,8234,Services - educational
+PerSv,8235,Services - educational
+PerSv,8236,Services - educational
+PerSv,8237,Services - educational
+PerSv,8238,Services - educational
+PerSv,8239,Services - educational
+PerSv,8240,Services - educational
+PerSv,8241,Services - educational
+PerSv,8242,Services - educational
+PerSv,8243,Services - educational
+PerSv,8244,Services - educational
+PerSv,8245,Services - educational
+PerSv,8246,Services - educational
+PerSv,8247,Services - educational
+PerSv,8248,Services - educational
+PerSv,8249,Services - educational
+PerSv,8250,Services - educational
+PerSv,8251,Services - educational
+PerSv,8252,Services - educational
+PerSv,8253,Services - educational
+PerSv,8254,Services - educational
+PerSv,8255,Services - educational
+PerSv,8256,Services - educational
+PerSv,8257,Services - educational
+PerSv,8258,Services - educational
+PerSv,8259,Services - educational
+PerSv,8260,Services - educational
+PerSv,8261,Services - educational
+PerSv,8262,Services - educational
+PerSv,8263,Services - educational
+PerSv,8264,Services - educational
+PerSv,8265,Services - educational
+PerSv,8266,Services - educational
+PerSv,8267,Services - educational
+PerSv,8268,Services - educational
+PerSv,8269,Services - educational
+PerSv,8270,Services - educational
+PerSv,8271,Services - educational
+PerSv,8272,Services - educational
+PerSv,8273,Services - educational
+PerSv,8274,Services - educational
+PerSv,8275,Services - educational
+PerSv,8276,Services - educational
+PerSv,8277,Services - educational
+PerSv,8278,Services - educational
+PerSv,8279,Services - educational
+PerSv,8280,Services - educational
+PerSv,8281,Services - educational
+PerSv,8282,Services - educational
+PerSv,8283,Services - educational
+PerSv,8284,Services - educational
+PerSv,8285,Services - educational
+PerSv,8286,Services - educational
+PerSv,8287,Services - educational
+PerSv,8288,Services - educational
+PerSv,8289,Services - educational
+PerSv,8290,Services - educational
+PerSv,8291,Services - educational
+PerSv,8292,Services - educational
+PerSv,8293,Services - educational
+PerSv,8294,Services - educational
+PerSv,8295,Services - educational
+PerSv,8296,Services - educational
+PerSv,8297,Services - educational
+PerSv,8298,Services - educational
+PerSv,8299,Services - educational
+PerSv,8300,Services - social services
+PerSv,8301,Services - social services
+PerSv,8302,Services - social services
+PerSv,8303,Services - social services
+PerSv,8304,Services - social services
+PerSv,8305,Services - social services
+PerSv,8306,Services - social services
+PerSv,8307,Services - social services
+PerSv,8308,Services - social services
+PerSv,8309,Services - social services
+PerSv,8310,Services - social services
+PerSv,8311,Services - social services
+PerSv,8312,Services - social services
+PerSv,8313,Services - social services
+PerSv,8314,Services - social services
+PerSv,8315,Services - social services
+PerSv,8316,Services - social services
+PerSv,8317,Services - social services
+PerSv,8318,Services - social services
+PerSv,8319,Services - social services
+PerSv,8320,Services - social services
+PerSv,8321,Services - social services
+PerSv,8322,Services - social services
+PerSv,8323,Services - social services
+PerSv,8324,Services - social services
+PerSv,8325,Services - social services
+PerSv,8326,Services - social services
+PerSv,8327,Services - social services
+PerSv,8328,Services - social services
+PerSv,8329,Services - social services
+PerSv,8330,Services - social services
+PerSv,8331,Services - social services
+PerSv,8332,Services - social services
+PerSv,8333,Services - social services
+PerSv,8334,Services - social services
+PerSv,8335,Services - social services
+PerSv,8336,Services - social services
+PerSv,8337,Services - social services
+PerSv,8338,Services - social services
+PerSv,8339,Services - social services
+PerSv,8340,Services - social services
+PerSv,8341,Services - social services
+PerSv,8342,Services - social services
+PerSv,8343,Services - social services
+PerSv,8344,Services - social services
+PerSv,8345,Services - social services
+PerSv,8346,Services - social services
+PerSv,8347,Services - social services
+PerSv,8348,Services - social services
+PerSv,8349,Services - social services
+PerSv,8350,Services - social services
+PerSv,8351,Services - social services
+PerSv,8352,Services - social services
+PerSv,8353,Services - social services
+PerSv,8354,Services - social services
+PerSv,8355,Services - social services
+PerSv,8356,Services - social services
+PerSv,8357,Services - social services
+PerSv,8358,Services - social services
+PerSv,8359,Services - social services
+PerSv,8360,Services - social services
+PerSv,8361,Services - social services
+PerSv,8362,Services - social services
+PerSv,8363,Services - social services
+PerSv,8364,Services - social services
+PerSv,8365,Services - social services
+PerSv,8366,Services - social services
+PerSv,8367,Services - social services
+PerSv,8368,Services - social services
+PerSv,8369,Services - social services
+PerSv,8370,Services - social services
+PerSv,8371,Services - social services
+PerSv,8372,Services - social services
+PerSv,8373,Services - social services
+PerSv,8374,Services - social services
+PerSv,8375,Services - social services
+PerSv,8376,Services - social services
+PerSv,8377,Services - social services
+PerSv,8378,Services - social services
+PerSv,8379,Services - social services
+PerSv,8380,Services - social services
+PerSv,8381,Services - social services
+PerSv,8382,Services - social services
+PerSv,8383,Services - social services
+PerSv,8384,Services - social services
+PerSv,8385,Services - social services
+PerSv,8386,Services - social services
+PerSv,8387,Services - social services
+PerSv,8388,Services - social services
+PerSv,8389,Services - social services
+PerSv,8390,Services - social services
+PerSv,8391,Services - social services
+PerSv,8392,Services - social services
+PerSv,8393,Services - social services
+PerSv,8394,Services - social services
+PerSv,8395,Services - social services
+PerSv,8396,Services - social services
+PerSv,8397,Services - social services
+PerSv,8398,Services - social services
+PerSv,8399,Services - social services
+PerSv,8400,Services - museums galleries botanic gardens
+PerSv,8401,Services - museums galleries botanic gardens
+PerSv,8402,Services - museums galleries botanic gardens
+PerSv,8403,Services - museums galleries botanic gardens
+PerSv,8404,Services - museums galleries botanic gardens
+PerSv,8405,Services - museums galleries botanic gardens
+PerSv,8406,Services - museums galleries botanic gardens
+PerSv,8407,Services - museums galleries botanic gardens
+PerSv,8408,Services - museums galleries botanic gardens
+PerSv,8409,Services - museums galleries botanic gardens
+PerSv,8410,Services - museums galleries botanic gardens
+PerSv,8411,Services - museums galleries botanic gardens
+PerSv,8412,Services - museums galleries botanic gardens
+PerSv,8413,Services - museums galleries botanic gardens
+PerSv,8414,Services - museums galleries botanic gardens
+PerSv,8415,Services - museums galleries botanic gardens
+PerSv,8416,Services - museums galleries botanic gardens
+PerSv,8417,Services - museums galleries botanic gardens
+PerSv,8418,Services - museums galleries botanic gardens
+PerSv,8419,Services - museums galleries botanic gardens
+PerSv,8420,Services - museums galleries botanic gardens
+PerSv,8421,Services - museums galleries botanic gardens
+PerSv,8422,Services - museums galleries botanic gardens
+PerSv,8423,Services - museums galleries botanic gardens
+PerSv,8424,Services - museums galleries botanic gardens
+PerSv,8425,Services - museums galleries botanic gardens
+PerSv,8426,Services - museums galleries botanic gardens
+PerSv,8427,Services - museums galleries botanic gardens
+PerSv,8428,Services - museums galleries botanic gardens
+PerSv,8429,Services - museums galleries botanic gardens
+PerSv,8430,Services - museums galleries botanic gardens
+PerSv,8431,Services - museums galleries botanic gardens
+PerSv,8432,Services - museums galleries botanic gardens
+PerSv,8433,Services - museums galleries botanic gardens
+PerSv,8434,Services - museums galleries botanic gardens
+PerSv,8435,Services - museums galleries botanic gardens
+PerSv,8436,Services - museums galleries botanic gardens
+PerSv,8437,Services - museums galleries botanic gardens
+PerSv,8438,Services - museums galleries botanic gardens
+PerSv,8439,Services - museums galleries botanic gardens
+PerSv,8440,Services - museums galleries botanic gardens
+PerSv,8441,Services - museums galleries botanic gardens
+PerSv,8442,Services - museums galleries botanic gardens
+PerSv,8443,Services - museums galleries botanic gardens
+PerSv,8444,Services - museums galleries botanic gardens
+PerSv,8445,Services - museums galleries botanic gardens
+PerSv,8446,Services - museums galleries botanic gardens
+PerSv,8447,Services - museums galleries botanic gardens
+PerSv,8448,Services - museums galleries botanic gardens
+PerSv,8449,Services - museums galleries botanic gardens
+PerSv,8450,Services - museums galleries botanic gardens
+PerSv,8451,Services - museums galleries botanic gardens
+PerSv,8452,Services - museums galleries botanic gardens
+PerSv,8453,Services - museums galleries botanic gardens
+PerSv,8454,Services - museums galleries botanic gardens
+PerSv,8455,Services - museums galleries botanic gardens
+PerSv,8456,Services - museums galleries botanic gardens
+PerSv,8457,Services - museums galleries botanic gardens
+PerSv,8458,Services - museums galleries botanic gardens
+PerSv,8459,Services - museums galleries botanic gardens
+PerSv,8460,Services - museums galleries botanic gardens
+PerSv,8461,Services - museums galleries botanic gardens
+PerSv,8462,Services - museums galleries botanic gardens
+PerSv,8463,Services - museums galleries botanic gardens
+PerSv,8464,Services - museums galleries botanic gardens
+PerSv,8465,Services - museums galleries botanic gardens
+PerSv,8466,Services - museums galleries botanic gardens
+PerSv,8467,Services - museums galleries botanic gardens
+PerSv,8468,Services - museums galleries botanic gardens
+PerSv,8469,Services - museums galleries botanic gardens
+PerSv,8470,Services - museums galleries botanic gardens
+PerSv,8471,Services - museums galleries botanic gardens
+PerSv,8472,Services - museums galleries botanic gardens
+PerSv,8473,Services - museums galleries botanic gardens
+PerSv,8474,Services - museums galleries botanic gardens
+PerSv,8475,Services - museums galleries botanic gardens
+PerSv,8476,Services - museums galleries botanic gardens
+PerSv,8477,Services - museums galleries botanic gardens
+PerSv,8478,Services - museums galleries botanic gardens
+PerSv,8479,Services - museums galleries botanic gardens
+PerSv,8480,Services - museums galleries botanic gardens
+PerSv,8481,Services - museums galleries botanic gardens
+PerSv,8482,Services - museums galleries botanic gardens
+PerSv,8483,Services - museums galleries botanic gardens
+PerSv,8484,Services - museums galleries botanic gardens
+PerSv,8485,Services - museums galleries botanic gardens
+PerSv,8486,Services - museums galleries botanic gardens
+PerSv,8487,Services - museums galleries botanic gardens
+PerSv,8488,Services - museums galleries botanic gardens
+PerSv,8489,Services - museums galleries botanic gardens
+PerSv,8490,Services - museums galleries botanic gardens
+PerSv,8491,Services - museums galleries botanic gardens
+PerSv,8492,Services - museums galleries botanic gardens
+PerSv,8493,Services - museums galleries botanic gardens
+PerSv,8494,Services - museums galleries botanic gardens
+PerSv,8495,Services - museums galleries botanic gardens
+PerSv,8496,Services - museums galleries botanic gardens
+PerSv,8497,Services - museums galleries botanic gardens
+PerSv,8498,Services - museums galleries botanic gardens
+PerSv,8499,Services - museums galleries botanic gardens
+PerSv,8600,Services - membership organizations
+PerSv,8601,Services - membership organizations
+PerSv,8602,Services - membership organizations
+PerSv,8603,Services - membership organizations
+PerSv,8604,Services - membership organizations
+PerSv,8605,Services - membership organizations
+PerSv,8606,Services - membership organizations
+PerSv,8607,Services - membership organizations
+PerSv,8608,Services - membership organizations
+PerSv,8609,Services - membership organizations
+PerSv,8610,Services - membership organizations
+PerSv,8611,Services - membership organizations
+PerSv,8612,Services - membership organizations
+PerSv,8613,Services - membership organizations
+PerSv,8614,Services - membership organizations
+PerSv,8615,Services - membership organizations
+PerSv,8616,Services - membership organizations
+PerSv,8617,Services - membership organizations
+PerSv,8618,Services - membership organizations
+PerSv,8619,Services - membership organizations
+PerSv,8620,Services - membership organizations
+PerSv,8621,Services - membership organizations
+PerSv,8622,Services - membership organizations
+PerSv,8623,Services - membership organizations
+PerSv,8624,Services - membership organizations
+PerSv,8625,Services - membership organizations
+PerSv,8626,Services - membership organizations
+PerSv,8627,Services - membership organizations
+PerSv,8628,Services - membership organizations
+PerSv,8629,Services - membership organizations
+PerSv,8630,Services - membership organizations
+PerSv,8631,Services - membership organizations
+PerSv,8632,Services - membership organizations
+PerSv,8633,Services - membership organizations
+PerSv,8634,Services - membership organizations
+PerSv,8635,Services - membership organizations
+PerSv,8636,Services - membership organizations
+PerSv,8637,Services - membership organizations
+PerSv,8638,Services - membership organizations
+PerSv,8639,Services - membership organizations
+PerSv,8640,Services - membership organizations
+PerSv,8641,Services - membership organizations
+PerSv,8642,Services - membership organizations
+PerSv,8643,Services - membership organizations
+PerSv,8644,Services - membership organizations
+PerSv,8645,Services - membership organizations
+PerSv,8646,Services - membership organizations
+PerSv,8647,Services - membership organizations
+PerSv,8648,Services - membership organizations
+PerSv,8649,Services - membership organizations
+PerSv,8650,Services - membership organizations
+PerSv,8651,Services - membership organizations
+PerSv,8652,Services - membership organizations
+PerSv,8653,Services - membership organizations
+PerSv,8654,Services - membership organizations
+PerSv,8655,Services - membership organizations
+PerSv,8656,Services - membership organizations
+PerSv,8657,Services - membership organizations
+PerSv,8658,Services - membership organizations
+PerSv,8659,Services - membership organizations
+PerSv,8660,Services - membership organizations
+PerSv,8661,Services - membership organizations
+PerSv,8662,Services - membership organizations
+PerSv,8663,Services - membership organizations
+PerSv,8664,Services - membership organizations
+PerSv,8665,Services - membership organizations
+PerSv,8666,Services - membership organizations
+PerSv,8667,Services - membership organizations
+PerSv,8668,Services - membership organizations
+PerSv,8669,Services - membership organizations
+PerSv,8670,Services - membership organizations
+PerSv,8671,Services - membership organizations
+PerSv,8672,Services - membership organizations
+PerSv,8673,Services - membership organizations
+PerSv,8674,Services - membership organizations
+PerSv,8675,Services - membership organizations
+PerSv,8676,Services - membership organizations
+PerSv,8677,Services - membership organizations
+PerSv,8678,Services - membership organizations
+PerSv,8679,Services - membership organizations
+PerSv,8680,Services - membership organizations
+PerSv,8681,Services - membership organizations
+PerSv,8682,Services - membership organizations
+PerSv,8683,Services - membership organizations
+PerSv,8684,Services - membership organizations
+PerSv,8685,Services - membership organizations
+PerSv,8686,Services - membership organizations
+PerSv,8687,Services - membership organizations
+PerSv,8688,Services - membership organizations
+PerSv,8689,Services - membership organizations
+PerSv,8690,Services - membership organizations
+PerSv,8691,Services - membership organizations
+PerSv,8692,Services - membership organizations
+PerSv,8693,Services - membership organizations
+PerSv,8694,Services - membership organizations
+PerSv,8695,Services - membership organizations
+PerSv,8696,Services - membership organizations
+PerSv,8697,Services - membership organizations
+PerSv,8698,Services - membership organizations
+PerSv,8699,Services - membership organizations
+PerSv,8800,Services - private households
+PerSv,8801,Services - private households
+PerSv,8802,Services - private households
+PerSv,8803,Services - private households
+PerSv,8804,Services - private households
+PerSv,8805,Services - private households
+PerSv,8806,Services - private households
+PerSv,8807,Services - private households
+PerSv,8808,Services - private households
+PerSv,8809,Services - private households
+PerSv,8810,Services - private households
+PerSv,8811,Services - private households
+PerSv,8812,Services - private households
+PerSv,8813,Services - private households
+PerSv,8814,Services - private households
+PerSv,8815,Services - private households
+PerSv,8816,Services - private households
+PerSv,8817,Services - private households
+PerSv,8818,Services - private households
+PerSv,8819,Services - private households
+PerSv,8820,Services - private households
+PerSv,8821,Services - private households
+PerSv,8822,Services - private households
+PerSv,8823,Services - private households
+PerSv,8824,Services - private households
+PerSv,8825,Services - private households
+PerSv,8826,Services - private households
+PerSv,8827,Services - private households
+PerSv,8828,Services - private households
+PerSv,8829,Services - private households
+PerSv,8830,Services - private households
+PerSv,8831,Services - private households
+PerSv,8832,Services - private households
+PerSv,8833,Services - private households
+PerSv,8834,Services - private households
+PerSv,8835,Services - private households
+PerSv,8836,Services - private households
+PerSv,8837,Services - private households
+PerSv,8838,Services - private households
+PerSv,8839,Services - private households
+PerSv,8840,Services - private households
+PerSv,8841,Services - private households
+PerSv,8842,Services - private households
+PerSv,8843,Services - private households
+PerSv,8844,Services - private households
+PerSv,8845,Services - private households
+PerSv,8846,Services - private households
+PerSv,8847,Services - private households
+PerSv,8848,Services - private households
+PerSv,8849,Services - private households
+PerSv,8850,Services - private households
+PerSv,8851,Services - private households
+PerSv,8852,Services - private households
+PerSv,8853,Services - private households
+PerSv,8854,Services - private households
+PerSv,8855,Services - private households
+PerSv,8856,Services - private households
+PerSv,8857,Services - private households
+PerSv,8858,Services - private households
+PerSv,8859,Services - private households
+PerSv,8860,Services - private households
+PerSv,8861,Services - private households
+PerSv,8862,Services - private households
+PerSv,8863,Services - private households
+PerSv,8864,Services - private households
+PerSv,8865,Services - private households
+PerSv,8866,Services - private households
+PerSv,8867,Services - private households
+PerSv,8868,Services - private households
+PerSv,8869,Services - private households
+PerSv,8870,Services - private households
+PerSv,8871,Services - private households
+PerSv,8872,Services - private households
+PerSv,8873,Services - private households
+PerSv,8874,Services - private households
+PerSv,8875,Services - private households
+PerSv,8876,Services - private households
+PerSv,8877,Services - private households
+PerSv,8878,Services - private households
+PerSv,8879,Services - private households
+PerSv,8880,Services - private households
+PerSv,8881,Services - private households
+PerSv,8882,Services - private households
+PerSv,8883,Services - private households
+PerSv,8884,Services - private households
+PerSv,8885,Services - private households
+PerSv,8886,Services - private households
+PerSv,8887,Services - private households
+PerSv,8888,Services - private households
+PerSv,8889,Services - private households
+PerSv,8890,Services - private households
+PerSv,8891,Services - private households
+PerSv,8892,Services - private households
+PerSv,8893,Services - private households
+PerSv,8894,Services - private households
+PerSv,8895,Services - private households
+PerSv,8896,Services - private households
+PerSv,8897,Services - private households
+PerSv,8898,Services - private households
+PerSv,8899,Services - private households
+PerSv,7510,Services - truck auto rental and leasing
+PerSv,7511,Services - truck auto rental and leasing
+PerSv,7512,Services - truck auto rental and leasing
+PerSv,7513,Services - truck auto rental and leasing
+PerSv,7514,Services - truck auto rental and leasing
+PerSv,7515,Services - truck auto rental and leasing
+BusSv,2750,Commercial printing
+BusSv,2751,Commercial printing
+BusSv,2752,Commercial printing
+BusSv,2753,Commercial printing
+BusSv,2754,Commercial printing
+BusSv,2755,Commercial printing
+BusSv,2756,Commercial printing
+BusSv,2757,Commercial printing
+BusSv,2758,Commercial printing
+BusSv,2759,Commercial printing
+BusSv,3993,Signs advertising specialty
+BusSv,7218,Services - industrial launderers
+BusSv,7300,Services - business services
+BusSv,7310,Services - advertising
+BusSv,7311,Services - advertising
+BusSv,7312,Services - advertising
+BusSv,7313,Services - advertising
+BusSv,7314,Services - advertising
+BusSv,7315,Services - advertising
+BusSv,7316,Services - advertising
+BusSv,7317,Services - advertising
+BusSv,7318,Services - advertising
+BusSv,7319,Services - advertising
+BusSv,7320,Services - credit reporting agencies collection services
+BusSv,7321,Services - credit reporting agencies collection services
+BusSv,7322,Services - credit reporting agencies collection services
+BusSv,7323,Services - credit reporting agencies collection services
+BusSv,7324,Services - credit reporting agencies collection services
+BusSv,7325,Services - credit reporting agencies collection services
+BusSv,7326,Services - credit reporting agencies collection services
+BusSv,7327,Services - credit reporting agencies collection services
+BusSv,7328,Services - credit reporting agencies collection services
+BusSv,7329,Services - credit reporting agencies collection services
+BusSv,7330,Services - mailing reproduction commercial art
+BusSv,7331,Services - mailing reproduction commercial art
+BusSv,7332,Services - mailing reproduction commercial art
+BusSv,7333,Services - mailing reproduction commercial art
+BusSv,7334,Services - mailing reproduction commercial art
+BusSv,7335,Services - mailing reproduction commercial art
+BusSv,7336,Services - mailing reproduction commercial art
+BusSv,7337,Services - mailing reproduction commercial art
+BusSv,7338,Services - mailing reproduction commercial art
+BusSv,7339,Services - mailing reproduction commercial art
+BusSv,7340,Services - services to dwellings other buildings
+BusSv,7341,Services - services to dwellings other buildings
+BusSv,7342,Services - services to dwellings other buildings
+BusSv,7349,Services - cleaning and builging maint
+BusSv,7350,Services - misc equip rental and leasing
+BusSv,7351,Services - misc equip rental and leasing
+BusSv,7352,Services - medical equip rental
+BusSv,7353,Services - heavy construction equip rental
+BusSv,7359,Services - equip rental and leasing
+BusSv,7360,Services - personnel supply services
+BusSv,7361,Services - personnel supply services
+BusSv,7362,Services - personnel supply services
+BusSv,7363,Services - personnel supply services
+BusSv,7364,Services - personnel supply services
+BusSv,7365,Services - personnel supply services
+BusSv,7366,Services - personnel supply services
+BusSv,7367,Services - personnel supply services
+BusSv,7368,Services - personnel supply services
+BusSv,7369,Services - personnel supply services
+BusSv,7370,Services - computer programming and data processing
+BusSv,7371,Services - computer programming and data processing
+BusSv,7372,Services - computer programming and data processing
+BusSv,7374,Services - computer processing data prep
+BusSv,7375,Services - information retrieval services
+BusSv,7376,Services - computer facilities management service
+BusSv,7377,Services - computer rental and leasing
+BusSv,7378,Services - computer maintanence and repair
+BusSv,7379,Services - computer related services
+BusSv,7380,Services - misc business services
+BusSv,7381,Services - security
+BusSv,7382,Services - security
+BusSv,7383,Services - news syndicates
+BusSv,7384,Services - photofinishing labs
+BusSv,7385,Services - telephone interconnections
+BusSv,7389,Services - misc business services
+BusSv,7390,Services - misc business services
+BusSv,7391,Services - R&D labs
+BusSv,7392,Services - management consulting & P.R.
+BusSv,7393,Services - detective and protective (ADT)
+BusSv,7394,Services - equipment rental & leasing
+BusSv,7396,Services - trading stamp services
+BusSv,7397,Services - commercial testing labs
+BusSv,7399,Services - business services
+BusSv,7519,Services - trailer rental and leasing
+BusSv,8700,Services - engineering accounting research management
+BusSv,8710,Services - engineering accounting surveying
+BusSv,8711,Services - engineering accounting surveying
+BusSv,8712,Services - engineering accounting surveying
+BusSv,8713,Services - engineering accounting surveying
+BusSv,8720,Services - accounting auditing bookkeeping
+BusSv,8721,Services - accounting auditing bookkeeping
+BusSv,8730,Services - research development testing labs
+BusSv,8731,Services - research development testing labs
+BusSv,8732,Services - research development testing labs
+BusSv,8733,Services - research development testing labs
+BusSv,8734,Services - research development testing labs
+BusSv,8740,Services - management public relations consulting
+BusSv,8741,Services - management public relations consulting
+BusSv,8742,Services - management public relations consulting
+BusSv,8743,Services - management public relations consulting
+BusSv,8744,Services - management public relations consulting
+BusSv,8745,Services - management public relations consulting
+BusSv,8746,Services - management public relations consulting
+BusSv,8747,Services - management public relations consulting
+BusSv,8748,Services - management public relations consulting
+BusSv,8900,Services - misc
+BusSv,8901,Services - misc
+BusSv,8902,Services - misc
+BusSv,8903,Services - misc
+BusSv,8904,Services - misc
+BusSv,8905,Services - misc
+BusSv,8906,Services - misc
+BusSv,8907,Services - misc
+BusSv,8908,Services - misc
+BusSv,8909,Services - misc
+BusSv,8910,Services - misc
+BusSv,8911,Services - engineering & architect
+BusSv,8920,Services - misc
+BusSv,8921,Services - misc
+BusSv,8922,Services - misc
+BusSv,8923,Services - misc
+BusSv,8924,Services - misc
+BusSv,8925,Services - misc
+BusSv,8926,Services - misc
+BusSv,8927,Services - misc
+BusSv,8928,Services - misc
+BusSv,8929,Services - misc
+BusSv,8930,Services - misc
+BusSv,8931,Services - misc
+BusSv,8932,Services - misc
+BusSv,8933,Services - misc
+BusSv,8934,Services - misc
+BusSv,8935,Services - misc
+BusSv,8936,Services - misc
+BusSv,8937,Services - misc
+BusSv,8938,Services - misc
+BusSv,8939,Services - misc
+BusSv,8940,Services - misc
+BusSv,8941,Services - misc
+BusSv,8942,Services - misc
+BusSv,8943,Services - misc
+BusSv,8944,Services - misc
+BusSv,8945,Services - misc
+BusSv,8946,Services - misc
+BusSv,8947,Services - misc
+BusSv,8948,Services - misc
+BusSv,8949,Services - misc
+BusSv,8950,Services - misc
+BusSv,8951,Services - misc
+BusSv,8952,Services - misc
+BusSv,8953,Services - misc
+BusSv,8954,Services - misc
+BusSv,8955,Services - misc
+BusSv,8956,Services - misc
+BusSv,8957,Services - misc
+BusSv,8958,Services - misc
+BusSv,8959,Services - misc
+BusSv,8960,Services - misc
+BusSv,8961,Services - misc
+BusSv,8962,Services - misc
+BusSv,8963,Services - misc
+BusSv,8964,Services - misc
+BusSv,8965,Services - misc
+BusSv,8966,Services - misc
+BusSv,8967,Services - misc
+BusSv,8968,Services - misc
+BusSv,8969,Services - misc
+BusSv,8970,Services - misc
+BusSv,8971,Services - misc
+BusSv,8972,Services - misc
+BusSv,8973,Services - misc
+BusSv,8974,Services - misc
+BusSv,8975,Services - misc
+BusSv,8976,Services - misc
+BusSv,8977,Services - misc
+BusSv,8978,Services - misc
+BusSv,8979,Services - misc
+BusSv,8980,Services - misc
+BusSv,8981,Services - misc
+BusSv,8982,Services - misc
+BusSv,8983,Services - misc
+BusSv,8984,Services - misc
+BusSv,8985,Services - misc
+BusSv,8986,Services - misc
+BusSv,8987,Services - misc
+BusSv,8988,Services - misc
+BusSv,8989,Services - misc
+BusSv,8990,Services - misc
+BusSv,8991,Services - misc
+BusSv,8992,Services - misc
+BusSv,8993,Services - misc
+BusSv,8994,Services - misc
+BusSv,8995,Services - misc
+BusSv,8996,Services - misc
+BusSv,8997,Services - misc
+BusSv,8998,Services - misc
+BusSv,8999,Services - misc
+BusSv,4220,Warehousing and storage
+BusSv,4221,Warehousing and storage
+BusSv,4222,Warehousing and storage
+BusSv,4223,Warehousing and storage
+BusSv,4224,Warehousing and storage
+BusSv,4225,Warehousing and storage
+BusSv,4226,Warehousing and storage
+BusSv,4227,Warehousing and storage
+BusSv,4228,Warehousing and storage
+BusSv,4229,Warehousing and storage
+Comps,3570,Office computers
+Comps,3571,Office computers
+Comps,3572,Office computers
+Comps,3573,Office computers
+Comps,3574,Office computers
+Comps,3575,Office computers
+Comps,3576,Office computers
+Comps,3577,Office computers
+Comps,3578,Office computers
+Comps,3579,Office computers
+Comps,3680,Computers
+Comps,3681,Computers - mini
+Comps,3682,Computers - mainframe
+Comps,3683,Computers - terminals
+Comps,3684,Computers - disk & tape drives
+Comps,3685,Computers - optical scanners
+Comps,3686,Computers - graphics
+Comps,3687,Computers - office automation systems
+Comps,3688,Computers - peripherals
+Comps,3689,Computers - equipment
+Comps,3695,Magnetic and optical recording media
+Comps,7373,Computer integrated systems design
+Chips,3622,Industrial controls
+Chips,3661,Telephone and telegraph apparatus
+Chips,3662,Communications equipment
+Chips,3663,Radio TV comm equip & apparatus
+Chips,3664,Search navigation guidance systems
+Chips,3665,Training equipment & simulators
+Chips,3666,Alarm & signaling products
+Chips,3669,Communication equipment
+Chips,3670,Electronic components
+Chips,3671,Electronic components
+Chips,3672,Electronic components
+Chips,3673,Electronic components
+Chips,3674,Electronic components
+Chips,3675,Electronic components
+Chips,3676,Electronic components
+Chips,3677,Electronic components
+Chips,3678,Electronic components
+Chips,3679,Electronic components
+Chips,3810,Search detection navigation guidance
+Chips,3812,Search detection navigation guidance
+LabEq,3811,Engr lab and research equipment
+LabEq,3820,Measuring and controlling equipment
+LabEq,3821,Lab apparatus and furniture
+LabEq,3822,Automatic controls - Envir and applic
+LabEq,3823,Industrial measurement instru
+LabEq,3824,Totalizing fluid meters
+LabEq,3825,Elec meas & test instr
+LabEq,3826,Lab analytical instruments
+LabEq,3827,Optical instr and lenses
+LabEq,3829,Meas and control devices
+LabEq,3830,Optical instr and lenses
+LabEq,3831,Optical instr and lenses
+LabEq,3832,Optical instr and lenses
+LabEq,3833,Optical instr and lenses
+LabEq,3834,Optical instr and lenses
+LabEq,3835,Optical instr and lenses
+LabEq,3836,Optical instr and lenses
+LabEq,3837,Optical instr and lenses
+LabEq,3838,Optical instr and lenses
+LabEq,3839,Optical instr and lenses
+Paper,2520,Office furniture and fixtures
+Paper,2521,Office furniture and fixtures
+Paper,2522,Office furniture and fixtures
+Paper,2523,Office furniture and fixtures
+Paper,2524,Office furniture and fixtures
+Paper,2525,Office furniture and fixtures
+Paper,2526,Office furniture and fixtures
+Paper,2527,Office furniture and fixtures
+Paper,2528,Office furniture and fixtures
+Paper,2529,Office furniture and fixtures
+Paper,2530,Office furniture and fixtures
+Paper,2531,Office furniture and fixtures
+Paper,2532,Office furniture and fixtures
+Paper,2533,Office furniture and fixtures
+Paper,2534,Office furniture and fixtures
+Paper,2535,Office furniture and fixtures
+Paper,2536,Office furniture and fixtures
+Paper,2537,Office furniture and fixtures
+Paper,2538,Office furniture and fixtures
+Paper,2539,Office furniture and fixtures
+Paper,2540,Office furniture and fixtures
+Paper,2541,Office furniture and fixtures
+Paper,2542,Office furniture and fixtures
+Paper,2543,Office furniture and fixtures
+Paper,2544,Office furniture and fixtures
+Paper,2545,Office furniture and fixtures
+Paper,2546,Office furniture and fixtures
+Paper,2547,Office furniture and fixtures
+Paper,2548,Office furniture and fixtures
+Paper,2549,Office furniture and fixtures
+Paper,2600,Paper and allied products
+Paper,2601,Paper and allied products
+Paper,2602,Paper and allied products
+Paper,2603,Paper and allied products
+Paper,2604,Paper and allied products
+Paper,2605,Paper and allied products
+Paper,2606,Paper and allied products
+Paper,2607,Paper and allied products
+Paper,2608,Paper and allied products
+Paper,2609,Paper and allied products
+Paper,2610,Paper and allied products
+Paper,2611,Paper and allied products
+Paper,2612,Paper and allied products
+Paper,2613,Paper and allied products
+Paper,2614,Paper and allied products
+Paper,2615,Paper and allied products
+Paper,2616,Paper and allied products
+Paper,2617,Paper and allied products
+Paper,2618,Paper and allied products
+Paper,2619,Paper and allied products
+Paper,2620,Paper and allied products
+Paper,2621,Paper and allied products
+Paper,2622,Paper and allied products
+Paper,2623,Paper and allied products
+Paper,2624,Paper and allied products
+Paper,2625,Paper and allied products
+Paper,2626,Paper and allied products
+Paper,2627,Paper and allied products
+Paper,2628,Paper and allied products
+Paper,2629,Paper and allied products
+Paper,2630,Paper and allied products
+Paper,2631,Paper and allied products
+Paper,2632,Paper and allied products
+Paper,2633,Paper and allied products
+Paper,2634,Paper and allied products
+Paper,2635,Paper and allied products
+Paper,2636,Paper and allied products
+Paper,2637,Paper and allied products
+Paper,2638,Paper and allied products
+Paper,2639,Paper and allied products
+Paper,2670,Paper and allied products
+Paper,2671,Paper and allied products
+Paper,2672,Paper and allied products
+Paper,2673,Paper and allied products
+Paper,2674,Paper and allied products
+Paper,2675,Paper and allied products
+Paper,2676,Paper and allied products
+Paper,2677,Paper and allied products
+Paper,2678,Paper and allied products
+Paper,2679,Paper and allied products
+Paper,2680,Paper and allied products
+Paper,2681,Paper and allied products
+Paper,2682,Paper and allied products
+Paper,2683,Paper and allied products
+Paper,2684,Paper and allied products
+Paper,2685,Paper and allied products
+Paper,2686,Paper and allied products
+Paper,2687,Paper and allied products
+Paper,2688,Paper and allied products
+Paper,2689,Paper and allied products
+Paper,2690,Paper and allied products
+Paper,2691,Paper and allied products
+Paper,2692,Paper and allied products
+Paper,2693,Paper and allied products
+Paper,2694,Paper and allied products
+Paper,2695,Paper and allied products
+Paper,2696,Paper and allied products
+Paper,2697,Paper and allied products
+Paper,2698,Paper and allied products
+Paper,2699,Paper and allied products
+Paper,2760,Manifold business forms
+Paper,2761,Manifold business forms
+Paper,3950,Pens pencils and office supplies
+Paper,3951,Pens pencils and office supplies
+Paper,3952,Pens pencils and office supplies
+Paper,3953,Pens pencils and office supplies
+Paper,3954,Pens pencils and office supplies
+Paper,3955,Pens pencils and office supplies
+Boxes,2440,Wood containers
+Boxes,2441,Wood containers
+Boxes,2442,Wood containers
+Boxes,2443,Wood containers
+Boxes,2444,Wood containers
+Boxes,2445,Wood containers
+Boxes,2446,Wood containers
+Boxes,2447,Wood containers
+Boxes,2448,Wood containers
+Boxes,2449,Wood containers
+Boxes,2640,Paperboard containers boxes drums tubs
+Boxes,2641,Paperboard containers boxes drums tubs
+Boxes,2642,Paperboard containers boxes drums tubs
+Boxes,2643,Paperboard containers boxes drums tubs
+Boxes,2644,Paperboard containers boxes drums tubs
+Boxes,2645,Paperboard containers boxes drums tubs
+Boxes,2646,Paperboard containers boxes drums tubs
+Boxes,2647,Paperboard containers boxes drums tubs
+Boxes,2648,Paperboard containers boxes drums tubs
+Boxes,2649,Paperboard containers boxes drums tubs
+Boxes,2650,Paperboard containers boxes drums tubs
+Boxes,2651,Paperboard containers boxes drums tubs
+Boxes,2652,Paperboard containers boxes drums tubs
+Boxes,2653,Paperboard containers boxes drums tubs
+Boxes,2654,Paperboard containers boxes drums tubs
+Boxes,2655,Paperboard containers boxes drums tubs
+Boxes,2656,Paperboard containers boxes drums tubs
+Boxes,2657,Paperboard containers boxes drums tubs
+Boxes,2658,Paperboard containers boxes drums tubs
+Boxes,2659,Paperboard containers boxes drums tubs
+Boxes,3220,Glass containers
+Boxes,3221,Glass containers
+Boxes,3410,Metal cans and shipping containers
+Boxes,3411,Metal cans and shipping containers
+Boxes,3412,Metal cans and shipping containers
+Trans,4000,Railroads-line haul
+Trans,4001,Railroads-line haul
+Trans,4002,Railroads-line haul
+Trans,4003,Railroads-line haul
+Trans,4004,Railroads-line haul
+Trans,4005,Railroads-line haul
+Trans,4006,Railroads-line haul
+Trans,4007,Railroads-line haul
+Trans,4008,Railroads-line haul
+Trans,4009,Railroads-line haul
+Trans,4010,Railroads-line haul
+Trans,4011,Railroads-line haul
+Trans,4012,Railroads-line haul
+Trans,4013,Railroads-line haul
+Trans,4040,Railway express service
+Trans,4041,Railway express service
+Trans,4042,Railway express service
+Trans,4043,Railway express service
+Trans,4044,Railway express service
+Trans,4045,Railway express service
+Trans,4046,Railway express service
+Trans,4047,Railway express service
+Trans,4048,Railway express service
+Trans,4049,Railway express service
+Trans,4100,Transit and passenger trans
+Trans,4110,Local passenger trans
+Trans,4111,Local passenger trans
+Trans,4112,Local passenger trans
+Trans,4113,Local passenger trans
+Trans,4114,Local passenger trans
+Trans,4115,Local passenger trans
+Trans,4116,Local passenger trans
+Trans,4117,Local passenger trans
+Trans,4118,Local passenger trans
+Trans,4119,Local passenger trans
+Trans,4120,Taxicabs
+Trans,4121,Taxicabs
+Trans,4130,Intercity bus trans (Greyhound)
+Trans,4131,Intercity bus trans (Greyhound)
+Trans,4140,Bus charter
+Trans,4141,Bus charter
+Trans,4142,Bus charter
+Trans,4150,School buses
+Trans,4151,School buses
+Trans,4170,Motor vehicle terminals service facilities
+Trans,4171,Motor vehicle terminals service facilities
+Trans,4172,Motor vehicle terminals service facilities
+Trans,4173,Motor vehicle terminals service facilities
+Trans,4190,Misc transit and passenger transportation
+Trans,4191,Misc transit and passenger transportation
+Trans,4192,Misc transit and passenger transportation
+Trans,4193,Misc transit and passenger transportation
+Trans,4194,Misc transit and passenger transportation
+Trans,4195,Misc transit and passenger transportation
+Trans,4196,Misc transit and passenger transportation
+Trans,4197,Misc transit and passenger transportation
+Trans,4198,Misc transit and passenger transportation
+Trans,4199,Misc transit and passenger transportation
+Trans,4200,Motor freight trans warehousing
+Trans,4210,Trucking
+Trans,4211,Trucking
+Trans,4212,Trucking
+Trans,4213,Trucking
+Trans,4214,Trucking
+Trans,4215,Trucking
+Trans,4216,Trucking
+Trans,4217,Trucking
+Trans,4218,Trucking
+Trans,4219,Trucking
+Trans,4230,Terminal facilities - motor freight
+Trans,4231,Terminal facilities - motor freight
+Trans,4240,Transportation
+Trans,4241,Transportation
+Trans,4242,Transportation
+Trans,4243,Transportation
+Trans,4244,Transportation
+Trans,4245,Transportation
+Trans,4246,Transportation
+Trans,4247,Transportation
+Trans,4248,Transportation
+Trans,4249,Transportation
+Trans,4400,Water transport
+Trans,4401,Water transport
+Trans,4402,Water transport
+Trans,4403,Water transport
+Trans,4404,Water transport
+Trans,4405,Water transport
+Trans,4406,Water transport
+Trans,4407,Water transport
+Trans,4408,Water transport
+Trans,4409,Water transport
+Trans,4410,Water transport
+Trans,4411,Water transport
+Trans,4412,Water transport
+Trans,4413,Water transport
+Trans,4414,Water transport
+Trans,4415,Water transport
+Trans,4416,Water transport
+Trans,4417,Water transport
+Trans,4418,Water transport
+Trans,4419,Water transport
+Trans,4420,Water transport
+Trans,4421,Water transport
+Trans,4422,Water transport
+Trans,4423,Water transport
+Trans,4424,Water transport
+Trans,4425,Water transport
+Trans,4426,Water transport
+Trans,4427,Water transport
+Trans,4428,Water transport
+Trans,4429,Water transport
+Trans,4430,Water transport
+Trans,4431,Water transport
+Trans,4432,Water transport
+Trans,4433,Water transport
+Trans,4434,Water transport
+Trans,4435,Water transport
+Trans,4436,Water transport
+Trans,4437,Water transport
+Trans,4438,Water transport
+Trans,4439,Water transport
+Trans,4440,Water transport
+Trans,4441,Water transport
+Trans,4442,Water transport
+Trans,4443,Water transport
+Trans,4444,Water transport
+Trans,4445,Water transport
+Trans,4446,Water transport
+Trans,4447,Water transport
+Trans,4448,Water transport
+Trans,4449,Water transport
+Trans,4450,Water transport
+Trans,4451,Water transport
+Trans,4452,Water transport
+Trans,4453,Water transport
+Trans,4454,Water transport
+Trans,4455,Water transport
+Trans,4456,Water transport
+Trans,4457,Water transport
+Trans,4458,Water transport
+Trans,4459,Water transport
+Trans,4460,Water transport
+Trans,4461,Water transport
+Trans,4462,Water transport
+Trans,4463,Water transport
+Trans,4464,Water transport
+Trans,4465,Water transport
+Trans,4466,Water transport
+Trans,4467,Water transport
+Trans,4468,Water transport
+Trans,4469,Water transport
+Trans,4470,Water transport
+Trans,4471,Water transport
+Trans,4472,Water transport
+Trans,4473,Water transport
+Trans,4474,Water transport
+Trans,4475,Water transport
+Trans,4476,Water transport
+Trans,4477,Water transport
+Trans,4478,Water transport
+Trans,4479,Water transport
+Trans,4480,Water transport
+Trans,4481,Water transport
+Trans,4482,Water transport
+Trans,4483,Water transport
+Trans,4484,Water transport
+Trans,4485,Water transport
+Trans,4486,Water transport
+Trans,4487,Water transport
+Trans,4488,Water transport
+Trans,4489,Water transport
+Trans,4490,Water transport
+Trans,4491,Water transport
+Trans,4492,Water transport
+Trans,4493,Water transport
+Trans,4494,Water transport
+Trans,4495,Water transport
+Trans,4496,Water transport
+Trans,4497,Water transport
+Trans,4498,Water transport
+Trans,4499,Water transport
+Trans,4500,Air transportation
+Trans,4501,Air transportation
+Trans,4502,Air transportation
+Trans,4503,Air transportation
+Trans,4504,Air transportation
+Trans,4505,Air transportation
+Trans,4506,Air transportation
+Trans,4507,Air transportation
+Trans,4508,Air transportation
+Trans,4509,Air transportation
+Trans,4510,Air transportation
+Trans,4511,Air transportation
+Trans,4512,Air transportation
+Trans,4513,Air transportation
+Trans,4514,Air transportation
+Trans,4515,Air transportation
+Trans,4516,Air transportation
+Trans,4517,Air transportation
+Trans,4518,Air transportation
+Trans,4519,Air transportation
+Trans,4520,Air transportation
+Trans,4521,Air transportation
+Trans,4522,Air transportation
+Trans,4523,Air transportation
+Trans,4524,Air transportation
+Trans,4525,Air transportation
+Trans,4526,Air transportation
+Trans,4527,Air transportation
+Trans,4528,Air transportation
+Trans,4529,Air transportation
+Trans,4530,Air transportation
+Trans,4531,Air transportation
+Trans,4532,Air transportation
+Trans,4533,Air transportation
+Trans,4534,Air transportation
+Trans,4535,Air transportation
+Trans,4536,Air transportation
+Trans,4537,Air transportation
+Trans,4538,Air transportation
+Trans,4539,Air transportation
+Trans,4540,Air transportation
+Trans,4541,Air transportation
+Trans,4542,Air transportation
+Trans,4543,Air transportation
+Trans,4544,Air transportation
+Trans,4545,Air transportation
+Trans,4546,Air transportation
+Trans,4547,Air transportation
+Trans,4548,Air transportation
+Trans,4549,Air transportation
+Trans,4550,Air transportation
+Trans,4551,Air transportation
+Trans,4552,Air transportation
+Trans,4553,Air transportation
+Trans,4554,Air transportation
+Trans,4555,Air transportation
+Trans,4556,Air transportation
+Trans,4557,Air transportation
+Trans,4558,Air transportation
+Trans,4559,Air transportation
+Trans,4560,Air transportation
+Trans,4561,Air transportation
+Trans,4562,Air transportation
+Trans,4563,Air transportation
+Trans,4564,Air transportation
+Trans,4565,Air transportation
+Trans,4566,Air transportation
+Trans,4567,Air transportation
+Trans,4568,Air transportation
+Trans,4569,Air transportation
+Trans,4570,Air transportation
+Trans,4571,Air transportation
+Trans,4572,Air transportation
+Trans,4573,Air transportation
+Trans,4574,Air transportation
+Trans,4575,Air transportation
+Trans,4576,Air transportation
+Trans,4577,Air transportation
+Trans,4578,Air transportation
+Trans,4579,Air transportation
+Trans,4580,Air transportation
+Trans,4581,Air transportation
+Trans,4582,Air transportation
+Trans,4583,Air transportation
+Trans,4584,Air transportation
+Trans,4585,Air transportation
+Trans,4586,Air transportation
+Trans,4587,Air transportation
+Trans,4588,Air transportation
+Trans,4589,Air transportation
+Trans,4590,Air transportation
+Trans,4591,Air transportation
+Trans,4592,Air transportation
+Trans,4593,Air transportation
+Trans,4594,Air transportation
+Trans,4595,Air transportation
+Trans,4596,Air transportation
+Trans,4597,Air transportation
+Trans,4598,Air transportation
+Trans,4599,Air transportation
+Trans,4600,Pipelines except natural gas
+Trans,4601,Pipelines except natural gas
+Trans,4602,Pipelines except natural gas
+Trans,4603,Pipelines except natural gas
+Trans,4604,Pipelines except natural gas
+Trans,4605,Pipelines except natural gas
+Trans,4606,Pipelines except natural gas
+Trans,4607,Pipelines except natural gas
+Trans,4608,Pipelines except natural gas
+Trans,4609,Pipelines except natural gas
+Trans,4610,Pipelines except natural gas
+Trans,4611,Pipelines except natural gas
+Trans,4612,Pipelines except natural gas
+Trans,4613,Pipelines except natural gas
+Trans,4614,Pipelines except natural gas
+Trans,4615,Pipelines except natural gas
+Trans,4616,Pipelines except natural gas
+Trans,4617,Pipelines except natural gas
+Trans,4618,Pipelines except natural gas
+Trans,4619,Pipelines except natural gas
+Trans,4620,Pipelines except natural gas
+Trans,4621,Pipelines except natural gas
+Trans,4622,Pipelines except natural gas
+Trans,4623,Pipelines except natural gas
+Trans,4624,Pipelines except natural gas
+Trans,4625,Pipelines except natural gas
+Trans,4626,Pipelines except natural gas
+Trans,4627,Pipelines except natural gas
+Trans,4628,Pipelines except natural gas
+Trans,4629,Pipelines except natural gas
+Trans,4630,Pipelines except natural gas
+Trans,4631,Pipelines except natural gas
+Trans,4632,Pipelines except natural gas
+Trans,4633,Pipelines except natural gas
+Trans,4634,Pipelines except natural gas
+Trans,4635,Pipelines except natural gas
+Trans,4636,Pipelines except natural gas
+Trans,4637,Pipelines except natural gas
+Trans,4638,Pipelines except natural gas
+Trans,4639,Pipelines except natural gas
+Trans,4640,Pipelines except natural gas
+Trans,4641,Pipelines except natural gas
+Trans,4642,Pipelines except natural gas
+Trans,4643,Pipelines except natural gas
+Trans,4644,Pipelines except natural gas
+Trans,4645,Pipelines except natural gas
+Trans,4646,Pipelines except natural gas
+Trans,4647,Pipelines except natural gas
+Trans,4648,Pipelines except natural gas
+Trans,4649,Pipelines except natural gas
+Trans,4650,Pipelines except natural gas
+Trans,4651,Pipelines except natural gas
+Trans,4652,Pipelines except natural gas
+Trans,4653,Pipelines except natural gas
+Trans,4654,Pipelines except natural gas
+Trans,4655,Pipelines except natural gas
+Trans,4656,Pipelines except natural gas
+Trans,4657,Pipelines except natural gas
+Trans,4658,Pipelines except natural gas
+Trans,4659,Pipelines except natural gas
+Trans,4660,Pipelines except natural gas
+Trans,4661,Pipelines except natural gas
+Trans,4662,Pipelines except natural gas
+Trans,4663,Pipelines except natural gas
+Trans,4664,Pipelines except natural gas
+Trans,4665,Pipelines except natural gas
+Trans,4666,Pipelines except natural gas
+Trans,4667,Pipelines except natural gas
+Trans,4668,Pipelines except natural gas
+Trans,4669,Pipelines except natural gas
+Trans,4670,Pipelines except natural gas
+Trans,4671,Pipelines except natural gas
+Trans,4672,Pipelines except natural gas
+Trans,4673,Pipelines except natural gas
+Trans,4674,Pipelines except natural gas
+Trans,4675,Pipelines except natural gas
+Trans,4676,Pipelines except natural gas
+Trans,4677,Pipelines except natural gas
+Trans,4678,Pipelines except natural gas
+Trans,4679,Pipelines except natural gas
+Trans,4680,Pipelines except natural gas
+Trans,4681,Pipelines except natural gas
+Trans,4682,Pipelines except natural gas
+Trans,4683,Pipelines except natural gas
+Trans,4684,Pipelines except natural gas
+Trans,4685,Pipelines except natural gas
+Trans,4686,Pipelines except natural gas
+Trans,4687,Pipelines except natural gas
+Trans,4688,Pipelines except natural gas
+Trans,4689,Pipelines except natural gas
+Trans,4690,Pipelines except natural gas
+Trans,4691,Pipelines except natural gas
+Trans,4692,Pipelines except natural gas
+Trans,4693,Pipelines except natural gas
+Trans,4694,Pipelines except natural gas
+Trans,4695,Pipelines except natural gas
+Trans,4696,Pipelines except natural gas
+Trans,4697,Pipelines except natural gas
+Trans,4698,Pipelines except natural gas
+Trans,4699,Pipelines except natural gas
+Trans,4700,Transportation services
+Trans,4710,Freight forwarding
+Trans,4711,Freight forwarding
+Trans,4712,Freight forwarding
+Trans,4720,Travel agencies etc
+Trans,4721,Travel agencies etc
+Trans,4722,Travel agencies etc
+Trans,4723,Travel agencies etc
+Trans,4724,Travel agencies etc
+Trans,4725,Travel agencies etc
+Trans,4726,Travel agencies etc
+Trans,4727,Travel agencies etc
+Trans,4728,Travel agencies etc
+Trans,4729,Travel agencies etc
+Trans,4730,Arrange trans - freight and cargo
+Trans,4731,Arrange trans - freight and cargo
+Trans,4732,Arrange trans - freight and cargo
+Trans,4733,Arrange trans - freight and cargo
+Trans,4734,Arrange trans - freight and cargo
+Trans,4735,Arrange trans - freight and cargo
+Trans,4736,Arrange trans - freight and cargo
+Trans,4737,Arrange trans - freight and cargo
+Trans,4738,Arrange trans - freight and cargo
+Trans,4739,Arrange trans - freight and cargo
+Trans,4740,Rental of railroad cars
+Trans,4741,Rental of railroad cars
+Trans,4742,Rental of railroad cars
+Trans,4743,Rental of railroad cars
+Trans,4744,Rental of railroad cars
+Trans,4745,Rental of railroad cars
+Trans,4746,Rental of railroad cars
+Trans,4747,Rental of railroad cars
+Trans,4748,Rental of railroad cars
+Trans,4749,Rental of railroad cars
+Trans,4780,Misc services incidental to trans
+Trans,4782,Inspection and weighing services
+Trans,4783,Packing and crating
+Trans,4784,Fixed facilities for vehicles not elsewhere classified
+Trans,4785,Motor vehicle inspection
+Trans,4789,Transportation services
+Whlsl,5000,Wholesale - durable goods
+Whlsl,5010,Wholesale - autos and parts
+Whlsl,5011,Wholesale - autos and parts
+Whlsl,5012,Wholesale - autos and parts
+Whlsl,5013,Wholesale - autos and parts
+Whlsl,5014,Wholesale - autos and parts
+Whlsl,5015,Wholesale - autos and parts
+Whlsl,5020,Wholesale - furniture and home furnishings
+Whlsl,5021,Wholesale - furniture and home furnishings
+Whlsl,5022,Wholesale - furniture and home furnishings
+Whlsl,5023,Wholesale - furniture and home furnishings
+Whlsl,5030,Wholesale - lumber and construction materials
+Whlsl,5031,Wholesale - lumber and construction materials
+Whlsl,5032,Wholesale - lumber and construction materials
+Whlsl,5033,Wholesale - lumber and construction materials
+Whlsl,5034,Wholesale - lumber and construction materials
+Whlsl,5035,Wholesale - lumber and construction materials
+Whlsl,5036,Wholesale - lumber and construction materials
+Whlsl,5037,Wholesale - lumber and construction materials
+Whlsl,5038,Wholesale - lumber and construction materials
+Whlsl,5039,Wholesale - lumber and construction materials
+Whlsl,5040,Wholesale - professional and commercial equipment and supplies
+Whlsl,5041,Wholesale - professional and commercial equipment and supplies
+Whlsl,5042,Wholesale - professional and commercial equipment and supplies
+Whlsl,5043,Wholesale - photographic equipment
+Whlsl,5044,Wholesale - office equipment
+Whlsl,5045,Wholesale - computers
+Whlsl,5046,Wholesale - commerical equip
+Whlsl,5047,Wholesale - medical dental equip
+Whlsl,5048,Wholesale - ophthalmic goods
+Whlsl,5049,Wholesale - professional equip and supplies
+Whlsl,5050,Wholesale - metals and minerals
+Whlsl,5051,Wholesale - metals and minerals
+Whlsl,5052,Wholesale - metals and minerals
+Whlsl,5053,Wholesale - metals and minerals
+Whlsl,5054,Wholesale - metals and minerals
+Whlsl,5055,Wholesale - metals and minerals
+Whlsl,5056,Wholesale - metals and minerals
+Whlsl,5057,Wholesale - metals and minerals
+Whlsl,5058,Wholesale - metals and minerals
+Whlsl,5059,Wholesale - metals and minerals
+Whlsl,5060,Wholesale - electrical goods
+Whlsl,5063,Wholesale - electrical apparatus and equipment
+Whlsl,5064,Wholesale - electrical appliance TV and radio
+Whlsl,5065,Wholesale - electronic parts
+Whlsl,5070,Wholesale - hardware plumbing heating equip
+Whlsl,5071,Wholesale - hardware plumbing heating equip
+Whlsl,5072,Wholesale - hardware plumbing heating equip
+Whlsl,5073,Wholesale - hardware plumbing heating equip
+Whlsl,5074,Wholesale - hardware plumbing heating equip
+Whlsl,5075,Wholesale - hardware plumbing heating equip
+Whlsl,5076,Wholesale - hardware plumbing heating equip
+Whlsl,5077,Wholesale - hardware plumbing heating equip
+Whlsl,5078,Wholesale - hardware plumbing heating equip
+Whlsl,5080,Wholesale - machinery and equipment
+Whlsl,5081,Wholesale - machinery and equipment (?)
+Whlsl,5082,Wholesale - construction and mining equipment
+Whlsl,5083,Wholesale - farm and garden machinery
+Whlsl,5084,Wholesale - industrial machinery and equipment
+Whlsl,5085,Wholesale - industrial supplies
+Whlsl,5086,Wholesale - machinery and equipment (?)
+Whlsl,5087,Wholesale - machinery and equipment (?)
+Whlsl,5088,Wholesale - trans eq except motor vehicles
+Whlsl,5090,Wholesale - misc durable goods
+Whlsl,5091,Wholesale - sporting goods toys
+Whlsl,5092,Wholesale - sporting goods toys
+Whlsl,5093,Wholesale - scrap and waste materials
+Whlsl,5094,Wholesale - jewelry and watches
+Whlsl,5099,Wholesale - durable goods
+Whlsl,5100,Wholesale - nondurable goods
+Whlsl,5110,Wholesale - paper and paper products
+Whlsl,5111,Wholesale - paper and paper products
+Whlsl,5112,Wholesale - paper and paper products
+Whlsl,5113,Wholesale - paper and paper products
+Whlsl,5120,Wholesale - drugs & propietary
+Whlsl,5121,Wholesale - drugs & propietary
+Whlsl,5122,Wholesale - drugs & propietary
+Whlsl,5130,Wholesale - apparel
+Whlsl,5131,Wholesale - apparel
+Whlsl,5132,Wholesale - apparel
+Whlsl,5133,Wholesale - apparel
+Whlsl,5134,Wholesale - apparel
+Whlsl,5135,Wholesale - apparel
+Whlsl,5136,Wholesale - apparel
+Whlsl,5137,Wholesale - apparel
+Whlsl,5138,Wholesale - apparel
+Whlsl,5139,Wholesale - apparel
+Whlsl,5140,Wholesale - groceries & related prods
+Whlsl,5141,Wholesale - groceries & related prods
+Whlsl,5142,Wholesale - groceries & related prods
+Whlsl,5143,Wholesale - groceries & related prods
+Whlsl,5144,Wholesale - groceries & related prods
+Whlsl,5145,Wholesale - groceries & related prods
+Whlsl,5146,Wholesale - groceries & related prods
+Whlsl,5147,Wholesale - groceries & related prods
+Whlsl,5148,Wholesale - groceries & related prods
+Whlsl,5149,Wholesale - groceries & related prods
+Whlsl,5150,Wholesale - farm products
+Whlsl,5151,Wholesale - farm products
+Whlsl,5152,Wholesale - farm products
+Whlsl,5153,Wholesale - farm products
+Whlsl,5154,Wholesale - farm products
+Whlsl,5155,Wholesale - farm products
+Whlsl,5156,Wholesale - farm products
+Whlsl,5157,Wholesale - farm products
+Whlsl,5158,Wholesale - farm products
+Whlsl,5159,Wholesale - farm products
+Whlsl,5160,Wholesale - chemicals & allied prods
+Whlsl,5161,Wholesale - chemicals & allied prods
+Whlsl,5162,Wholesale - chemicals & allied prods
+Whlsl,5163,Wholesale - chemicals & allied prods
+Whlsl,5164,Wholesale - chemicals & allied prods
+Whlsl,5165,Wholesale - chemicals & allied prods
+Whlsl,5166,Wholesale - chemicals & allied prods
+Whlsl,5167,Wholesale - chemicals & allied prods
+Whlsl,5168,Wholesale - chemicals & allied prods
+Whlsl,5169,Wholesale - chemicals & allied prods
+Whlsl,5170,Wholesale - petroleum and petro prods
+Whlsl,5171,Wholesale - petroleum and petro prods
+Whlsl,5172,Wholesale - petroleum and petro prods
+Whlsl,5180,Wholesale - beer wine
+Whlsl,5181,Wholesale - beer wine
+Whlsl,5182,Wholesale - beer wine
+Whlsl,5190,Wholesale - non-durable goods
+Whlsl,5191,Wholesale - non-durable goods
+Whlsl,5192,Wholesale - non-durable goods
+Whlsl,5193,Wholesale - non-durable goods
+Whlsl,5194,Wholesale - non-durable goods
+Whlsl,5195,Wholesale - non-durable goods
+Whlsl,5196,Wholesale - non-durable goods
+Whlsl,5197,Wholesale - non-durable goods
+Whlsl,5198,Wholesale - non-durable goods
+Whlsl,5199,Wholesale - non-durable goods
+Rtail,5200,Retail - bldg material hardware garden
+Rtail,5210,Retail - lumber & other building mat
+Rtail,5211,Retail - lumber & other building mat
+Rtail,5212,Retail - lumber & other building mat
+Rtail,5213,Retail - lumber & other building mat
+Rtail,5214,Retail - lumber & other building mat
+Rtail,5215,Retail - lumber & other building mat
+Rtail,5216,Retail - lumber & other building mat
+Rtail,5217,Retail - lumber & other building mat
+Rtail,5218,Retail - lumber & other building mat
+Rtail,5219,Retail - lumber & other building mat
+Rtail,5220,Retail
+Rtail,5221,Retail
+Rtail,5222,Retail
+Rtail,5223,Retail
+Rtail,5224,Retail
+Rtail,5225,Retail
+Rtail,5226,Retail
+Rtail,5227,Retail
+Rtail,5228,Retail
+Rtail,5229,Retail
+Rtail,5230,Retail - paint glass wallpaper
+Rtail,5231,Retail - paint glass wallpaper
+Rtail,5250,Retail - hardward stores
+Rtail,5251,Retail - hardward stores
+Rtail,5260,Retail - nurseries lawn garden stores
+Rtail,5261,Retail - nurseries lawn garden stores
+Rtail,5270,Retail - mobile home dealers
+Rtail,5271,Retail - mobile home dealers
+Rtail,5300,Retail - general merchandise stores
+Rtail,5310,Retail - department stores
+Rtail,5311,Retail - department stores
+Rtail,5320,Retail - general merchandise stores (?)
+Rtail,5330,Retail - variety stores
+Rtail,5331,Retail - variety stores
+Rtail,5334,Retail - catalog showroom
+Rtail,5340,Retail
+Rtail,5341,Retail
+Rtail,5342,Retail
+Rtail,5343,Retail
+Rtail,5344,Retail
+Rtail,5345,Retail
+Rtail,5346,Retail
+Rtail,5347,Retail
+Rtail,5348,Retail
+Rtail,5349,Retail
+Rtail,5390,Retail - Misc general merchandise stores
+Rtail,5391,Retail - Misc general merchandise stores
+Rtail,5392,Retail - Misc general merchandise stores
+Rtail,5393,Retail - Misc general merchandise stores
+Rtail,5394,Retail - Misc general merchandise stores
+Rtail,5395,Retail - Misc general merchandise stores
+Rtail,5396,Retail - Misc general merchandise stores
+Rtail,5397,Retail - Misc general merchandise stores
+Rtail,5398,Retail - Misc general merchandise stores
+Rtail,5399,Retail - Misc general merchandise stores
+Rtail,5400,Retail - food stores
+Rtail,5410,Retail - grocery stores
+Rtail,5411,Retail - grocery stores
+Rtail,5412,Retail - convenience stores
+Rtail,5420,Retail - meat fish mkt
+Rtail,5421,Retail - meat fish mkt
+Rtail,5422,Retail - meat fish mkt
+Rtail,5423,Retail - meat fish mkt
+Rtail,5424,Retail - meat fish mkt
+Rtail,5425,Retail - meat fish mkt
+Rtail,5426,Retail - meat fish mkt
+Rtail,5427,Retail - meat fish mkt
+Rtail,5428,Retail - meat fish mkt
+Rtail,5429,Retail - meat fish mkt
+Rtail,5430,Retail - fruite and vegatable markets
+Rtail,5431,Retail - fruite and vegatable markets
+Rtail,5432,Retail - fruite and vegatable markets
+Rtail,5433,Retail - fruite and vegatable markets
+Rtail,5434,Retail - fruite and vegatable markets
+Rtail,5435,Retail - fruite and vegatable markets
+Rtail,5436,Retail - fruite and vegatable markets
+Rtail,5437,Retail - fruite and vegatable markets
+Rtail,5438,Retail - fruite and vegatable markets
+Rtail,5439,Retail - fruite and vegatable markets
+Rtail,5440,Retail - candy nut confectionary stores
+Rtail,5441,Retail - candy nut confectionary stores
+Rtail,5442,Retail - candy nut confectionary stores
+Rtail,5443,Retail - candy nut confectionary stores
+Rtail,5444,Retail - candy nut confectionary stores
+Rtail,5445,Retail - candy nut confectionary stores
+Rtail,5446,Retail - candy nut confectionary stores
+Rtail,5447,Retail - candy nut confectionary stores
+Rtail,5448,Retail - candy nut confectionary stores
+Rtail,5449,Retail - candy nut confectionary stores
+Rtail,5450,Retail - dairy product stores
+Rtail,5451,Retail - dairy product stores
+Rtail,5452,Retail - dairy product stores
+Rtail,5453,Retail - dairy product stores
+Rtail,5454,Retail - dairy product stores
+Rtail,5455,Retail - dairy product stores
+Rtail,5456,Retail - dairy product stores
+Rtail,5457,Retail - dairy product stores
+Rtail,5458,Retail - dairy product stores
+Rtail,5459,Retail - dairy product stores
+Rtail,5460,Retail - bakeries
+Rtail,5461,Retail - bakeries
+Rtail,5462,Retail - bakeries
+Rtail,5463,Retail - bakeries
+Rtail,5464,Retail - bakeries
+Rtail,5465,Retail - bakeries
+Rtail,5466,Retail - bakeries
+Rtail,5467,Retail - bakeries
+Rtail,5468,Retail - bakeries
+Rtail,5469,Retail - bakeries
+Rtail,5490,Retail - miscellaneous food stores
+Rtail,5491,Retail - miscellaneous food stores
+Rtail,5492,Retail - miscellaneous food stores
+Rtail,5493,Retail - miscellaneous food stores
+Rtail,5494,Retail - miscellaneous food stores
+Rtail,5495,Retail - miscellaneous food stores
+Rtail,5496,Retail - miscellaneous food stores
+Rtail,5497,Retail - miscellaneous food stores
+Rtail,5498,Retail - miscellaneous food stores
+Rtail,5499,Retail - miscellaneous food stores
+Rtail,5500,Retail - auto dealers and gas stations
+Rtail,5510,Retail - auto dealers
+Rtail,5511,Retail - auto dealers
+Rtail,5512,Retail - auto dealers
+Rtail,5513,Retail - auto dealers
+Rtail,5514,Retail - auto dealers
+Rtail,5515,Retail - auto dealers
+Rtail,5516,Retail - auto dealers
+Rtail,5517,Retail - auto dealers
+Rtail,5518,Retail - auto dealers
+Rtail,5519,Retail - auto dealers
+Rtail,5520,Retail - auto dealers
+Rtail,5521,Retail - auto dealers
+Rtail,5522,Retail - auto dealers
+Rtail,5523,Retail - auto dealers
+Rtail,5524,Retail - auto dealers
+Rtail,5525,Retail - auto dealers
+Rtail,5526,Retail - auto dealers
+Rtail,5527,Retail - auto dealers
+Rtail,5528,Retail - auto dealers
+Rtail,5529,Retail - auto dealers
+Rtail,5530,Retail - auto and home supply stores
+Rtail,5531,Retail - auto and home supply stores
+Rtail,5532,Retail - auto and home supply stores
+Rtail,5533,Retail - auto and home supply stores
+Rtail,5534,Retail - auto and home supply stores
+Rtail,5535,Retail - auto and home supply stores
+Rtail,5536,Retail - auto and home supply stores
+Rtail,5537,Retail - auto and home supply stores
+Rtail,5538,Retail - auto and home supply stores
+Rtail,5539,Retail - auto and home supply stores
+Rtail,5540,Retail - gasoline service stations
+Rtail,5541,Retail - gasoline service stations
+Rtail,5542,Retail - gasoline service stations
+Rtail,5543,Retail - gasoline service stations
+Rtail,5544,Retail - gasoline service stations
+Rtail,5545,Retail - gasoline service stations
+Rtail,5546,Retail - gasoline service stations
+Rtail,5547,Retail - gasoline service stations
+Rtail,5548,Retail - gasoline service stations
+Rtail,5549,Retail - gasoline service stations
+Rtail,5550,Retail - boat dealers
+Rtail,5551,Retail - boat dealers
+Rtail,5552,Retail - boat dealers
+Rtail,5553,Retail - boat dealers
+Rtail,5554,Retail - boat dealers
+Rtail,5555,Retail - boat dealers
+Rtail,5556,Retail - boat dealers
+Rtail,5557,Retail - boat dealers
+Rtail,5558,Retail - boat dealers
+Rtail,5559,Retail - boat dealers
+Rtail,5560,Retail - recreational vehicle dealers
+Rtail,5561,Retail - recreational vehicle dealers
+Rtail,5562,Retail - recreational vehicle dealers
+Rtail,5563,Retail - recreational vehicle dealers
+Rtail,5564,Retail - recreational vehicle dealers
+Rtail,5565,Retail - recreational vehicle dealers
+Rtail,5566,Retail - recreational vehicle dealers
+Rtail,5567,Retail - recreational vehicle dealers
+Rtail,5568,Retail - recreational vehicle dealers
+Rtail,5569,Retail - recreational vehicle dealers
+Rtail,5570,Retail - motorcycle dealers
+Rtail,5571,Retail - motorcycle dealers
+Rtail,5572,Retail - motorcycle dealers
+Rtail,5573,Retail - motorcycle dealers
+Rtail,5574,Retail - motorcycle dealers
+Rtail,5575,Retail - motorcycle dealers
+Rtail,5576,Retail - motorcycle dealers
+Rtail,5577,Retail - motorcycle dealers
+Rtail,5578,Retail - motorcycle dealers
+Rtail,5579,Retail - motorcycle dealers
+Rtail,5590,Retail - automotive dealers
+Rtail,5591,Retail - automotive dealers
+Rtail,5592,Retail - automotive dealers
+Rtail,5593,Retail - automotive dealers
+Rtail,5594,Retail - automotive dealers
+Rtail,5595,Retail - automotive dealers
+Rtail,5596,Retail - automotive dealers
+Rtail,5597,Retail - automotive dealers
+Rtail,5598,Retail - automotive dealers
+Rtail,5599,Retail - automotive dealers
+Rtail,5600,Retail - apparel & acces
+Rtail,5601,Retail - apparel & acces
+Rtail,5602,Retail - apparel & acces
+Rtail,5603,Retail - apparel & acces
+Rtail,5604,Retail - apparel & acces
+Rtail,5605,Retail - apparel & acces
+Rtail,5606,Retail - apparel & acces
+Rtail,5607,Retail - apparel & acces
+Rtail,5608,Retail - apparel & acces
+Rtail,5609,Retail - apparel & acces
+Rtail,5610,Retail - apparel & acces
+Rtail,5611,Retail - apparel & acces
+Rtail,5612,Retail - apparel & acces
+Rtail,5613,Retail - apparel & acces
+Rtail,5614,Retail - apparel & acces
+Rtail,5615,Retail - apparel & acces
+Rtail,5616,Retail - apparel & acces
+Rtail,5617,Retail - apparel & acces
+Rtail,5618,Retail - apparel & acces
+Rtail,5619,Retail - apparel & acces
+Rtail,5620,Retail - apparel & acces
+Rtail,5621,Retail - apparel & acces
+Rtail,5622,Retail - apparel & acces
+Rtail,5623,Retail - apparel & acces
+Rtail,5624,Retail - apparel & acces
+Rtail,5625,Retail - apparel & acces
+Rtail,5626,Retail - apparel & acces
+Rtail,5627,Retail - apparel & acces
+Rtail,5628,Retail - apparel & acces
+Rtail,5629,Retail - apparel & acces
+Rtail,5630,Retail - apparel & acces
+Rtail,5631,Retail - apparel & acces
+Rtail,5632,Retail - apparel & acces
+Rtail,5633,Retail - apparel & acces
+Rtail,5634,Retail - apparel & acces
+Rtail,5635,Retail - apparel & acces
+Rtail,5636,Retail - apparel & acces
+Rtail,5637,Retail - apparel & acces
+Rtail,5638,Retail - apparel & acces
+Rtail,5639,Retail - apparel & acces
+Rtail,5640,Retail - apparel & acces
+Rtail,5641,Retail - apparel & acces
+Rtail,5642,Retail - apparel & acces
+Rtail,5643,Retail - apparel & acces
+Rtail,5644,Retail - apparel & acces
+Rtail,5645,Retail - apparel & acces
+Rtail,5646,Retail - apparel & acces
+Rtail,5647,Retail - apparel & acces
+Rtail,5648,Retail - apparel & acces
+Rtail,5649,Retail - apparel & acces
+Rtail,5650,Retail - apparel & acces
+Rtail,5651,Retail - apparel & acces
+Rtail,5652,Retail - apparel & acces
+Rtail,5653,Retail - apparel & acces
+Rtail,5654,Retail - apparel & acces
+Rtail,5655,Retail - apparel & acces
+Rtail,5656,Retail - apparel & acces
+Rtail,5657,Retail - apparel & acces
+Rtail,5658,Retail - apparel & acces
+Rtail,5659,Retail - apparel & acces
+Rtail,5660,Retail - apparel & acces
+Rtail,5661,Retail - apparel & acces
+Rtail,5662,Retail - apparel & acces
+Rtail,5663,Retail - apparel & acces
+Rtail,5664,Retail - apparel & acces
+Rtail,5665,Retail - apparel & acces
+Rtail,5666,Retail - apparel & acces
+Rtail,5667,Retail - apparel & acces
+Rtail,5668,Retail - apparel & acces
+Rtail,5669,Retail - apparel & acces
+Rtail,5670,Retail - apparel & acces
+Rtail,5671,Retail - apparel & acces
+Rtail,5672,Retail - apparel & acces
+Rtail,5673,Retail - apparel & acces
+Rtail,5674,Retail - apparel & acces
+Rtail,5675,Retail - apparel & acces
+Rtail,5676,Retail - apparel & acces
+Rtail,5677,Retail - apparel & acces
+Rtail,5678,Retail - apparel & acces
+Rtail,5679,Retail - apparel & acces
+Rtail,5680,Retail - apparel & acces
+Rtail,5681,Retail - apparel & acces
+Rtail,5682,Retail - apparel & acces
+Rtail,5683,Retail - apparel & acces
+Rtail,5684,Retail - apparel & acces
+Rtail,5685,Retail - apparel & acces
+Rtail,5686,Retail - apparel & acces
+Rtail,5687,Retail - apparel & acces
+Rtail,5688,Retail - apparel & acces
+Rtail,5689,Retail - apparel & acces
+Rtail,5690,Retail - apparel & acces
+Rtail,5691,Retail - apparel & acces
+Rtail,5692,Retail - apparel & acces
+Rtail,5693,Retail - apparel & acces
+Rtail,5694,Retail - apparel & acces
+Rtail,5695,Retail - apparel & acces
+Rtail,5696,Retail - apparel & acces
+Rtail,5697,Retail - apparel & acces
+Rtail,5698,Retail - apparel & acces
+Rtail,5699,Retail - apparel & acces
+Rtail,5700,Retail - home furniture and equipment stores
+Rtail,5710,Retail - home furnishings stores
+Rtail,5711,Retail - home furnishings stores
+Rtail,5712,Retail - home furnishings stores
+Rtail,5713,Retail - home furnishings stores
+Rtail,5714,Retail - home furnishings stores
+Rtail,5715,Retail - home furnishings stores
+Rtail,5716,Retail - home furnishings stores
+Rtail,5717,Retail - home furnishings stores
+Rtail,5718,Retail - home furnishings stores
+Rtail,5719,Retail - home furnishings stores
+Rtail,5720,Retail - household appliance stores
+Rtail,5721,Retail - household appliance stores
+Rtail,5722,Retail - household appliance stores
+Rtail,5730,Retail - radio TV and consumer electronic stores
+Rtail,5731,Retail - radio TV and consumer electronic stores
+Rtail,5732,Retail - radio TV and consumer electronic stores
+Rtail,5733,Retail - radio TV and consumer electronic stores
+Rtail,5734,Retail - computer and computer software stores
+Rtail,5735,Retail - record and tape stores
+Rtail,5736,Retail - musical instrument stores
+Rtail,5750,Retail
+Rtail,5751,Retail
+Rtail,5752,Retail
+Rtail,5753,Retail
+Rtail,5754,Retail
+Rtail,5755,Retail
+Rtail,5756,Retail
+Rtail,5757,Retail
+Rtail,5758,Retail
+Rtail,5759,Retail
+Rtail,5760,Retail
+Rtail,5761,Retail
+Rtail,5762,Retail
+Rtail,5763,Retail
+Rtail,5764,Retail
+Rtail,5765,Retail
+Rtail,5766,Retail
+Rtail,5767,Retail
+Rtail,5768,Retail
+Rtail,5769,Retail
+Rtail,5770,Retail
+Rtail,5771,Retail
+Rtail,5772,Retail
+Rtail,5773,Retail
+Rtail,5774,Retail
+Rtail,5775,Retail
+Rtail,5776,Retail
+Rtail,5777,Retail
+Rtail,5778,Retail
+Rtail,5779,Retail
+Rtail,5780,Retail
+Rtail,5781,Retail
+Rtail,5782,Retail
+Rtail,5783,Retail
+Rtail,5784,Retail
+Rtail,5785,Retail
+Rtail,5786,Retail
+Rtail,5787,Retail
+Rtail,5788,Retail
+Rtail,5789,Retail
+Rtail,5790,Retail
+Rtail,5791,Retail
+Rtail,5792,Retail
+Rtail,5793,Retail
+Rtail,5794,Retail
+Rtail,5795,Retail
+Rtail,5796,Retail
+Rtail,5797,Retail
+Rtail,5798,Retail
+Rtail,5799,Retail
+Rtail,5900,Retail - misc
+Rtail,5910,Retail - drug & proprietary stores
+Rtail,5911,Retail - drug & proprietary stores
+Rtail,5912,Retail - drug & proprietary stores
+Rtail,5920,Retail - liquor stores
+Rtail,5921,Retail - liquor stores
+Rtail,5922,Retail - liquor stores
+Rtail,5923,Retail - liquor stores
+Rtail,5924,Retail - liquor stores
+Rtail,5925,Retail - liquor stores
+Rtail,5926,Retail - liquor stores
+Rtail,5927,Retail - liquor stores
+Rtail,5928,Retail - liquor stores
+Rtail,5929,Retail - liquor stores
+Rtail,5930,Retail - used merchandise stores
+Rtail,5931,Retail - used merchandise stores
+Rtail,5932,Retail - used merchandise stores
+Rtail,5940,Retail - misc
+Rtail,5941,Retail - sporting goods stores bike shops
+Rtail,5942,Retail - book stores
+Rtail,5943,Retail - stationery stores
+Rtail,5944,Retail - jewelry stores
+Rtail,5945,Retail - hobby toy and game shops
+Rtail,5946,Retail - camera and photo shop
+Rtail,5947,Retail - gift novelty
+Rtail,5948,Retail - luggage
+Rtail,5949,Retail - sewing & needlework stores
+Rtail,5950,Retail
+Rtail,5951,Retail
+Rtail,5952,Retail
+Rtail,5953,Retail
+Rtail,5954,Retail
+Rtail,5955,Retail
+Rtail,5956,Retail
+Rtail,5957,Retail
+Rtail,5958,Retail
+Rtail,5959,Retail
+Rtail,5960,Retail - non-store retailers (catalogs etc)
+Rtail,5961,Retail - non-store retailers (catalogs etc)
+Rtail,5962,Retail - non-store retailers (catalogs etc)
+Rtail,5963,Retail - non-store retailers (catalogs etc)
+Rtail,5964,Retail - non-store retailers (catalogs etc)
+Rtail,5965,Retail - non-store retailers (catalogs etc)
+Rtail,5966,Retail - non-store retailers (catalogs etc)
+Rtail,5967,Retail - non-store retailers (catalogs etc)
+Rtail,5968,Retail - non-store retailers (catalogs etc)
+Rtail,5969,Retail - non-store retailers (catalogs etc)
+Rtail,5970,Retail
+Rtail,5971,Retail
+Rtail,5972,Retail
+Rtail,5973,Retail
+Rtail,5974,Retail
+Rtail,5975,Retail
+Rtail,5976,Retail
+Rtail,5977,Retail
+Rtail,5978,Retail
+Rtail,5979,Retail
+Rtail,5980,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5981,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5982,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5983,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5984,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5985,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5986,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5987,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5988,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5989,Retail - fuel & ice stores (Penn Central Co)
+Rtail,5990,Retail - retail stores
+Rtail,5992,Retail - florists
+Rtail,5993,Retail - tobacco stores
+Rtail,5994,Retail - newsdealers
+Rtail,5995,Retail - computer stores
+Rtail,5999,Retail stores
+Meals,5800,Retail - eating places
+Meals,5801,Retail - eating places
+Meals,5802,Retail - eating places
+Meals,5803,Retail - eating places
+Meals,5804,Retail - eating places
+Meals,5805,Retail - eating places
+Meals,5806,Retail - eating places
+Meals,5807,Retail - eating places
+Meals,5808,Retail - eating places
+Meals,5809,Retail - eating places
+Meals,5810,Retail - eating places
+Meals,5811,Retail - eating places
+Meals,5812,Retail - eating places
+Meals,5813,Retail - eating places
+Meals,5814,Retail - eating places
+Meals,5815,Retail - eating places
+Meals,5816,Retail - eating places
+Meals,5817,Retail - eating places
+Meals,5818,Retail - eating places
+Meals,5819,Retail - eating places
+Meals,5820,Restaraunts hotels motels
+Meals,5821,Restaraunts hotels motels
+Meals,5822,Restaraunts hotels motels
+Meals,5823,Restaraunts hotels motels
+Meals,5824,Restaraunts hotels motels
+Meals,5825,Restaraunts hotels motels
+Meals,5826,Restaraunts hotels motels
+Meals,5827,Restaraunts hotels motels
+Meals,5828,Restaraunts hotels motels
+Meals,5829,Restaraunts hotels motels
+Meals,5890,Eating and drinking places
+Meals,5891,Eating and drinking places
+Meals,5892,Eating and drinking places
+Meals,5893,Eating and drinking places
+Meals,5894,Eating and drinking places
+Meals,5895,Eating and drinking places
+Meals,5896,Eating and drinking places
+Meals,5897,Eating and drinking places
+Meals,5898,Eating and drinking places
+Meals,5899,Eating and drinking places
+Meals,7000,Hotels other lodging places
+Meals,7010,Hotels motels
+Meals,7011,Hotels motels
+Meals,7012,Hotels motels
+Meals,7013,Hotels motels
+Meals,7014,Hotels motels
+Meals,7015,Hotels motels
+Meals,7016,Hotels motels
+Meals,7017,Hotels motels
+Meals,7018,Hotels motels
+Meals,7019,Hotels motels
+Meals,7040,Membership hotels and lodging
+Meals,7041,Membership hotels and lodging
+Meals,7042,Membership hotels and lodging
+Meals,7043,Membership hotels and lodging
+Meals,7044,Membership hotels and lodging
+Meals,7045,Membership hotels and lodging
+Meals,7046,Membership hotels and lodging
+Meals,7047,Membership hotels and lodging
+Meals,7048,Membership hotels and lodging
+Meals,7049,Membership hotels and lodging
+Meals,7213,Services - linen
+Banks,6000,Depository institutions
+Banks,6010,Federal reserve banks
+Banks,6011,Federal reserve banks
+Banks,6012,Federal reserve banks
+Banks,6013,Federal reserve banks
+Banks,6014,Federal reserve banks
+Banks,6015,Federal reserve banks
+Banks,6016,Federal reserve banks
+Banks,6017,Federal reserve banks
+Banks,6018,Federal reserve banks
+Banks,6019,Federal reserve banks
+Banks,6020,Commercial banks
+Banks,6021,National commercial banks
+Banks,6022,State banks - Fed Res System
+Banks,6023,State banks - not Fed Res System
+Banks,6024,State banks - not Fed Res System
+Banks,6025,National banks - Fed Res System
+Banks,6026,National banks - not Fed Res System
+Banks,6027,National banks not FDIC
+Banks,6028,Banks
+Banks,6029,Banks
+Banks,6030,Savings institutions
+Banks,6031,Savings institutions
+Banks,6032,Savings institutions
+Banks,6033,Savings institutions
+Banks,6034,Savings institutions
+Banks,6035,Savings institutions
+Banks,6036,Savings institutions
+Banks,6040,Banks (?)
+Banks,6041,Banks (?)
+Banks,6042,Banks (?)
+Banks,6043,Banks (?)
+Banks,6044,Banks (?)
+Banks,6045,Banks (?)
+Banks,6046,Banks (?)
+Banks,6047,Banks (?)
+Banks,6048,Banks (?)
+Banks,6049,Banks (?)
+Banks,6050,Banks (?)
+Banks,6051,Banks (?)
+Banks,6052,Banks (?)
+Banks,6053,Banks (?)
+Banks,6054,Banks (?)
+Banks,6055,Banks (?)
+Banks,6056,Banks (?)
+Banks,6057,Banks (?)
+Banks,6058,Banks (?)
+Banks,6059,Banks (?)
+Banks,6060,Credit unions
+Banks,6061,Credit unions
+Banks,6062,Credit unions
+Banks,6080,Foreign banks
+Banks,6081,Foreign banks
+Banks,6082,Foreign banks
+Banks,6090,Functions related to deposit banking
+Banks,6091,Functions related to deposit banking
+Banks,6092,Functions related to deposit banking
+Banks,6093,Functions related to deposit banking
+Banks,6094,Functions related to deposit banking
+Banks,6095,Functions related to deposit banking
+Banks,6096,Functions related to deposit banking
+Banks,6097,Functions related to deposit banking
+Banks,6098,Functions related to deposit banking
+Banks,6099,Functions related to deposit banking
+Banks,6100,Nondepository credit institutions
+Banks,6110,Federal credit agencies
+Banks,6111,Federal credit agencies
+Banks,6112,FNMA
+Banks,6113,FNMA
+Banks,6120,S&Ls
+Banks,6121,S&Ls
+Banks,6122,S&Ls
+Banks,6123,S&Ls
+Banks,6124,S&Ls
+Banks,6125,S&Ls
+Banks,6126,S&Ls
+Banks,6127,S&Ls
+Banks,6128,S&Ls
+Banks,6129,S&Ls
+Banks,6130,Agricultural credit institutions
+Banks,6131,Agricultural credit institutions
+Banks,6132,Agricultural credit institutions
+Banks,6133,Agricultural credit institutions
+Banks,6134,Agricultural credit institutions
+Banks,6135,Agricultural credit institutions
+Banks,6136,Agricultural credit institutions
+Banks,6137,Agricultural credit institutions
+Banks,6138,Agricultural credit institutions
+Banks,6139,Agricultural credit institutions
+Banks,6140,Personal credit institutions (Beneficial)
+Banks,6141,Personal credit institutions (Beneficial)
+Banks,6142,Personal credit institutions (Beneficial)
+Banks,6143,Personal credit institutions (Beneficial)
+Banks,6144,Personal credit institutions (Beneficial)
+Banks,6145,Personal credit institutions (Beneficial)
+Banks,6146,Personal credit institutions (Beneficial)
+Banks,6147,Personal credit institutions (Beneficial)
+Banks,6148,Personal credit institutions (Beneficial)
+Banks,6149,Personal credit institutions (Beneficial)
+Banks,6150,Business credit institutions
+Banks,6151,Business credit institutions
+Banks,6152,Business credit institutions
+Banks,6153,Business credit institutions
+Banks,6154,Business credit institutions
+Banks,6155,Business credit institutions
+Banks,6156,Business credit institutions
+Banks,6157,Business credit institutions
+Banks,6158,Business credit institutions
+Banks,6159,Business credit institutions
+Banks,6160,Mortgage bankers
+Banks,6161,Mortgage bankers
+Banks,6162,Mortgage bankers
+Banks,6163,Mortgage bankers
+Banks,6164,Mortgage bankers
+Banks,6165,Mortgage bankers
+Banks,6166,Mortgage bankers
+Banks,6167,Mortgage bankers
+Banks,6168,Mortgage bankers
+Banks,6169,Mortgage bankers
+Banks,6170,Finance lessors
+Banks,6171,Finance lessors
+Banks,6172,Finance lessors
+Banks,6173,Finance lessors
+Banks,6174,Finance lessors
+Banks,6175,Finance lessors
+Banks,6176,Finance lessors
+Banks,6177,Finance lessors
+Banks,6178,Finance lessors
+Banks,6179,Finance lessors
+Banks,6190,Financial services
+Banks,6191,Financial services
+Banks,6192,Financial services
+Banks,6193,Financial services
+Banks,6194,Financial services
+Banks,6195,Financial services
+Banks,6196,Financial services
+Banks,6197,Financial services
+Banks,6198,Financial services
+Banks,6199,Financial services
+Insur,6300,Insurance
+Insur,6310,Life insurance
+Insur,6311,Life insurance
+Insur,6312,Life insurance
+Insur,6313,Life insurance
+Insur,6314,Life insurance
+Insur,6315,Life insurance
+Insur,6316,Life insurance
+Insur,6317,Life insurance
+Insur,6318,Life insurance
+Insur,6319,Life insurance
+Insur,6320,Accident and health insurance
+Insur,6321,Accident and health insurance
+Insur,6322,Accident and health insurance
+Insur,6323,Accident and health insurance
+Insur,6324,Accident and health insurance
+Insur,6325,Accident and health insurance
+Insur,6326,Accident and health insurance
+Insur,6327,Accident and health insurance
+Insur,6328,Accident and health insurance
+Insur,6329,Accident and health insurance
+Insur,6330,Fire marine property-casualty ins
+Insur,6331,Fire marine property-casualty ins
+Insur,6350,Surety insurance
+Insur,6351,Surety insurance
+Insur,6360,Title insurance
+Insur,6361,Title insurance
+Insur,6370,Pension health welfare funds
+Insur,6371,Pension health welfare funds
+Insur,6372,Pension health welfare funds
+Insur,6373,Pension health welfare funds
+Insur,6374,Pension health welfare funds
+Insur,6375,Pension health welfare funds
+Insur,6376,Pension health welfare funds
+Insur,6377,Pension health welfare funds
+Insur,6378,Pension health welfare funds
+Insur,6379,Pension health welfare funds
+Insur,6390,Insurance carriers
+Insur,6391,Insurance carriers
+Insur,6392,Insurance carriers
+Insur,6393,Insurance carriers
+Insur,6394,Insurance carriers
+Insur,6395,Insurance carriers
+Insur,6396,Insurance carriers
+Insur,6397,Insurance carriers
+Insur,6398,Insurance carriers
+Insur,6399,Insurance carriers
+Insur,6400,Insurance agents
+Insur,6401,Insurance agents
+Insur,6402,Insurance agents
+Insur,6403,Insurance agents
+Insur,6404,Insurance agents
+Insur,6405,Insurance agents
+Insur,6406,Insurance agents
+Insur,6407,Insurance agents
+Insur,6408,Insurance agents
+Insur,6409,Insurance agents
+Insur,6410,Insurance agents
+Insur,6411,Insurance agents
+RlEst,6500,Real estate
+RlEst,6510,Real estate operators
+RlEst,6512,Operators - non-resident buildings
+RlEst,6513,Operators - apartment buildings
+RlEst,6514,Operators - other than apartment
+RlEst,6515,Operators - residential mobile home
+RlEst,6517,Lessors of real property
+RlEst,6518,Lessors of real property
+RlEst,6519,Lessors of real property
+RlEst,6520,Real estate
+RlEst,6521,Real estate
+RlEst,6522,Real estate
+RlEst,6523,Real estate
+RlEst,6524,Real estate
+RlEst,6525,Real estate
+RlEst,6526,Real estate
+RlEst,6527,Real estate
+RlEst,6528,Real estate
+RlEst,6529,Real estate
+RlEst,6530,Real estate agents and managers
+RlEst,6531,Real estate agents and managers
+RlEst,6532,Real estate dealers
+RlEst,6540,Title abstract offices
+RlEst,6541,Title abstract offices
+RlEst,6550,Real estate developers
+RlEst,6551,Real estate developers
+RlEst,6552,Real estate developers
+RlEst,6553,Real estate developers
+RlEst,6590,Real estate
+RlEst,6591,Real estate
+RlEst,6592,Real estate
+RlEst,6593,Real estate
+RlEst,6594,Real estate
+RlEst,6595,Real estate
+RlEst,6596,Real estate
+RlEst,6597,Real estate
+RlEst,6598,Real estate
+RlEst,6599,Real estate
+RlEst,6610,Combined real estate insurance etc
+RlEst,6611,Combined real estate insurance etc
+Fin,6200,Security and commodity brokers
+Fin,6201,Security and commodity brokers
+Fin,6202,Security and commodity brokers
+Fin,6203,Security and commodity brokers
+Fin,6204,Security and commodity brokers
+Fin,6205,Security and commodity brokers
+Fin,6206,Security and commodity brokers
+Fin,6207,Security and commodity brokers
+Fin,6208,Security and commodity brokers
+Fin,6209,Security and commodity brokers
+Fin,6210,Security and commodity brokers
+Fin,6211,Security and commodity brokers
+Fin,6212,Security and commodity brokers
+Fin,6213,Security and commodity brokers
+Fin,6214,Security and commodity brokers
+Fin,6215,Security and commodity brokers
+Fin,6216,Security and commodity brokers
+Fin,6217,Security and commodity brokers
+Fin,6218,Security and commodity brokers
+Fin,6219,Security and commodity brokers
+Fin,6220,Security and commodity brokers
+Fin,6221,Security and commodity brokers
+Fin,6222,Security and commodity brokers
+Fin,6223,Security and commodity brokers
+Fin,6224,Security and commodity brokers
+Fin,6225,Security and commodity brokers
+Fin,6226,Security and commodity brokers
+Fin,6227,Security and commodity brokers
+Fin,6228,Security and commodity brokers
+Fin,6229,Security and commodity brokers
+Fin,6230,Security and commodity brokers
+Fin,6231,Security and commodity brokers
+Fin,6232,Security and commodity brokers
+Fin,6233,Security and commodity brokers
+Fin,6234,Security and commodity brokers
+Fin,6235,Security and commodity brokers
+Fin,6236,Security and commodity brokers
+Fin,6237,Security and commodity brokers
+Fin,6238,Security and commodity brokers
+Fin,6239,Security and commodity brokers
+Fin,6240,Security and commodity brokers
+Fin,6241,Security and commodity brokers
+Fin,6242,Security and commodity brokers
+Fin,6243,Security and commodity brokers
+Fin,6244,Security and commodity brokers
+Fin,6245,Security and commodity brokers
+Fin,6246,Security and commodity brokers
+Fin,6247,Security and commodity brokers
+Fin,6248,Security and commodity brokers
+Fin,6249,Security and commodity brokers
+Fin,6250,Security and commodity brokers
+Fin,6251,Security and commodity brokers
+Fin,6252,Security and commodity brokers
+Fin,6253,Security and commodity brokers
+Fin,6254,Security and commodity brokers
+Fin,6255,Security and commodity brokers
+Fin,6256,Security and commodity brokers
+Fin,6257,Security and commodity brokers
+Fin,6258,Security and commodity brokers
+Fin,6259,Security and commodity brokers
+Fin,6260,Security and commodity brokers
+Fin,6261,Security and commodity brokers
+Fin,6262,Security and commodity brokers
+Fin,6263,Security and commodity brokers
+Fin,6264,Security and commodity brokers
+Fin,6265,Security and commodity brokers
+Fin,6266,Security and commodity brokers
+Fin,6267,Security and commodity brokers
+Fin,6268,Security and commodity brokers
+Fin,6269,Security and commodity brokers
+Fin,6270,Security and commodity brokers
+Fin,6271,Security and commodity brokers
+Fin,6272,Security and commodity brokers
+Fin,6273,Security and commodity brokers
+Fin,6274,Security and commodity brokers
+Fin,6275,Security and commodity brokers
+Fin,6276,Security and commodity brokers
+Fin,6277,Security and commodity brokers
+Fin,6278,Security and commodity brokers
+Fin,6279,Security and commodity brokers
+Fin,6280,Security and commodity brokers
+Fin,6281,Security and commodity brokers
+Fin,6282,Security and commodity brokers
+Fin,6283,Security and commodity brokers
+Fin,6284,Security and commodity brokers
+Fin,6285,Security and commodity brokers
+Fin,6286,Security and commodity brokers
+Fin,6287,Security and commodity brokers
+Fin,6288,Security and commodity brokers
+Fin,6289,Security and commodity brokers
+Fin,6290,Security and commodity brokers
+Fin,6291,Security and commodity brokers
+Fin,6292,Security and commodity brokers
+Fin,6293,Security and commodity brokers
+Fin,6294,Security and commodity brokers
+Fin,6295,Security and commodity brokers
+Fin,6296,Security and commodity brokers
+Fin,6297,Security and commodity brokers
+Fin,6298,Security and commodity brokers
+Fin,6299,Security and commodity brokers
+Fin,6700,Holding other investment offices
+Fin,6710,Holding offices
+Fin,6711,Holding offices
+Fin,6712,Holding offices
+Fin,6713,Holding offices
+Fin,6714,Holding offices
+Fin,6715,Holding offices
+Fin,6716,Holding offices
+Fin,6717,Holding offices
+Fin,6718,Holding offices
+Fin,6719,Holding offices
+Fin,6720,Investment offices
+Fin,6721,Investment offices
+Fin,6722,Investment offices
+Fin,6723,Management investment closed-end
+Fin,6724,Unit investment trusts
+Fin,6725,Face-amount certificate offices 
+Fin,6726,Unit inv trusts closed-end
+Fin,6730,Trusts
+Fin,6731,Trusts
+Fin,6732,Trusts
+Fin,6733,Trusts
+Fin,6740,Investment offices
+Fin,6741,Investment offices
+Fin,6742,Investment offices
+Fin,6743,Investment offices
+Fin,6744,Investment offices
+Fin,6745,Investment offices
+Fin,6746,Investment offices
+Fin,6747,Investment offices
+Fin,6748,Investment offices
+Fin,6749,Investment offices
+Fin,6750,Investment offices
+Fin,6751,Investment offices
+Fin,6752,Investment offices
+Fin,6753,Investment offices
+Fin,6754,Investment offices
+Fin,6755,Investment offices
+Fin,6756,Investment offices
+Fin,6757,Investment offices
+Fin,6758,Investment offices
+Fin,6759,Investment offices
+Fin,6760,Investment offices
+Fin,6761,Investment offices
+Fin,6762,Investment offices
+Fin,6763,Investment offices
+Fin,6764,Investment offices
+Fin,6765,Investment offices
+Fin,6766,Investment offices
+Fin,6767,Investment offices
+Fin,6768,Investment offices
+Fin,6769,Investment offices
+Fin,6770,Investment offices
+Fin,6771,Investment offices
+Fin,6772,Investment offices
+Fin,6773,Investment offices
+Fin,6774,Investment offices
+Fin,6775,Investment offices
+Fin,6776,Investment offices
+Fin,6777,Investment offices
+Fin,6778,Investment offices
+Fin,6779,Investment offices
+Fin,6790,Miscellaneous investing
+Fin,6791,Miscellaneous investing
+Fin,6792,Oil royalty traders
+Fin,6793,Commodity traders
+Fin,6794,Patent owners & lessors
+Fin,6795,Mineral royalty traders
+Fin,6798,REIT
+Fin,6799,Investors NEC
+Other,4950,Sanitary services
+Other,4951,Sanitary services
+Other,4952,Sanitary services
+Other,4953,Sanitary services
+Other,4954,Sanitary services
+Other,4955,Sanitary services
+Other,4956,Sanitary services
+Other,4957,Sanitary services
+Other,4958,Sanitary services
+Other,4959,Sanitary services
+Other,4960,Steam air conditioning supplies
+Other,4961,Steam air conditioning supplies
+Other,4970,Irrigation systems
+Other,4971,Irrigation systems
+Other,4990,Cogeneration - SM power producer
+Other,4991,Cogeneration - SM power producer
