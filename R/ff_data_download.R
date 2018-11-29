@@ -11,10 +11,10 @@ ff_tidy_data <- function(file_names) {
 
   # temporary directory  ---  2018-03-16 14:55:57  -----
   r_temp_dir <- tempdir()
-  save_paths <- paste0(r_temp_dir, "\\", file_names)
+  save_paths <- file.path(r_temp_dir, file_names)
 
   # create download urls  ---  2018-03-16 14:49:08  -----
-  download_urls <- paste0(ff_ftp_url, file_names)
+  download_urls <- file.path(ff_ftp_url, file_names)
 
   # attempt to get files  ---  2018-03-16 14:49:16  -----
   sapply(download_urls, function(url){
