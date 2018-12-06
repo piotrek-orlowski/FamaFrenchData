@@ -30,7 +30,7 @@ ff_tidy_data <- function(file_names) {
   file_paths <- gsub("_CSV",".csv",file_paths)
 
   # apply to file paths  ---  2018-03-16 17:46:19  -----
-  output_list <- lapply(file_paths, ff_data_extract)
+  output_list <- lapply(file_paths, FamaFrenchData:::ff_data_extract)
 
   output <- bind_rows(output_list)
   return(output)
