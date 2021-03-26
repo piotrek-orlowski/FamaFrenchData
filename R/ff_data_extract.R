@@ -8,6 +8,9 @@ ff_data_extract <- function(file){
 
   raw_file <- readLines(file)
 
+  # remove non-ASCII strings
+  raw_file <- iconv(raw_file, sub = "")
+
   breaks_in_data <- which(sapply(raw_file, nchar)==0)
   if(length(breaks_in_data)==1){
     breaks_in_data <- c(breaks_in_data, length(raw_file)-1)
