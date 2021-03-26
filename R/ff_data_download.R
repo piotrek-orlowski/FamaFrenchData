@@ -11,6 +11,10 @@ ff_tidy_data <- function(file_names) {
 
   # temporary directory  ---  2018-03-16 14:55:57  -----
   r_temp_dir <- tempdir()
+
+  # force lowercase
+  file_names <- tolower(file_names)
+
   save_paths <- file.path(r_temp_dir, file_names)
 
   # create download urls  ---  2018-03-16 14:49:08  -----
