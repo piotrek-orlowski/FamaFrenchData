@@ -26,9 +26,9 @@ ff_data_extract <- function(file){
   file_extension <- stringr::str_sub(file,-3)
 
   # if CSV, try loading each block. if fails, remove first line, retry, as many times as necessary  ---  2018-03-16 16:07:26  -----
-  if(file_extension == "csv"){
+  if(file_extension %in% c("csv", "CSV")){
     data_blocks_list <- lapply(data_blocks_list, recursive_csv_read)
-  } else if(file_extension == "txt"){
+  } else if(file_extension %in% c("txt", "TXT")){
 
   }
 
