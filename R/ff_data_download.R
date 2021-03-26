@@ -27,7 +27,7 @@ ff_tidy_data <- function(file_names) {
 
   # unzip  ---  2018-03-16 15:14:23  -----
   file_paths <- lapply(save_paths, unzip, exdir = r_temp_dir, list = TRUE) %>% bind_rows()
-  file_paths <- file_paths$name
+  file_paths <- file_paths$Name
 
   # apply to file paths  ---  2018-03-16 17:46:19  -----
   output_list <- lapply(file_paths, FamaFrenchData:::ff_data_extract)
