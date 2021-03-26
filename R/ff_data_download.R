@@ -30,8 +30,8 @@ ff_tidy_data <- function(file_names) {
 
   # extract file paths from zip paths  ---  2018-03-16 15:16:03  -----
   file_paths <- gsub(".zip","",save_paths)
-  file_paths <- gsub("_TXT",".txt",file_paths)
-  file_paths <- gsub("_CSV",".csv",file_paths)
+  file_paths <- gsub("_txt",".txt",file_paths)
+  file_paths <- gsub("_csv",".csv",file_paths)
 
   # apply to file paths  ---  2018-03-16 17:46:19  -----
   output_list <- lapply(file_paths, FamaFrenchData:::ff_data_extract)
