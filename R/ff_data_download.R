@@ -26,7 +26,7 @@ ff_tidy_data <- function(file_names) {
   })
 
   # unzip  ---  2018-03-16 15:14:23  -----
-  sapply(save_paths, unzip, exdir = r_temp_dir)
+  new_filenames <- sapply(save_paths, unzip, exdir = r_temp_dir, list = TRUE)
 
   # extract file paths from zip paths  ---  2018-03-16 15:16:03  -----
   file_paths <- gsub(".zip","",save_paths)
