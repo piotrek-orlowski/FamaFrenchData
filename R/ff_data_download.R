@@ -26,10 +26,10 @@ ff_tidy_data <- function(file_names) {
   })
 
   # unzip  ---  2018-03-16 15:14:23  -----
-  file_paths <- lapply(save_paths, unzip, exdir = r_temp_dir, list = TRUE) %>% bind_rows()
-  file_paths <- file_paths$Name
+  file_paths <- lapply(save_paths, unzip, exdir = r_temp_dir) %>% unlist()
+  # file_paths <- file_paths$Name
 
-  file_paths <- sprintf("%s/%s", r_temp_dir, file_paths)
+  # file_paths <- sprintf("%s/%s", r_temp_dir, file_paths)
 
   # # extract file paths from zip paths  ---  2018-03-16 15:16:03  -----
   # file_paths <- gsub(".zip","",save_paths)
