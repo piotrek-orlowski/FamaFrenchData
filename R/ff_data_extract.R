@@ -124,7 +124,7 @@ ff_data_extract <- function(file){
   # add source filename  ---  2018-03-22 18:41:16  -----
   file_temp <- gsub("\\\\[^\\\\]*$","",file)
   # on linux we have to do it differently
-  file_temp <- gsub("/[^/]*$","",file)
+  file_temp <- gsub("/[^/]*$","",file_temp)
   file <- gsub(file_temp,"",file,fixed = "TRUE")
   file <- gsub("\\","",file,fixed = "TRUE")
 
