@@ -143,9 +143,9 @@ recursive_csv_read <- function(conn){
   n_skip <- 0
   while(is_error){
 
-    temp_data <- tryCatch(read.csv(file = textConnection(conn), skip = n_skip, sep = ","), error = function(e) NA_real_)
+    temp_data <- tryCatch(read.csv(file = textConnection(conn), skip = n_skip, sep = ","), error = function(e) NULL)
 
-    if(!is.na(temp_data)){
+    if(!is.null(temp_data)){
       if((nrow(temp_data) <= max_nrow) & (ncol(temp_data) > 1)){
         is_error <- FALSE
       } else {
